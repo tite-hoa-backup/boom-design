@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99A09FEA-64E9-4516-B0F7-203F86FCEFA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85BBBD0C-3FD0-4C53-A38E-07E1A2ACA0E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BA78116-41A0-45CA-9B77-92E689F7DD32",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 465
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / brandFull56",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "292EBE4B-68D5-4050-969C-C18E297AE814",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F281C1E6-ED8C-42B4-AD8B-B6069DBA9EE5",
+  "verticalSpacing": 0
+}

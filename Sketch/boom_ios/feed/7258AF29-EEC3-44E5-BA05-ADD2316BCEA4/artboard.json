@@ -35,7 +35,7 @@
     "do_objectID": "41CB34A7-2330-4281-A9CC-70A1BF6C96A3"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,8 +54,56 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A89548DF-00C5-47E5-AF98-F8EC64A797E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A403C79-3E47-4E37-9257-CDC61B869BC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06702F57-6624-4A3A-AE85-DFDE1EB35675"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B25D145C-F952-495D-8360-4839535BB25C"
+    },
+    {
+      "class": "text",
+      "id": "BC93DB71-961A-4FF0-956C-C782A8E8CBC9"
+    },
+    {
+      "class": "text",
+      "id": "8C056199-E909-4DFB-AC82-78A7BBEC9DB4"
+    },
+    {
+      "class": "text",
+      "id": "2533BC7D-5B2F-466A-AC24-6D530B4F5D5A"
+    },
+    {
+      "class": "text",
+      "id": "10EBBBE4-7031-4720-AAE1-D3F2991C4273"
+    },
+    {
+      "class": "text",
+      "id": "1D1CDA15-D855-408A-A8F0-1B20F07D8B39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBF4F2D3-C93F-4E96-8E12-86364AD9773E"
+    },
+    {
+      "class": "rectangle",
+      "id": "DF903584-A5F0-412A-A179-F20759BA709E"
+    },
+    {
+      "class": "rectangle",
+      "id": "7CC28D05-B62C-4E72-A71D-969C0A663829"
+    }
   ],
-  "name": "feed / basic / signup copy",
+  "name": "signup / phoneNumber / before",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

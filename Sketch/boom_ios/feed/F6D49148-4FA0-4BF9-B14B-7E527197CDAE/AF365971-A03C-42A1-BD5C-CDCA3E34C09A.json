@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF365971-A03C-42A1-BD5C-CDCA3E34C09A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9630CB6-9214-4740-8528-A40ED4E07779",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B73420AD-3573-4B6D-A0A0-98D0D435BB05",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 465
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / brandFull56",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C8A18C8-3457-44DB-BB86-7D8AEFC48756",
+      "overrideName": "79E0F70C-81DF-4FF4-A5C7-B5A6C9EFAD09_stringValue",
+      "value": "다음"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12A22475-28DE-481A-93C0-7E77313C22C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F281C1E6-ED8C-42B4-AD8B-B6069DBA9EE5",
+  "verticalSpacing": 0
+}

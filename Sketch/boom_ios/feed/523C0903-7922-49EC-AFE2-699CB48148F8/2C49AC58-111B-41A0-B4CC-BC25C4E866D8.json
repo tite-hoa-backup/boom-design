@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C49AC58-111B-41A0-B4CC-BC25C4E866D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CED29166-C446-4FE8-B8AC-744930D282E1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B7585F2-9FBC-4EEA-81F4-BAE9B7092BCC",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 465
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / brandFull56Opacity",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "559B654F-9394-40DB-A3C2-37B757025DC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9AA31FB6-1F6C-4098-8AF5-CC6D4A013250",
+  "verticalSpacing": 0
+}
