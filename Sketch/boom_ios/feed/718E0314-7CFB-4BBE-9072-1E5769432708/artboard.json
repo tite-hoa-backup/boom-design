@@ -89,9 +89,17 @@
     {
       "class": "text",
       "id": "FE6EB991-0AE7-4821-8F06-FC3A82DD7F8D"
+    },
+    {
+      "class": "text",
+      "id": "0D3BB35E-DEC8-453A-981E-299F8074772B"
+    },
+    {
+      "class": "text",
+      "id": "E80999AE-0AA2-4FCF-895F-694D6AFB1D4A"
     }
   ],
-  "name": "signup / nickname / before",
+  "name": "signup / password / before",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

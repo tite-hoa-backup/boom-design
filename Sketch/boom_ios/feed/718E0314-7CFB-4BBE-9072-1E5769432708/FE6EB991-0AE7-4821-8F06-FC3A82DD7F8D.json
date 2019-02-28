@@ -22,17 +22,17 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1,
+            "alignment": 0,
             "paragraphSpacing": 1
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 4,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "0/20"
+    "string": "8글자 이상의 비밀번호"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "5659ABF4-0A40-475A-B42C-B26E58B12216",
     "height": 20,
-    "width": 96,
-    "x": 247,
-    "y": 223
+    "width": 311,
+    "x": 32,
+    "y": 215
   },
-  "glyphBounds": "{{65, 4}, {31, 14}}",
+  "glyphBounds": "{{0, 4}, {130, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -99,7 +99,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1,
+          "alignment": 0,
           "paragraphSpacing": 1
         },
         "strikethroughStyle": 0,

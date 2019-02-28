@@ -26,11 +26,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 7,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "닉네임 만들기"
+    "string": "비밀번호 만들기"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 27,
     "width": 343,
     "x": 16,
-    "y": 108
+    "y": 92
   },
-  "glyphBounds": "{{121, 5}, {101, 18}}",
+  "glyphBounds": "{{113, 5}, {117, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

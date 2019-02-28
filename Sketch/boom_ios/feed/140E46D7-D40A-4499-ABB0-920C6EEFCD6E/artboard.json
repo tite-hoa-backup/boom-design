@@ -85,13 +85,9 @@
     {
       "class": "rectangle",
       "id": "5BFFD447-06DE-4D3E-8FDE-1D9EA13D0BA0"
-    },
-    {
-      "class": "text",
-      "id": "3B523B96-05A3-4D71-8BA1-DE97E5812E19"
     }
   ],
-  "name": "signup / nickname / after",
+  "name": "signup / password / after",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
