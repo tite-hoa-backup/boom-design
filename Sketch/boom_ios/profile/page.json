@@ -46,6 +46,10 @@
     {
       "class": "artboard",
       "id": "15AA5294-8DAD-4231-A0EE-FA895311564B"
+    },
+    {
+      "class": "text",
+      "id": "E6BE7F8F-E2D4-4880-9858-78AB3309709D"
     }
   ],
   "name": "profile",
