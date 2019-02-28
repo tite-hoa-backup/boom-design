@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.78,
+    "blue": 0,
+    "green": 0,
+    "red": 0
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4411,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CA20F0B-8BEC-4436-B187-516BED2E2588",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA0A02B2-8193-4FDC-842D-0AA80C05440B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5E885E6-AD52-4C5C-84FC-3C6B1FF7E257",
+    "height": 12,
+    "width": 12,
+    "x": 1466,
+    "y": -70
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2D9FFB34-597E-449C-BD94-1F9EC8C8FF8D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "FA1BBC61-76E5-4543-B767-0F0A6074B2FA"
+    }
+  ],
+  "name": "card / indicatorEachOthersMin",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE95E41E-A339-4463-8C6B-245088471C3D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3D59379D-4804-4D32-A998-2545A76E3433",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EF90BEE7-A9E0-40E8-95B0-7E9AAAA769D5",
+    "guides": [
+    ]
+  }
+}

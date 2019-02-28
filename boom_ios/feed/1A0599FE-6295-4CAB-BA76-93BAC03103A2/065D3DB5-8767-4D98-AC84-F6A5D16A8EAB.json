@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "065D3DB5-8767-4D98-AC84-F6A5D16A8EAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0914F87-E529-4D99-A771-3EF5CC6F27BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49965563-FD3C-4838-A283-D2A14A2A8C79",
+    "height": 48,
+    "width": 343,
+    "x": 16,
+    "y": 678
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / cardProfileInfoTimeStampPadding",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD17D3C2-95E0-4E70-BF4D-C7DDF141074F",
+      "overrideName": "C771D298-8921-4511-A3F7-2D7A35D016FE/0EDAC7AF-797F-4064-9248-BF0D7BD100F8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cdf78d68c7d0ae1406d0b37439bc481ff3155c9e.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A703413-966E-4216-93EA-8C2B2495E25C",
+      "overrideName": "42375C13-5929-46F9-BCB7-C4BCA97C4FA1_stringValue",
+      "value": "1시간 전"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3405215-8CCF-4B89-8513-DADEA905AC7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5D4036E-138F-4DAC-84FB-CC5AE9FF935B",
+  "verticalSpacing": 0
+}

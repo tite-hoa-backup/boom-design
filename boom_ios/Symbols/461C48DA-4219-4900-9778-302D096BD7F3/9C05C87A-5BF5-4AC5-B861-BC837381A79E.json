@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9C05C87A-5BF5-4AC5-B861-BC837381A79E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 88,
+    "x": 175,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / followerInfoSection / each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13946671-B3F7-4539-8E9C-20878D86EBCB",
+      "overrideName": "8BF71362-50A5-4D24-993F-2A6BDBA2C287_stringValue",
+      "value": "96"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "653181A8-ED49-484E-9D95-A47EA213BBD9",
+      "overrideName": "9F3A8F78-4AAD-4965-A52C-76748368157D_stringValue",
+      "value": "팔로잉"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FBE4B681-BCAA-46B1-8C56-E1C9782A5C15",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,116 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0CED22F2-AA56-42D1-8D5F-D46D437ADC10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16D9BBCB-4882-42FA-9C9D-ABB21A823237",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C80E042-CEE7-4E5A-A00D-866940260DEB",
+    "height": 14,
+    "width": 14,
+    "x": 7,
+    "y": 7
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F4F03D0B-1D13-4168-82E7-C75432FA5E1B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B42516EA-6F30-4CEC-A320-85D97158226A"
+    },
+    {
+      "class": "rectangle",
+      "id": "D20CC8E8-A187-4661-ACE6-EDF01425626F"
+    },
+    {
+      "class": "rectangle",
+      "id": "51D98A14-CF9E-4A74-B0E7-B08F2AF99367"
+    },
+    {
+      "class": "rectangle",
+      "id": "D8587051-C852-416B-BD4D-B790E5E9F514"
+    },
+    {
+      "class": "rectangle",
+      "id": "BD53B38C-E98C-4859-91F8-346D009EF322"
+    },
+    {
+      "class": "rectangle",
+      "id": "F377B698-849D-4A36-B0D7-63D4479A7ED5"
+    },
+    {
+      "class": "rectangle",
+      "id": "2F028D4A-109D-41C4-A49A-B1D6E2FF80AF"
+    },
+    {
+      "class": "rectangle",
+      "id": "D77BAB5D-33F4-4B27-9650-5696172107CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "C11A5CFC-6D6E-4F7B-8FCA-9008E772F21F"
+    }
+  ],
+  "name": "icImageAlbum",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8ED7FA1F-FE6E-45D0-B68F-1172D5F8E69E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

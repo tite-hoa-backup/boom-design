@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B434D87-4848-4BE2-94D7-8CDE865A1FE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "066F7E0E-AABB-4712-A974-FC2B17E07A9E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDB554EE-C1B5-41ED-BF9B-E51FAA4A9B8B",
+    "height": 64,
+    "width": 88,
+    "x": 88,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / followerInfoSection / each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75BEB20F-AC73-4076-A1DB-E4D83479E815",
+      "overrideName": "8BF71362-50A5-4D24-993F-2A6BDBA2C287_stringValue",
+      "value": "10k"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27541433-0A76-4B90-B4D2-76353024726F",
+      "overrideName": "9F3A8F78-4AAD-4965-A52C-76748368157D_stringValue",
+      "value": "팔로워"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "728141F3-CD50-4DC9-8047-4CDE68E85217",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FBE4B681-BCAA-46B1-8C56-E1C9782A5C15",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E4B2962-F74E-4D18-BDE4-035F7BFA8349",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A81EC82-5049-4312-B98A-6CDBB75FC6A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67B154D5-726D-4A18-8182-F04A2E6339B5",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 360
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / cardProfileInfo",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE3ECCA6-CF62-47B7-9894-C9D111ADD53F",
+      "overrideName": "59A38174-9C3C-4915-940A-243E86E1F85F/0EDAC7AF-797F-4064-9248-BF0D7BD100F8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/95f8dae4665cbfa4ac7400fe062389ef3ca8afcc.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47997D28-4861-4B19-A8E8-590C894E36EC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "60DA776D-53DD-4C86-BD61-CF7BFC9DA4B6",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7523A216-6584-4233-9D0D-C5975130969C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "434F630A-24AC-4F60-87A5-281695A54D6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A81887F0-0ABC-45DB-BEA4-BBA04745F8BB",
+    "height": 31,
+    "width": 31,
+    "x": 157.7081081081081,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BE23B51B-D96A-41EC-A6D2-89ECD4FADB18"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "66F84553-5503-4268-B56A-55978093DD86"
+    },
+    {
+      "class": "oval",
+      "id": "9B08D47A-E1CD-4B9D-B7C9-3744B5763102"
+    },
+    {
+      "class": "oval",
+      "id": "662885CE-017B-41A1-87E7-E87902342097"
+    },
+    {
+      "class": "oval",
+      "id": "9AE96288-BEEA-4060-AD34-EF826D59F39A"
+    },
+    {
+      "class": "oval",
+      "id": "FDEDE12F-8D46-4312-AA60-485AEE7B2356"
+    }
+  ],
+  "name": "Camera",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "59A1F886-BF95-404A-9B74-4080DAD5AD0A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.07976951208387,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3EFB70BD-5D47-416E-B16D-8BAE5DF34542",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.facebook.sketchplugins": {
+      "FBLayerMetadata": {
+        "FBLayout": {
+          "attributesString": "{\"alignmentX\":\"flex-start\",\"alignmentY\":\"flex-start\",\"direction\":\"column\",\"IsEnabled\":false,\"height\":\"auto\",\"isBounds\":false,\"margin\":[],\"padding\":[],\"spaceBetweenX\":false,\"spaceBetweenY\":false,\"spacingX\":null,\"spacingY\":null,\"width\":\"auto\"}"
+        }
+      }
+    }
+  }
+}

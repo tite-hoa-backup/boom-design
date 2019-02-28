@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E59F96B3-20F2-4B16-9964-1F333664B09A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C9C9CFE-F303-4BA3-A6C0-4E8D0D1CE593",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C696F8ED-E335-456B-8A9D-664FD761F006",
+    "height": 375,
+    "width": 375,
+    "x": 0,
+    "y": 144
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / cardImageFull",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4DA1B47-FFB7-425D-83D4-B34CABFEC88F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8FD02A0-6CC1-4FF1-9EBC-B54EB25C5B37",
+  "verticalSpacing": 0
+}

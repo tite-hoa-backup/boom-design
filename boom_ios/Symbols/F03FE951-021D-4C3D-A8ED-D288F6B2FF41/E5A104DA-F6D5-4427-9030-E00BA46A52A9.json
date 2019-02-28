@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5A104DA-F6D5-4427-9030-E00BA46A52A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 64,
+    "x": 348,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / topLiveProfileUserLists / each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDD719A4-66AE-4B0B-9E33-339A48927513",
+      "overrideName": "4A4BBBBD-BBDC-46C8-9400-DC285B91C646/36AB5594-F7CC-4FD5-8CC3-7F1BA763AA9C_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c4c337cf0e6bd95d0bcb87e6caeb99b3142b6b18.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2EC97DBA-3455-4B87-BE58-84962101E5D2",
+  "verticalSpacing": 0
+}

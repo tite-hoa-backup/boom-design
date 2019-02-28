@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "67A91F38-2BBD-4FA6-94B6-13F5C065E339",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "166D7521-2633-4849-B387-B683CA7CF52C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8E3BF665-B68B-4B1E-A257-4D2742CF52AC",
+    "height": 64,
+    "width": 88,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / followerInfoSection / each",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "345F20DB-1453-4E16-9313-E4FC8266D26B",
+      "overrideName": "9F3A8F78-4AAD-4965-A52C-76748368157D_stringValue",
+      "value": "게시물"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A61B482-97D9-4B3A-B481-F01FB02CAB09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FBE4B681-BCAA-46B1-8C56-E1C9782A5C15",
+  "verticalSpacing": 0
+}

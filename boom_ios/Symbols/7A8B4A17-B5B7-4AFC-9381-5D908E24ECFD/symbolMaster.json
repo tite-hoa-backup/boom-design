@@ -1,0 +1,157 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "4A572E61-E8BE-4B16-A154-749A08C0FD61",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 13971,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A8B4A17-B5B7-4AFC-9381-5D908E24ECFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5744025-C68C-4EA2-9A47-0E932DA9D5B6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83FE9EC2-41CD-4921-8DC5-0ABCA5D71A4D",
+    "height": 12,
+    "width": 60,
+    "x": 1539,
+    "y": -62
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AF8DC880-5B43-47B7-82DF-F0FDBDA4CE42"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "765BB37B-0CA3-4749-948B-B7C3234C13B3",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A28C1371-1CEE-400E-BD25-042460A6C59E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A0E0012-25E5-4579-8CBF-738D4BE7AB80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "471C413A-A3C7-421C-8E37-91BC6F792939"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7396C2FE-F571-4686-A3C1-050222E8B81F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9C1E2BE-276B-476B-935F-4C2BBE613074"
+    }
+  ],
+  "name": "card / imgIndicators",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3A0E0012-25E5-4579-8CBF-738D4BE7AB80_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "471C413A-A3C7-421C-8E37-91BC6F792939_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7396C2FE-F571-4686-A3C1-050222E8B81F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A9C1E2BE-276B-476B-935F-4C2BBE613074_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A28C1371-1CEE-400E-BD25-042460A6C59E_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8172798C-EC5C-4D2C-A3EF-B8E888101C34",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E510DD50-4E6A-456B-8332-B3D948CA4F7E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7823FFBF-1C3C-4851-B601-B2A75A777D66",
+    "guides": [
+    ]
+  }
+}
