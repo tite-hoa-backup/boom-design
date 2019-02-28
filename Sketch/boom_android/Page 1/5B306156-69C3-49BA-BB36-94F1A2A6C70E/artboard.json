@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,6 +49,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4087E857-C3E9-43CA-9424-74AE73DDB370"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11A2F94A-1F69-49B1-89F8-3A8679DB55B9"
+    }
   ],
   "name": "Android",
   "nameIsFixed": false,

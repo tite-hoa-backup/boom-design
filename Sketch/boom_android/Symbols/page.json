@@ -1,15 +1,8 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5B306156-69C3-49BA-BB36-94F1A2A6C70E",
+  "do_objectID": "BC547DDA-3593-429A-9394-8945586A85BD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,16 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 640,
-    "width": 360,
+    "height": 0,
+    "width": 0,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -39,31 +31,29 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "24CD8071-DE84-45EE-AB5B-E9C8FCD99B13"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "29FAD1D8-8283-49F2-8FE9-295458F84797"
+    }
   ],
-  "name": "Android",
+  "name": "Symbols",
   "nameIsFixed": false,
-  "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 640,
-    "name": "Android",
-    "offersLandscapeVariant": 1,
-    "width": 360
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
