@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "277A2F16-C9D7-4832-996D-16C9846E7DCA",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 1313,
     "y": -2586
@@ -56,14 +56,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "5565C2FC-C0A2-4263-AAD9-CB99EC6BA11D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F923FAC0-CF5F-44EB-B881-4A1C1EA6EF30"
-    },
-    {
-      "class": "symbolInstance",
       "id": "D0713E02-66B1-48CD-8C0D-5DC2278F81FF"
     },
     {
@@ -75,28 +67,56 @@
       "id": "9E95AF3F-EDB1-4F52-A2BB-89B794FDE50F"
     },
     {
-      "class": "text",
-      "id": "ED9F6A5A-DA39-45F5-B669-49BED1F82B76"
-    },
-    {
       "class": "symbolInstance",
       "id": "BE6503E0-D541-40A2-AC80-97A22D345F53"
     },
     {
+      "class": "text",
+      "id": "70038747-5FAC-4D46-8FBF-7ED9201C946F"
+    },
+    {
+      "class": "text",
+      "id": "1BDB5807-8C0C-424B-BCA7-D9EFA1AF6982"
+    },
+    {
+      "class": "text",
+      "id": "9705457C-2CF4-4735-8685-6D2D0B71691B"
+    },
+    {
+      "class": "text",
+      "id": "9F9A39C9-67F3-40E3-85B3-1525A48859D0"
+    },
+    {
       "class": "rectangle",
-      "id": "93B393EE-FD1E-44B8-A3EA-66E7BA4FF1BE"
+      "id": "BECABCA5-B366-4F87-AF30-BC085FED20B0"
+    },
+    {
+      "class": "rectangle",
+      "id": "893B3341-A105-4BB8-BE12-D42E9A5DA0E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "7AA41D22-8E3A-4076-B4BD-56AFE71E3BC1"
+    },
+    {
+      "class": "text",
+      "id": "50D39FA4-5BB3-4F38-8191-322FA8789BFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A71515F7-700E-47B8-8DAF-066D0E76061C"
     }
   ],
   "name": "signup / signin / before",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone XS",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

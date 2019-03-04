@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6804,
+  "changeIdentifier": 6810,
   "clippingMaskMode": 0,
   "do_objectID": "35BE49B2-D13A-47E9-9701-644533AD2390",
   "exportOptions": {
@@ -63,7 +63,7 @@
     "do_objectID": "437E80D8-CC80-4146-8C78-707A1B4C9E84"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -94,12 +94,26 @@
     {
       "class": "symbolInstance",
       "id": "5D38E9F1-BC90-456E-A06B-23C3189DBD5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31C25BF7-9AA0-4AE6-8B62-27413AF026A7"
     }
   ],
   "name": "header / basicLogoCenter",
   "nameIsFixed": true,
   "originalObjectID": "C084DC3E-AECC-4B4A-A098-314D6E275587",
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5D38E9F1-BC90-456E-A06B-23C3189DBD5E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1DBD3F3A-C409-4B60-AC90-CCFB6CE78DDC_symbolID"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -20,7 +20,7 @@
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 44
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -43,6 +43,12 @@
       "_class": "overrideValue",
       "do_objectID": "DF44D1BA-4763-4060-A86D-CCD8F78CC086",
       "overrideName": "3ED60E73-9CA1-4BBE-A50C-808E027D1989_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1C0D5A3-68D1-4855-9B4F-87B9CB6519F9",
+      "overrideName": "FBBBE698-F5A8-407A-8139-EAF6D8516249_symbolID",
       "value": ""
     }
   ],

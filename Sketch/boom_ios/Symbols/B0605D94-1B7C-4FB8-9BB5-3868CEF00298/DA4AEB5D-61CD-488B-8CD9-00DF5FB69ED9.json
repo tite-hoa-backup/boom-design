@@ -57,14 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "ic / icProfile",
+  "name": "ic / icDiscover",
   "nameIsFixed": true,
   "originalObjectID": "CF47E8BB-B02E-41E5-B731-AB9C95C700CA",
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "EB07665C-E570-463C-8B73-BD546F22A98C_symbolID",
-      "value": "5B67EA41-5EF9-41EE-BD6F-61961227AC50"
+      "value": "0E5D5500-98C6-4D7B-B60A-93D1C46CDB90"
     },
     {
       "_class": "overrideValue",

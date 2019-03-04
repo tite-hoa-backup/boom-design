@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "ABB2D431-9067-4A8F-AE37-2E255FC32CCA",
-    "height": 291,
+    "height": 216,
     "width": 375,
     "x": 0,
-    "y": 521
+    "y": 451
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,7 +34,7 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 37,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -47,6 +47,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1C83BC3B-2B32-4D44-A7FA-0F37D3E8A8B2",
+  "symbolID": "9BBD1160-3FDA-4C1E-A63D-5AB3C0232D4D",
   "verticalSpacing": 0
 }

@@ -20,7 +20,7 @@
     "height": 48,
     "width": 96,
     "x": 32,
-    "y": 179
+    "y": 155
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -76,7 +76,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

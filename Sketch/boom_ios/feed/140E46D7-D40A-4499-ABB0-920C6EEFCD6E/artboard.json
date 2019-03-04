@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0F87A001-9586-4231-8B92-FB85B5D4A7BC",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 3688,
     "y": -762
@@ -56,14 +56,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "B975490C-8892-4CC8-B999-1C513C33282B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EA0D37E2-C5C7-4970-B5AB-344C39C00CFF"
-    },
-    {
-      "class": "symbolInstance",
       "id": "5F279B97-24F2-4CA6-82FE-ABFAB984B1E4"
     },
     {
@@ -85,18 +77,22 @@
     {
       "class": "rectangle",
       "id": "5BFFD447-06DE-4D3E-8FDE-1D9EA13D0BA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D77C9400-EFA0-46F0-AFFD-752D5ACF55BB"
     }
   ],
   "name": "signup / password / after",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone XS",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

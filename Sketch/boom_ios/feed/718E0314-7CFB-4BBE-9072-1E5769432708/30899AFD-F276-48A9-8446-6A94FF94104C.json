@@ -28,11 +28,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 15,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "사용할 닉네임을 만들어주세요"
+    "string": "비밀번호를 설정해주세요"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,9 +56,9 @@
     "height": 24,
     "width": 279,
     "x": 48,
-    "y": 163
+    "y": 139
   },
-  "glyphBounds": "{{0, 5}, {198, 16}}",
+  "glyphBounds": "{{1, 5}, {164, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

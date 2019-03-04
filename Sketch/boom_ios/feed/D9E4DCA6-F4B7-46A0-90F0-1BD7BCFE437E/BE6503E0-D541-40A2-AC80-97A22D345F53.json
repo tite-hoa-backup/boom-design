@@ -20,7 +20,7 @@
     "height": 56,
     "width": 375,
     "x": 0,
-    "y": 465
+    "y": 395
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -40,7 +40,7 @@
       "value": "로그인"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 37,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

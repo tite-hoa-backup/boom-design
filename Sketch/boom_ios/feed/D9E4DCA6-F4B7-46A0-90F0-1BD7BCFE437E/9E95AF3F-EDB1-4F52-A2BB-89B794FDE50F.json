@@ -26,11 +26,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 3,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "로그인"
+    "string": "전화번호로 로그인"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 27,
     "width": 343,
     "x": 16,
-    "y": 92
+    "y": 68
   },
-  "glyphBounds": "{{147, 5}, {48, 18}}",
+  "glyphBounds": "{{103, 5}, {136, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -28,11 +28,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 3,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "스피머"
+    "string": "ㆍㆍㆍㆍㆍㆍㆍㆍㆍ"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,9 +56,9 @@
     "height": 24,
     "width": 279,
     "x": 48,
-    "y": 163
+    "y": 139
   },
-  "glyphBounds": "{{0, 5}, {43, 16}}",
+  "glyphBounds": "{{7, 11}, {121, 3}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

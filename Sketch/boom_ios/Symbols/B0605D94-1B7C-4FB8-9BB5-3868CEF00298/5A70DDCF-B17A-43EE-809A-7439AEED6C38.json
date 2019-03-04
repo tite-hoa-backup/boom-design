@@ -57,14 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ic / icSettings",
+  "name": "ic / icTrending",
   "nameIsFixed": true,
   "originalObjectID": "BA296DFB-A4E5-4EE4-A24B-5BBC10A80E85",
   "overrideValues": [
     {
       "_class": "overrideValue",
       "overrideName": "EB07665C-E570-463C-8B73-BD546F22A98C_symbolID",
-      "value": "99076E49-81AB-47F5-AABB-C2150B5ABA31"
+      "value": "0F00303D-9428-46D3-B8C3-9A35EB158FCC"
     },
     {
       "_class": "overrideValue",

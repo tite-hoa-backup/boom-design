@@ -57,8 +57,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ic / icHomeGreen",
-  "nameIsFixed": false,
+  "name": "ic / icHome",
+  "nameIsFixed": true,
   "originalObjectID": "EBFF913F-2A34-44D9-B1F0-1CDB7F8F3B2B",
   "overrideValues": [
   ],
