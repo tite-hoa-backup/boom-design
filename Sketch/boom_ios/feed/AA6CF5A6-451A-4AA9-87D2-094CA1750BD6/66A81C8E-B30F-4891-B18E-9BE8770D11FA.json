@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "66A81C8E-B30F-4891-B18E-9BE8770D11FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 80,
+    "x": 148,
+    "y": 511
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "signup / sheetSnsLogoEach",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42CCCACB-4314-490E-A099-F5A471DDFCFA",
+      "overrideName": "760B24D5-07CC-4C49-9622-8C266669525D_symbolID",
+      "value": "14B8AB05-E787-4972-9BEF-479E428ECED9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "643046E3-4B75-44CC-844F-BC14D9C01B3E",
+      "overrideName": "A6B4A31C-FDFE-4B90-A5EA-87B5CB57BDAC_stringValue",
+      "value": "인스타그램"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0EAF18C-A5DB-4C76-9DB1-8E523EA37345",
+  "verticalSpacing": 0
+}

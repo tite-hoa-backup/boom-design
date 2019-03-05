@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C22442C5-1FCA-42CB-A587-373B1C5BB66C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57C6D9CF-363A-4CCA-B8DD-6B6A7D5FC29F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "171EE70F-B75F-4C28-8944-C483C5BA8F2A",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 76
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / userInfoFollowList",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F2B9EC8-88BA-45D0-9C8B-55A6289A4F2F",
+      "overrideName": "FF3896D6-20B1-4DAD-A93B-1555EB4DB2F1/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/c0b540b7277bbe071958837f42efe2428fdb4385.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DA85E1D-6733-4CF3-9CCC-5CE800A19F64",
+      "overrideName": "8EA36332-9ADD-48FB-94D5-61F7ED2728A3_stringValue",
+      "value": "Elise Beverley"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A2D208C-BE0A-4E21-8D01-60A2EE6A891C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C58BE4E6-E526-46A9-A32C-6E24D0D1DF60",
+  "verticalSpacing": 0
+}

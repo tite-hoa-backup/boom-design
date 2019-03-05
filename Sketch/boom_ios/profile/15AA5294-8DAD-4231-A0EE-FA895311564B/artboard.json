@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7CB605B5-0083-455B-8E07-54F924F66C90",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 287,
     "y": -406
@@ -60,15 +60,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C4D2D887-725F-4C6B-9758-57CCAB968743"
-    },
-    {
-      "class": "symbolInstance",
       "id": "3E4B2962-F74E-4D18-BDE4-035F7BFA8349"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FE9543F2-1B81-411F-9EB3-EFCABA173832"
     },
     {
       "class": "symbolInstance",
@@ -83,12 +75,12 @@
       "id": "1903FD3A-8266-454F-82BA-E4C20B4400DF"
     },
     {
-      "class": "rectangle",
-      "id": "DCDD0BB5-87E5-4259-BDAB-8A27658AE521"
+      "class": "symbolInstance",
+      "id": "5537D0D4-FF02-45D9-B351-3C638992C4A8"
     },
     {
-      "class": "rectangle",
-      "id": "4ECC4E03-9585-43FE-8D36-FCC2B44B1EB2"
+      "class": "symbolInstance",
+      "id": "F4457913-B4E0-44A2-98E0-C46BFC24979C"
     },
     {
       "class": "text",
@@ -97,14 +89,6 @@
     {
       "class": "text",
       "id": "D94D7D6D-04E9-4FB4-AD2B-44A4E4617E38"
-    },
-    {
-      "class": "text",
-      "id": "048A8C05-4838-45C9-80BC-401F2764295F"
-    },
-    {
-      "class": "text",
-      "id": "B138B2A6-47D5-447B-B087-4898DF05BF33"
     },
     {
       "class": "rectangle",
@@ -124,15 +108,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "AFD1806C-DCB6-48AF-AB42-E15FCB3901AB"
+      "id": "D8DDE193-0DE4-432F-9AC5-6366D619B43A"
     }
   ],
-  "name": "profile / basic / others",
+  "name": "profile / others / basic",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone XS",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },

@@ -20,7 +20,7 @@
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 730
+    "y": 619
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -52,7 +52,7 @@
       "value": "B63B9110-A222-4AD7-8123-5B8E8C79383F"
     }
   ],
-  "resizingConstraint": 33,
+  "resizingConstraint": 37,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

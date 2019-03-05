@@ -38,6 +38,18 @@
       "do_objectID": "0D2AE3A1-0F0D-49D0-94C7-0B8316B4E9B6",
       "overrideName": "2A46886B-6DDD-4FCB-9393-8A9768F3A4C6_stringValue",
       "value": "리더보드"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9317FF12-3DC7-4023-8BE4-AE61E9E7FCE9",
+      "overrideName": "FBBBE698-F5A8-407A-8139-EAF6D8516249/4610F9EC-A916-4867-AA73-B691C2F49E4E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FBC008A-960F-4595-962F-7B52DF17F07F",
+      "overrideName": "1859C091-39E3-4F55-A468-4E8BDFC495D7/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "567C8907-4E75-46AE-A7C3-A65278507101",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C7D5C88-A115-427A-A9FA-C14F7C9066AB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91CD1282-99CE-4428-A707-A8A15627018E",
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B571263A-8C0B-4155-BDAE-2E6B63E21C1D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2B1D2A97-A461-44A0-864B-F17C3F0302C7"
+    },
+    {
+      "class": "shapePath",
+      "id": "4061C9F2-33BA-4633-83D7-7BEBFEC006BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9ACD02E-F1AC-4809-B0BF-2BD0692807C4"
+    }
+  ],
+  "name": "Instagram_logo_2016",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "67D97668-E0F1-4F23-9B27-01114B11CB98",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.885496183206107,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "928E6B74-DBEE-42D4-B353-58407D8A59A5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

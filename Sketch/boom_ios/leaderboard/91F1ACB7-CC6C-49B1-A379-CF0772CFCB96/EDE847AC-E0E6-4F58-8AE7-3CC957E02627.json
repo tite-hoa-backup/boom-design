@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDE847AC-E0E6-4F58-8AE7-3CC957E02627",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A972058-D708-4683-94F1-F0E6BD7C79EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93264BFF-AA91-44B3-9570-41946BE8E2B2",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 412
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / userInfoFollowList",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF723E1B-3924-4C9B-93C0-9CCFF90CB298",
+      "overrideName": "FF3896D6-20B1-4DAD-A93B-1555EB4DB2F1/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8d431e46064ae1db4facb031cb5b8436f7c8e193.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6038CA4-B306-489D-9ACC-ADCD24ACBB05",
+      "overrideName": "8EA36332-9ADD-48FB-94D5-61F7ED2728A3_stringValue",
+      "value": "Morganne Flaherty"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35D24473-43F9-4EAF-95C4-379C3C860F43",
+      "overrideName": "BB523898-B872-4CA7-B5CE-4E4533772130_symbolID",
+      "value": "BD15594E-FC08-4949-A6D1-157876D28DDF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "476339B5-2997-4048-B486-699889554ABD",
+      "overrideName": "BB523898-B872-4CA7-B5CE-4E4533772130/3437BF1C-D107-41F7-97EF-10CF396F79B6_stringValue",
+      "value": "7"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25042C19-FB1F-411F-BB37-A3C5CFAB3221",
+      "overrideName": "6F4888D3-8465-4293-B25D-06DFBB99D203_symbolID",
+      "value": "3C145C25-631F-4420-B1CD-C2A11B2528B9"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7AF4FF7A-36D1-45F8-A93E-BFE686EE61AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C58BE4E6-E526-46A9-A32C-6E24D0D1DF60",
+  "verticalSpacing": 0
+}

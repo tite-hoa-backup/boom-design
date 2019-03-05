@@ -35,7 +35,7 @@
     "do_objectID": "6BDF6A76-10B8-4551-B350-EFBE17A90328"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -54,6 +54,42 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "48F9D163-01F0-4CD2-8810-4D6BF61CF06D"
+    },
+    {
+      "class": "rectangle",
+      "id": "857A41CD-8085-4189-82F1-FE927505A6E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "4EE88565-06CC-4216-AE38-C3BDAB788AD5"
+    },
+    {
+      "class": "rectangle",
+      "id": "DF744208-34C0-44FC-9FF8-1E545BE92FCC"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC031793-B578-45CD-86F9-8191D21641DE"
+    },
+    {
+      "class": "rectangle",
+      "id": "9D8EC8CC-769C-4779-A493-F0E0FFD7BB9E"
+    },
+    {
+      "class": "rectangle",
+      "id": "6B075D88-BD4C-4763-84FF-A76059456DCC"
+    },
+    {
+      "class": "rectangle",
+      "id": "531E2EFA-D033-42F5-916B-DB74A4A8B28F"
+    },
+    {
+      "class": "rectangle",
+      "id": "CE445C0E-3D56-4599-AE4C-922EB76F6561"
+    },
     {
       "class": "symbolInstance",
       "id": "CDD46A2B-CA62-4B07-AF60-70046CACF41F"

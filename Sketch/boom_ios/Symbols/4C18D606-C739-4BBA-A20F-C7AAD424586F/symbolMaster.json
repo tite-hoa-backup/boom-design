@@ -108,12 +108,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "DA581667-0CE3-4193-8967-6FAC6A0690AF_symbolID"
+      "overrideName": "875AB766-0EB1-4C78-B914-F4C4D4E819C0_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "875AB766-0EB1-4C78-B914-F4C4D4E819C0_symbolID"
+      "overrideName": "DA581667-0CE3-4193-8967-6FAC6A0690AF_symbolID"
     }
   ],
   "resizesContent": true,

@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AC61D159-859B-4A44-8948-53E21A70A119",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 80,
+    "x": 244,
+    "y": 511
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "signup / sheetSnsLogoEach",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "48ECF549-28AB-4D7F-BA05-770C039BD465",
+      "overrideName": "760B24D5-07CC-4C49-9622-8C266669525D_symbolID",
+      "value": "9CE05094-5F34-4AED-8586-9B76EFF8D039"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E04CE020-F828-48EB-8CA5-EC2324C34563",
+      "overrideName": "A6B4A31C-FDFE-4B90-A5EA-87B5CB57BDAC_stringValue",
+      "value": "페이스북"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0EAF18C-A5DB-4C76-9DB1-8E523EA37345",
+  "verticalSpacing": 0
+}
