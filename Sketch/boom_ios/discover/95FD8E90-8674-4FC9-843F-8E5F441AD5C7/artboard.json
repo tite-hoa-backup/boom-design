@@ -56,31 +56,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "88549ECE-5A97-40FE-B752-F59ACD603A79"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DAA434EF-DFAF-46FD-9930-CA5E08DF1E53"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9743AA49-5548-4E03-8A56-CA6F585A96A1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B02C654A-10B7-43E8-B0DD-4A55F709AA04"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A5AE2570-DAA0-4B9B-90E0-CE4CE016EE68"
-    },
-    {
-      "class": "symbolInstance",
       "id": "8509C2E2-9294-476F-8A98-0FC31A82FAD1"
     },
     {
       "class": "symbolInstance",
       "id": "0AA2F631-397E-4C9C-8EA7-252F5A06C1D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E36E5D7E-7930-4F2B-807F-FB58F4C194CC"
     },
     {
       "class": "symbolInstance",
@@ -105,6 +89,22 @@
     {
       "class": "symbolInstance",
       "id": "45FA9C7D-A2A4-4D6A-A6CF-CF0204444FDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6FD1C126-6DC6-467F-9222-7A062FFB797C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88549ECE-5A97-40FE-B752-F59ACD603A79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAA434EF-DFAF-46FD-9930-CA5E08DF1E53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9743AA49-5548-4E03-8A56-CA6F585A96A1"
     }
   ],
   "name": "discover / resultKbdDn",

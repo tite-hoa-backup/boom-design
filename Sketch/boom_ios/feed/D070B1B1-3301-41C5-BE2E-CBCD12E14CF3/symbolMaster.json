@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 510,
+  "changeIdentifier": 741,
   "clippingMaskMode": 0,
   "do_objectID": "D070B1B1-3301-41C5-BE2E-CBCD12E14CF3",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 363,
-    "y": 150
+    "y": 5
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -52,16 +52,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "6199A87C-1C51-481C-9D6E-F39D4D8E2C40"
-    },
-    {
       "class": "symbolInstance",
       "id": "CEB31213-EC98-4619-AE5E-80428992F5EF"
-    },
-    {
-      "class": "text",
-      "id": "D860A804-6811-4618-8FDE-D28A91C460D9"
     },
     {
       "class": "symbolInstance",
@@ -70,14 +62,6 @@
     {
       "class": "symbolInstance",
       "id": "A1A96153-CAF3-4590-9D4F-2FC40560229C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7E74F5A7-FAF2-4450-8747-FA440E1EC08D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "792F5841-87C7-4446-98BE-9F0C705C1D88"
     },
     {
       "class": "symbolInstance",
@@ -90,6 +74,10 @@
     {
       "class": "symbolInstance",
       "id": "81EF3D7E-A31A-4BAE-A709-582EE8E46711"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E6EA6F7-0461-49DE-9EED-E61C813F6F90"
     }
   ],
   "name": "feed / basic",
@@ -98,22 +86,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "792F5841-87C7-4446-98BE-9F0C705C1D88_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6199A87C-1C51-481C-9D6E-F39D4D8E2C40_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "7E74F5A7-FAF2-4450-8747-FA440E1EC08D_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "1E939551-5223-4EE5-8315-220F5DFC6B3D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0E6EA6F7-0461-49DE-9EED-E61C813F6F90_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -133,11 +111,6 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D860A804-6811-4618-8FDE-D28A91C460D9_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "81EF3D7E-A31A-4BAE-A709-582EE8E46711_symbolID"
     },
     {
@@ -146,6 +119,13 @@
       "overrideName": "7A4EC87F-D7DF-4DA1-BA58-E6903412E2DA_symbolID"
     }
   ],
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

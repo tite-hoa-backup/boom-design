@@ -56,10 +56,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "14487DAD-7BE2-4738-9C80-1BB1DCBAA813"
-    },
-    {
-      "class": "symbolInstance",
       "id": "C2E5E0E2-F8BB-4D80-8EC6-3D18E78AA7F1"
     },
     {
@@ -93,6 +89,10 @@
     {
       "class": "symbolInstance",
       "id": "67684F31-FA93-4DBE-9323-961F056E1683"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "096193BE-8043-493F-A0C8-E9B7C259236F"
     }
   ],
   "name": "discover / resultKbdUp",

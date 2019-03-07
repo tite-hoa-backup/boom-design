@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "012ED951-45B4-414C-BFEA-C22F7745B163",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,7 +47,7 @@
     "height": 56,
     "width": 375,
     "x": 0,
-    "y": 412
+    "y": 500
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -48,6 +75,12 @@
       "do_objectID": "718DC988-28F5-4985-81C8-E5B468B0C01A",
       "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
       "value": "Boon-mee Yao-Yun"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B22C2F54-9EB1-4ADE-BBFB-76CF61BE478F",
+      "overrideName": "40A0FD10-742A-4BF8-93E0-994104C7E50F_symbolID",
+      "value": "3C145C25-631F-4420-B1CD-C2A11B2528B9"
     }
   ],
   "resizingConstraint": 13,

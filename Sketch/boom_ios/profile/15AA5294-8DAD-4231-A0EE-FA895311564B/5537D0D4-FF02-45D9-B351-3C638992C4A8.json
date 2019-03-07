@@ -6,6 +6,33 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -18,7 +45,7 @@
     "height": 40,
     "width": 168,
     "x": 16,
-    "y": 232
+    "y": 224
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,7 +62,7 @@
       "_class": "overrideValue",
       "do_objectID": "EDEA17D0-2E0B-46C6-9E9D-0F47D6C5F81E",
       "overrideName": "60DF8045-1126-4C37-B9F9-9448C3E81326_stringValue",
-      "value": "팔로우"
+      "value": "Follow"
     }
   ],
   "resizingConstraint": 13,

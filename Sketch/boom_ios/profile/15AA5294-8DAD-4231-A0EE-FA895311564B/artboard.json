@@ -83,32 +83,24 @@
       "id": "F4457913-B4E0-44A2-98E0-C46BFC24979C"
     },
     {
-      "class": "text",
-      "id": "FC146F00-7E57-4E10-8314-9C0649EB02C0"
-    },
-    {
-      "class": "text",
-      "id": "D94D7D6D-04E9-4FB4-AD2B-44A4E4617E38"
-    },
-    {
-      "class": "rectangle",
-      "id": "3D8567A6-326D-47A3-998D-A88042EA8DB1"
-    },
-    {
-      "class": "rectangle",
-      "id": "D4A69288-4E92-4B29-B3FB-7A295ED7122E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "01D3996A-D384-4C54-8E52-E02BF082D499"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AC06EC80-9DA3-4D3A-8B76-62AC413CD3A0"
-    },
-    {
       "class": "symbolInstance",
       "id": "D8DDE193-0DE4-432F-9AC5-6366D619B43A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CAFC590-A22A-4279-8C59-4556DCE032DD"
+    },
+    {
+      "class": "text",
+      "id": "EA3C9F9D-BBFC-4377-9263-8C048F2589B8"
+    },
+    {
+      "class": "text",
+      "id": "604C1D6A-D579-4D10-B5AF-DFECEA031A69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7CB2FF6-CEC2-4B9F-AC29-6C90B21AB113"
     }
   ],
   "name": "profile / others / basic",

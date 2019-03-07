@@ -6,6 +6,33 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -18,7 +45,7 @@
     "height": 40,
     "width": 168,
     "x": 191,
-    "y": 232
+    "y": 224
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -35,7 +62,7 @@
       "_class": "overrideValue",
       "do_objectID": "A6FCFBAF-BFDB-4E03-8D89-F9F5B11344BE",
       "overrideName": "60DF8045-1126-4C37-B9F9-9448C3E81326_stringValue",
-      "value": "보관함"
+      "value": "Archives"
     }
   ],
   "resizingConstraint": 13,

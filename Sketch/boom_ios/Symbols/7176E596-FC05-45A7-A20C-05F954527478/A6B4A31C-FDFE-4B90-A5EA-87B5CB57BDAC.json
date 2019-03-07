@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 3,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "트위터"
+    "string": "Twitter"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -78,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "42772796-8412-44B3-BA0F-1024006F4565",
-    "height": 20,
+    "height": 16,
     "width": 80,
     "x": 0,
     "y": 72
   },
-  "glyphBounds": "{{21, 4}, {37, 14}}",
+  "glyphBounds": "{{20, 3}, {40, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -118,7 +118,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 14
           }
         },

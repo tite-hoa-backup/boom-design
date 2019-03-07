@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 12
             }
           },
@@ -26,11 +26,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 3,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "팔로잉"
+    "string": "Following"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -41,6 +41,33 @@
     "_class": "exportOptions",
     "do_objectID": "741993C0-3461-4560-813A-131A147F4EE4",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6DB372F1-2D91-47DC-BEB7-0F3480288C16",
-    "height": 18,
+    "height": 14,
     "width": 64,
     "x": 0,
-    "y": 7
+    "y": 9
   },
-  "glyphBounds": "{{16, 4}, {32, 11}}",
+  "glyphBounds": "{{8, 2}, {48, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +118,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 12
           }
         },

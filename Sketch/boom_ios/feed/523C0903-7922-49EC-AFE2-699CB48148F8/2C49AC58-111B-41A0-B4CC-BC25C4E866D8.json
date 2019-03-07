@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "CED29166-C446-4FE8-B8AC-744930D282E1",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -33,6 +60,12 @@
   "name": "btn / brandFull56Opacity",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2DF8A12-07D1-43FB-BBE1-15F274333A69",
+      "overrideName": "B8FA4C5B-53DF-40CC-AB73-EC6DE03E6276_stringValue",
+      "value": "Login"
+    }
   ],
   "resizingConstraint": 37,
   "resizingType": 0,

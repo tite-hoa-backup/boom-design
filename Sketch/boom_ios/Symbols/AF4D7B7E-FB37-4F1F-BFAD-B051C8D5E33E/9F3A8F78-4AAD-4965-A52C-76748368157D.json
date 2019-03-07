@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
-              "size": 13
+              "name": "SFProDisplay-Regular",
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 3,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "레이블"
+    "string": "Posts"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -41,6 +41,33 @@
     "_class": "exportOptions",
     "do_objectID": "0B3EFB0E-BE77-4F7C-8BDD-BEA67CA84CCC",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7B9265FC-BB5F-4A92-98CA-02D3863E404C",
-    "height": 19,
+    "height": 16,
     "width": 72,
     "x": 8,
-    "y": 35
+    "y": 36
   },
-  "glyphBounds": "{{19, 4}, {35, 12}}",
+  "glyphBounds": "{{20, 3}, {32, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,11 +92,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14",
+  "name": "textRegular14B9Center",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "CECDF867-32E4-4E0B-9944-33A7D901D381",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +107,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8A82813F-EC4D-4D84-B2EC-C8465AF06CFC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,8 +118,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
-            "size": 13
+            "name": "SFProDisplay-Regular",
+            "size": 14
           }
         },
         "paragraphStyle": {

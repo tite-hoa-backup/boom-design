@@ -8,12 +8,39 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 63,
+  "changeIdentifier": 95,
   "clippingMaskMode": 0,
   "do_objectID": "7176E596-FC05-45A7-A20C-05F954527478",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -23,7 +50,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
+    "height": 88,
     "width": 80,
     "x": 991,
     "y": 695
@@ -70,12 +97,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A6B4A31C-FDFE-4B90-A5EA-87B5CB57BDAC_stringValue"
+      "overrideName": "760B24D5-07CC-4C49-9622-8C266669525D_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "760B24D5-07CC-4C49-9622-8C266669525D_symbolID"
+      "overrideName": "A6B4A31C-FDFE-4B90-A5EA-87B5CB57BDAC_stringValue"
     }
   ],
   "resizesContent": true,

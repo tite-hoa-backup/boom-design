@@ -9,13 +9,40 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 274,
+  "changeIdentifier": 317,
   "clippingMaskMode": 0,
   "do_objectID": "DF397604-4B79-46C6-B3FE-2CAF2B08C008",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "B021DE95-3134-4D9A-856C-DE7DCE581884",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -29,14 +56,14 @@
     "height": 56,
     "width": 48,
     "x": 3093,
-    "y": -91
+    "y": 68
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "2341A8CF-FB00-4E7E-AE74-C30C9232DD2D"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

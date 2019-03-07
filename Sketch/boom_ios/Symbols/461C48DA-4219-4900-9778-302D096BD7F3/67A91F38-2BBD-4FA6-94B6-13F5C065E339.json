@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "166D7521-2633-4849-B387-B683CA7CF52C",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -37,7 +64,7 @@
       "_class": "overrideValue",
       "do_objectID": "345F20DB-1453-4E16-9313-E4FC8266D26B",
       "overrideName": "9F3A8F78-4AAD-4965-A52C-76748368157D_stringValue",
-      "value": "게시물"
+      "value": "Posts"
     }
   ],
   "resizingConstraint": 63,

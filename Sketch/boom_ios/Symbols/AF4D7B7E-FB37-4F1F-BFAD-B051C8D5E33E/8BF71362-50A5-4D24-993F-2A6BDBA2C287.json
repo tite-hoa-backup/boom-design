@@ -16,13 +16,15 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
+              "name": "SFProDisplay-Bold",
               "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacing": 1
           }
         },
@@ -41,6 +43,33 @@
     "_class": "exportOptions",
     "do_objectID": "3872483E-7D5D-436B-9372-9D94EA4D0565",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,12 +80,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DF80A9F6-8BFA-4A83-A572-7330A1089B80",
-    "height": 27,
+    "height": 24,
     "width": 72,
     "x": 8,
-    "y": 8
+    "y": 12
   },
-  "glyphBounds": "{{20, 7}, {32, 15}}",
+  "glyphBounds": "{{19, 5}, {34, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,6 +99,7 @@
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "5CB12773-25A3-40A4-B733-7C1FEFA40874",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +109,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BC32810E-CA0F-4AFD-ABAD-EF050DFE2FDB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,13 +120,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Bold",
+            "name": "SFProDisplay-Bold",
             "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacing": 1
         }
       },

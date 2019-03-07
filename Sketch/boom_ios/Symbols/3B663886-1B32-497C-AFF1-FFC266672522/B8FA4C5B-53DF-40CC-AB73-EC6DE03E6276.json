@@ -16,21 +16,23 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
+              "name": "SFProDisplay-Bold",
               "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacing": 1
           }
         },
-        "length": 7,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "인증번호 받기"
+    "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -79,11 +81,11 @@
     "constrainProportions": false,
     "do_objectID": "7D6B5BCB-3233-49C1-B17E-4C1E6AC70392",
     "height": 24,
-    "width": 92,
-    "x": 141.5,
+    "width": 343,
+    "x": 16,
     "y": 16
   },
-  "glyphBounds": "{{0, 5}, {91, 16}}",
+  "glyphBounds": "{{152, 6}, {39, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -118,13 +120,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Bold",
+            "name": "SFProDisplay-Bold",
             "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacing": 1
         }
       },
@@ -132,5 +136,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

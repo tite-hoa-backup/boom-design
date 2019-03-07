@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "066F7E0E-AABB-4712-A974-FC2B17E07A9E",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -43,7 +70,7 @@
       "_class": "overrideValue",
       "do_objectID": "27541433-0A76-4B90-B4D2-76353024726F",
       "overrideName": "9F3A8F78-4AAD-4965-A52C-76748368157D_stringValue",
-      "value": "팔로워"
+      "value": "Followers"
     }
   ],
   "resizingConstraint": 63,

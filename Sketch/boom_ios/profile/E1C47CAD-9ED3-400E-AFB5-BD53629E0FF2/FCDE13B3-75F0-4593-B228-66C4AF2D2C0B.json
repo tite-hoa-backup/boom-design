@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCDE13B3-75F0-4593-B228-66C4AF2D2C0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "447C8625-9638-4083-A644-EF0901FE12EE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D424CE0-CDEB-45BB-88E8-21D38654C0E6",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 228
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / userSearchDiscoverList",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6909D979-B9DD-4DF7-AEEF-4536DD21D86B",
+      "overrideName": "FAE929CF-C148-4EB2-88E7-F70329FBBDA7/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8fb65c19677a1d8770ff89a500350d6b3aada798.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23D1E4B0-067F-4F01-9B38-4BE830B5B06B",
+      "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
+      "value": "Isak Johannesson"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E61201C1-DDC0-40F2-A5C9-E0B97A0B384F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8951B82-5172-44E2-87FB-6E0B0FE86C7C",
+  "verticalSpacing": 0
+}

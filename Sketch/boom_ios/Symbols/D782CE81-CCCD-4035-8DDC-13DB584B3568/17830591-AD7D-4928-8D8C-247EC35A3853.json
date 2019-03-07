@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.3764705882352941,
+            "green": 0.7529411764705882,
+            "red": 0.09019607843137255
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 12
             }
           },
@@ -26,11 +26,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 3,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "팔로우"
+    "string": "Follow"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -41,6 +41,33 @@
     "_class": "exportOptions",
     "do_objectID": "1F6B53B4-F7DB-44F1-87EF-6F6349CFC576",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "00E48B74-DC53-4681-81D7-6A892A4DE76B",
-    "height": 18,
+    "height": 14,
     "width": 64,
     "x": 0,
-    "y": 7
+    "y": 9
   },
-  "glyphBounds": "{{16, 4}, {32, 11}}",
+  "glyphBounds": "{{16, 2}, {32, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -84,14 +111,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.3764705882352941,
+          "green": 0.7529411764705882,
+          "red": 0.09019607843137255
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 12
           }
         },

@@ -6,6 +6,33 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -41,7 +68,7 @@
       "_class": "overrideValue",
       "do_objectID": "653181A8-ED49-484E-9D95-A47EA213BBD9",
       "overrideName": "9F3A8F78-4AAD-4965-A52C-76748368157D_stringValue",
-      "value": "팔로잉"
+      "value": "Following"
     }
   ],
   "resizingConstraint": 63,

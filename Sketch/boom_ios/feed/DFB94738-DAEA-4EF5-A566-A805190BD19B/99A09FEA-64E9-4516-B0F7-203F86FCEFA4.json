@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "85BBBD0C-3FD0-4C53-A38E-07E1A2ACA0E9",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -33,6 +60,12 @@
   "name": "btn / brandFull56",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A0432DF-E604-49D9-924C-83AFFD0499FF",
+      "overrideName": "79E0F70C-81DF-4FF4-A5C7-B5A6C9EFAD09_stringValue",
+      "value": "Get authorization number"
+    }
   ],
   "resizingConstraint": 37,
   "resizingType": 0,

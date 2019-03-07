@@ -15,6 +15,33 @@
     "_class": "exportOptions",
     "do_objectID": "EED3C879-D5C6-44FE-9097-10A79C4A3A7D",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2A3DD638-683A-44A8-B6D0-C945C13E0F44",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 838,
     "y": -762
@@ -59,12 +86,8 @@
       "id": "50D432D3-508F-4E93-BCE5-7BB8477786D6"
     },
     {
-      "class": "rectangle",
-      "id": "2D724C85-3C6B-4A84-B747-AD4DEC098067"
-    },
-    {
       "class": "symbolInstance",
-      "id": "F7E3BAE8-9350-4635-BDCC-87C188DFB546"
+      "id": "95E47F1B-DFE0-49A3-B78C-59D246C35346"
     },
     {
       "class": "rectangle",
@@ -83,12 +106,8 @@
       "id": "7FF08DFD-646B-4A59-BCF0-FA3EE866576E"
     },
     {
-      "class": "rectangle",
-      "id": "1C5993AE-417A-420E-9CB7-C68101A5E3E5"
-    },
-    {
-      "class": "text",
-      "id": "549520A1-90EF-4389-A1C8-793448103668"
+      "class": "symbolInstance",
+      "id": "CD99FF6B-1112-463D-A12B-F77BC2EC18E2"
     },
     {
       "class": "symbolInstance",
@@ -107,8 +126,8 @@
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone XS",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 16
             }
           },
@@ -41,6 +41,33 @@
     "_class": "exportOptions",
     "do_objectID": "22E2E762-D0E6-44EF-97E6-9A6F2F7B4B69",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "382F2BB3-FC5E-403E-AB1B-6969876BD5E7",
-    "height": 24,
+    "height": 19,
     "width": 48,
     "x": 0,
-    "y": 16
+    "y": 19
   },
-  "glyphBounds": "{{19, 7}, {10, 12}}",
+  "glyphBounds": "{{19, 3}, {10, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +118,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 16
           }
         },

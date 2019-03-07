@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "3ADF4A96-B8A8-4EF9-8735-23DF7D694AFD",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -37,7 +64,7 @@
       "_class": "overrideValue",
       "do_objectID": "37560CE2-CE20-4414-A732-E3CBFE37F739",
       "overrideName": "B8FA4C5B-53DF-40CC-AB73-EC6DE03E6276_stringValue",
-      "value": "다음"
+      "value": "Next"
     }
   ],
   "resizingConstraint": 37,

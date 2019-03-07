@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "AD88EAEE-6150-43CC-906F-7471E4ECC869",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,7 +47,7 @@
     "height": 56,
     "width": 375,
     "x": 0,
-    "y": 76
+    "y": 116
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -48,6 +75,12 @@
       "do_objectID": "E14BE977-1961-4432-8FD8-5B01B0079858",
       "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
       "value": "Ivan Cornejo"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B5DFDD6-A6F9-454E-B589-37BA61C2C5A2",
+      "overrideName": "40A0FD10-742A-4BF8-93E0-994104C7E50F_symbolID",
+      "value": "3C145C25-631F-4420-B1CD-C2A11B2528B9"
     }
   ],
   "resizingConstraint": 13,

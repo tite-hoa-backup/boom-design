@@ -16,21 +16,23 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
             "paragraphSpacing": 1
           }
         },
-        "length": 123,
+        "length": 202,
         "location": 0
       }
     ],
-    "string": "이름과 가난한 차 옥 우는 무덤 까닭입니다. 아스라히 옥 아름다운 북간도에 아침이 별 가득 어머님, 계집애들의 까닭입니다. 했던 이름과, 한 이름과, 딴은 밤을 가을 벌레는 소학교 계십니다. 나는 별을 아이들의 듯합니다."
+    "string": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -81,9 +83,9 @@
     "height": 80,
     "width": 343,
     "x": 16,
-    "y": 567
+    "y": 544
   },
-  "glyphBounds": "{{0, 4}, {341, 74}}",
+  "glyphBounds": "{{0, 5}, {342, 73}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,9 +94,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14",
+  "name": "textRegular14B3Left",
   "nameIsFixed": true,
-  "resizingConstraint": 47,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -106,7 +108,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "A68A12C2-1B8D-40B4-955E-CB1E6A8314F8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -118,13 +119,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
           "paragraphSpacing": 1
         }
       },

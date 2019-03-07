@@ -16,21 +16,23 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
+            "maximumLineHeight": 16,
+            "minimumLineHeight": 16,
             "paragraphSpacing": 1
           }
         },
-        "length": 2,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "이름"
+    "string": "name or description"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -41,6 +43,33 @@
     "_class": "exportOptions",
     "do_objectID": "4E26BC28-C464-40EC-8325-7FE37593E0C0",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,12 +80,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6B3AF25E-DA23-443C-BE4D-E02EFDCE5B21",
-    "height": 18,
+    "height": 16,
     "width": 223,
     "x": 64,
-    "y": 28.00000000000003
+    "y": 29.00000000000003
   },
-  "glyphBounds": "{{1, 4}, {21, 11}}",
+  "glyphBounds": "{{0, 3}, {99, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,13 +120,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SFProDisplay-Regular",
             "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
+          "maximumLineHeight": 16,
+          "minimumLineHeight": 16,
           "paragraphSpacing": 1
         }
       },

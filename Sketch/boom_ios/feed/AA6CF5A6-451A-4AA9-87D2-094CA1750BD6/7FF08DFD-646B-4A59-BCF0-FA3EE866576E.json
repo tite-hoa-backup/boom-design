@@ -16,17 +16,19 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
-              "size": 14
+              "name": "SFProDisplay-Regular",
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
             "paragraphSpacing": 1
           }
         },
-        "length": 14,
+        "length": 25,
         "location": 0
       },
       {
@@ -42,23 +44,25 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
-              "size": 14
+              "name": "SFProDisplay-Bold",
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
             "paragraphSpacing": 1
           },
           "strikethroughStyle": 0,
           "underlineStyle": 1
         },
-        "length": 3,
-        "location": 14
+        "length": 7,
+        "location": 25
       }
     ],
-    "string": "이미 계정이 있으신가요? 로그인"
+    "string": "Already have an account? Sign In"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -106,12 +110,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "98E53C28-6DF7-49C9-8EC1-F5FF2ACB485B",
-    "height": 20,
+    "height": 22,
     "width": 343,
     "x": 16,
-    "y": 740
+    "y": 624
   },
-  "glyphBounds": "{{80, 4}, {182, 14}}",
+  "glyphBounds": "{{59, 5}, {224, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -120,7 +124,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14",
+  "name": "textRegularBold16",
   "nameIsFixed": true,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -146,13 +150,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
-            "size": 14
+            "name": "SFProDisplay-Regular",
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22,
           "paragraphSpacing": 1
         }
       },

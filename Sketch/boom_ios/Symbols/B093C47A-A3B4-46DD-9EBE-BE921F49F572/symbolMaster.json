@@ -9,13 +9,40 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 227,
+  "changeIdentifier": 260,
   "clippingMaskMode": 0,
   "do_objectID": "B093C47A-A3B4-46DD-9EBE-BE921F49F572",
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "04F2B1AA-8BCC-4C89-84A2-AAF2C61E03E5",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],

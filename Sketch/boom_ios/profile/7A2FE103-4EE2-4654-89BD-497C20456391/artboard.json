@@ -87,32 +87,24 @@
       "id": "6D9CC88E-B26F-4124-81F9-0CEE55AFAE7B"
     },
     {
-      "class": "text",
-      "id": "355A8EB7-4EE2-4E51-B3BE-ACD34FA26E64"
-    },
-    {
-      "class": "text",
-      "id": "36CCEF68-2792-4B58-AA74-24ADF18145C9"
-    },
-    {
-      "class": "rectangle",
-      "id": "D20711EA-5121-41A8-8B11-D8C2686673E5"
-    },
-    {
-      "class": "rectangle",
-      "id": "2A9330FA-4F02-443C-93C2-8DE7CD7F2B47"
-    },
-    {
       "class": "symbolInstance",
-      "id": "407FD2C0-279A-4A3B-9675-8076BF49B899"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F4DB2F0C-B2D5-402B-A505-F8E02680471E"
+      "id": "0B551CA5-6ABF-46CF-99FF-EAD5B2364DA6"
     },
     {
       "class": "symbolInstance",
       "id": "8C107192-9B26-441E-9CA5-E0C568A91CF4"
+    },
+    {
+      "class": "text",
+      "id": "7793CB1A-4BF3-49FA-BF7C-C86C6B283567"
+    },
+    {
+      "class": "text",
+      "id": "6289676F-37BC-4E32-94A6-7095320F7F2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC7387FF-96D0-4DE1-BAE5-7757D48EC77B"
     }
   ],
   "name": "profile / self / basic",

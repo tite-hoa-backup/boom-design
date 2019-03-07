@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
-              "size": 16
+              "name": "SFProDisplay-Bold",
+              "size": 18
             }
           },
           "paragraphStyle": {
@@ -41,6 +41,33 @@
     "_class": "exportOptions",
     "do_objectID": "978DE203-7B26-478B-80CD-1A0831A9046E",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -51,12 +78,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F00FE0B0-F986-4E02-9108-A9509B7FD9C0",
-    "height": 24,
+    "height": 21,
     "width": 48,
     "x": 0,
-    "y": 16
+    "y": 18
   },
-  "glyphBounds": "{{20, 7}, {8, 12}}",
+  "glyphBounds": "{{20, 4}, {7, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +92,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold16",
+  "name": "textBold18",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -91,8 +118,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Bold",
-            "size": 16
+            "name": "SFProDisplay-Bold",
+            "size": 18
           }
         },
         "paragraphStyle": {

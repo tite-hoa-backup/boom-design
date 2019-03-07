@@ -15,6 +15,33 @@
     "_class": "exportOptions",
     "do_objectID": "EA272680-CA86-4F03-A793-0107BE3605C4",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,17 +52,17 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "497D6E39-93C5-4760-BE07-EBE6A8EE022A",
-    "height": 812,
+    "height": 667,
     "width": 375,
     "x": 838,
-    "y": 1974
+    "y": 1539
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "8E74B51E-9650-4746-906D-52C5FAC804B4"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -56,10 +83,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "3335A990-BB5B-4888-87BD-71F749BDB1A6"
-    },
-    {
-      "class": "symbolInstance",
       "id": "7DB33F10-FB98-4138-8F58-6BAE9FBDEE62"
     },
     {
@@ -71,40 +94,28 @@
       "id": "AE259B29-8C3C-4E26-B5AF-2F0A45370A98"
     },
     {
-      "class": "rectangle",
-      "id": "B491D90A-1E39-4920-9AC4-69C7BE986B87"
-    },
-    {
-      "class": "rectangle",
-      "id": "8A7698F7-61A6-4CD1-BA0E-9EC35527C87F"
-    },
-    {
-      "class": "text",
-      "id": "53A9FD33-14E7-491A-90C2-C838F4947982"
-    },
-    {
-      "class": "text",
-      "id": "E896F3BF-D575-4ADB-A14A-F2A3229CFF9D"
+      "class": "symbolInstance",
+      "id": "B13F3FD6-0D20-4E0F-AA5E-87DA30CDDB12"
     },
     {
       "class": "symbolInstance",
-      "id": "582FBB89-4EA3-4D6E-A906-A0DC40EDA7E8"
+      "id": "1408F4CC-A8D9-48D8-9832-BCA6829185DD"
     },
     {
       "class": "symbolInstance",
-      "id": "150D6434-DE69-41FF-91AA-8F7C1B66E968"
+      "id": "A9819093-0CC5-422C-B1BA-FCB897E6B22D"
     }
   ],
   "name": "feed / basic / detailsWriteComment",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
-    "height": 812,
-    "name": "iPhone XS",
+    "height": 667,
+    "name": "iPhone 8",
     "offersLandscapeVariant": 1,
     "width": 375
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

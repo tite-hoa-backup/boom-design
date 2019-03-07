@@ -9,33 +9,6 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6,
-            "green": 0.6,
-            "red": 0.6
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "SpoqaHanSans-Regular",
-              "size": 14
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 1,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 4,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
             "blue": 0.2,
             "green": 0.2,
             "red": 0.2
@@ -43,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
+              "name": "SFProDisplay-Bold",
               "size": 14
             }
           },
@@ -55,7 +28,7 @@
           }
         },
         "length": 2,
-        "location": 4
+        "location": 0
       },
       {
         "_class": "stringAttribute",
@@ -70,7 +43,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Regular",
+              "name": "SFProDisplay-Regular",
               "size": 14
             }
           },
@@ -81,23 +54,23 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 6,
-        "location": 6
+        "length": 7,
+        "location": 2
       },
       {
         "_class": "stringAttribute",
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "alpha": 0.87,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
+              "name": "SFProDisplay-Bold",
               "size": 14
             }
           },
@@ -109,10 +82,37 @@
           }
         },
         "length": 1,
-        "location": 12
+        "location": 9
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProDisplay-Regular",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 1,
+            "paragraphSpacing": 1
+          }
+        },
+        "length": 9,
+        "location": 10
       }
     ],
-    "string": "좋아요 16 ㆍ 댓글 4"
+    "string": "16 Likesㆍ4 Comments"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -158,12 +158,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
+    "height": 17,
     "width": 219,
     "x": 140,
-    "y": 14
+    "y": 16
   },
-  "glyphBounds": "{{104, 4}, {115, 14}}",
+  "glyphBounds": "{{81, 2}, {138, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -189,14 +189,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6,
-          "green": 0.6,
-          "red": 0.6
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Regular",
+            "name": "SFProDisplay-Bold",
             "size": 14
           }
         },

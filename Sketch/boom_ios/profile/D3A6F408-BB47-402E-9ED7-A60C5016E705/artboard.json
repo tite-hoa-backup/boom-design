@@ -61,9 +61,53 @@
     {
       "class": "symbolInstance",
       "id": "4B71F752-6BB5-4FAF-B868-3E28BBD46319"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DD92A0C-6CAE-4E41-8682-957DC0E6D478"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CF81BC4-B3CD-446E-976B-FDB8C2C3E500"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E8BDFC7-6249-4B63-9980-D312016A5C5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "396C7C8B-743B-4E81-AA11-627BB9F5AE51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37B51779-2533-4736-8FF0-B05338A9285D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9CFA406-A016-4CC8-A913-9FAB3C7A9053"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84E38701-9250-4754-8591-7D09FD830DF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B44E7F5B-6B5E-4765-844A-953F2E3A04DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CDD7307-C111-4E9E-B053-1882F4F79B66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB675DDE-914F-40AF-8FCC-DBEEB6AFDE69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E6D6150-8352-4CDD-956A-4C859C1EBD84"
     }
   ],
-  "name": "profile / self / inbox",
+  "name": "profile / self / followerList",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

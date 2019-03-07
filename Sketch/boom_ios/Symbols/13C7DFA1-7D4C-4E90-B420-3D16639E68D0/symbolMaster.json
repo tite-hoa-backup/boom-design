@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 6947,
+  "changeIdentifier": 6988,
   "clippingMaskMode": 0,
   "do_objectID": "13C7DFA1-7D4C-4E90-B420-3D16639E68D0",
   "exportOptions": {
@@ -85,15 +85,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "0F4D1175-17B7-47BA-A3EB-2A1447A66C1E"
-    },
-    {
-      "class": "symbolInstance",
       "id": "838BA2C7-AD95-47B7-8076-1721E85EDA78"
     },
     {
       "class": "text",
       "id": "F161C9EC-8320-42C2-B5AD-830627837958"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F4D1175-17B7-47BA-A3EB-2A1447A66C1E"
     }
   ],
   "name": "header / searchBefore",

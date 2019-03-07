@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "D3C706A2-2068-4AD2-9B0C-3A9431F71E3E",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -37,7 +64,7 @@
       "_class": "overrideValue",
       "do_objectID": "D2A168F4-58FD-42DE-9BD1-9D08564D293C",
       "overrideName": "B8FA4C5B-53DF-40CC-AB73-EC6DE03E6276_stringValue",
-      "value": "로그인"
+      "value": "Login"
     }
   ],
   "resizingConstraint": 37,

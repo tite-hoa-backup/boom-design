@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "8592129D-4DE8-4ACE-B4B0-18C698F28236",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -37,13 +64,25 @@
       "_class": "overrideValue",
       "do_objectID": "0D2AE3A1-0F0D-49D0-94C7-0B8316B4E9B6",
       "overrideName": "2A46886B-6DDD-4FCB-9393-8A9768F3A4C6_stringValue",
-      "value": "보관함"
+      "value": "nickname"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "1FBC008A-960F-4595-962F-7B52DF17F07F",
       "overrideName": "1859C091-39E3-4F55-A468-4E8BDFC495D7/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
       "value": "41FE2736-C363-419D-BF02-E2E74527538F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2957EEC8-A442-4EFC-9EE1-238623A32256",
+      "overrideName": "FBBBE698-F5A8-407A-8139-EAF6D8516249_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "92BF1034-3FD3-4CB2-B7BC-D2EABB3E0AC1",
+      "overrideName": "3ED60E73-9CA1-4BBE-A50C-808E027D1989_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "D4566073-0A15-4139-82A9-4B45CC4FFEBB",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,7 +47,7 @@
     "height": 56,
     "width": 375,
     "x": 0,
-    "y": 300
+    "y": 340
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -48,6 +75,12 @@
       "do_objectID": "117B67B8-4C9C-4137-8B8C-077DC56E8BF3",
       "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
       "value": "Jesús Moruga"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9722989B-713D-4F59-9803-2AF3EC7F4075",
+      "overrideName": "40A0FD10-742A-4BF8-93E0-994104C7E50F_symbolID",
+      "value": "3C145C25-631F-4420-B1CD-C2A11B2528B9"
     }
   ],
   "resizingConstraint": 13,

@@ -45,15 +45,31 @@
     },
     {
       "class": "artboard",
-      "id": "15AA5294-8DAD-4231-A0EE-FA895311564B"
+      "id": "4238B591-B6B0-4D41-9CAB-DFEF53BAAD39"
     },
     {
-      "class": "text",
-      "id": "E6BE7F8F-E2D4-4880-9858-78AB3309709D"
+      "class": "artboard",
+      "id": "15AA5294-8DAD-4231-A0EE-FA895311564B"
     },
     {
       "class": "artboard",
       "id": "D3A6F408-BB47-402E-9ED7-A60C5016E705"
+    },
+    {
+      "class": "artboard",
+      "id": "E1C47CAD-9ED3-400E-AFB5-BD53629E0FF2"
+    },
+    {
+      "class": "artboard",
+      "id": "B87B6C43-EDC1-4469-B77B-9B812E731316"
+    },
+    {
+      "class": "artboard",
+      "id": "1DE8FB87-0EA4-4A95-9E4B-C130ECE62D75"
+    },
+    {
+      "class": "artboard",
+      "id": "FF419CDA-B7DD-43B0-9355-C5220080C04C"
     }
   ],
   "name": "profile",

@@ -6,6 +6,33 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,10 +42,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 92,
+    "height": 88,
     "width": 80,
     "x": 148,
-    "y": 511
+    "y": 412
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -41,7 +68,7 @@
       "_class": "overrideValue",
       "do_objectID": "643046E3-4B75-44CC-844F-BC14D9C01B3E",
       "overrideName": "A6B4A31C-FDFE-4B90-A5EA-87B5CB57BDAC_stringValue",
-      "value": "인스타그램"
+      "value": "Instagram"
     }
   ],
   "resizingConstraint": 63,
