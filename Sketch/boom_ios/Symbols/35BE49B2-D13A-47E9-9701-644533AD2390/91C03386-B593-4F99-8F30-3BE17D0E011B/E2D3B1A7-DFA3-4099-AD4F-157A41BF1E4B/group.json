@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CB058BC5-00AD-47E9-865A-65D1FC054CF5",
-    "height": 14.15094339622642,
-    "width": 19.85454545454545,
-    "x": 42.95454545454546,
-    "y": 5.676603773584905
+    "height": 11.32075471698114,
+    "width": 15.75757575757575,
+    "x": 34.09090909090909,
+    "y": 4.541283018867924
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -58,7 +58,7 @@
       "do_objectID": "6D0812F7-380F-4B12-9139-DA7A126F3D09",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 1.886792452830189,
+      "radius": 1.509433962264151,
       "saturation": 1,
       "type": 0
     },

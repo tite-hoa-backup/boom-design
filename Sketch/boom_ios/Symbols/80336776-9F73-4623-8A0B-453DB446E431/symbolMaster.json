@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 12,
+  "changeIdentifier": 16,
   "clippingMaskMode": 0,
   "do_objectID": "80336776-9F73-4623-8A0B-453DB446E431",
   "exportOptions": {
@@ -63,6 +63,16 @@
   "name": "btn / brandPaddingCenter56",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

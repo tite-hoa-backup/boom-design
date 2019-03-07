@@ -57,9 +57,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / searchBefore",
+  "name": "header / searchAfter",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF90310D-2D42-4933-956E-BBF53D8F3438",
+      "overrideName": "DA581667-0CE3-4193-8967-6FAC6A0690AF/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
+      "value": "F1CD3676-DF72-4310-B6D4-AD4B7F038363"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -74,6 +80,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9CED3809-2828-4FF0-A770-8FEF51BAD33D",
+  "symbolID": "05024614-0755-4FE8-857E-367AF32276DD",
   "verticalSpacing": 0
 }

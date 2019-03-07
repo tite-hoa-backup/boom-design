@@ -90,40 +90,24 @@
       "id": "E1BB43A3-4DB3-4B24-A07A-0EAC74A6E3D7"
     },
     {
-      "class": "text",
-      "id": "23161ADA-1478-449F-9A7F-85C98227969B"
-    },
-    {
-      "class": "text",
-      "id": "A731CB72-A4FB-43DE-BD52-6E675C7F0EA1"
-    },
-    {
-      "class": "text",
-      "id": "F507A8EA-3B6F-4993-B628-093BE618AB80"
-    },
-    {
-      "class": "text",
-      "id": "A46A588F-575B-4A4F-89CD-0782E31C3654"
-    },
-    {
-      "class": "text",
-      "id": "2986FC49-F29C-4A9C-A89D-BD592E9FB3B6"
-    },
-    {
-      "class": "rectangle",
-      "id": "0ED31682-4FF4-41A1-9024-D1961C2C42AF"
-    },
-    {
-      "class": "rectangle",
-      "id": "6E2F7E66-28CB-4880-838C-E52AAE2F48FD"
-    },
-    {
       "class": "symbolInstance",
       "id": "99A09FEA-64E9-4516-B0F7-203F86FCEFA4"
     },
     {
       "class": "symbolInstance",
       "id": "6CF07D82-BCB8-4678-B1A2-7A9B6FCBAC02"
+    },
+    {
+      "class": "text",
+      "id": "89333F06-7AC3-4C95-92FF-22F4730BA932"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F380012-A5C9-4A8F-8B14-2D14D7B27D9A"
+    },
+    {
+      "class": "text",
+      "id": "77617709-7CAC-4860-8C57-A0CDA8C4D825"
     }
   ],
   "name": "signup / phoneNumber / after",

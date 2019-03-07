@@ -94,20 +94,16 @@
       "id": "D2E8D4DD-9B2D-4FDB-8EF7-56B0A1525E27"
     },
     {
-      "class": "text",
-      "id": "809C396C-EE16-40D3-8F1D-A227E34DDC1A"
+      "class": "symbolInstance",
+      "id": "D77C9400-EFA0-46F0-AFFD-752D5ACF55BB"
     },
     {
       "class": "text",
-      "id": "1BFCA008-4AAE-425C-B803-66E122BC83C3"
-    },
-    {
-      "class": "rectangle",
-      "id": "5BFFD447-06DE-4D3E-8FDE-1D9EA13D0BA0"
+      "id": "2D8FDF46-448C-417E-980D-451FDA51F78F"
     },
     {
       "class": "symbolInstance",
-      "id": "D77C9400-EFA0-46F0-AFFD-752D5ACF55BB"
+      "id": "2F771CBC-B330-4561-95AB-02BDE0A0AE35"
     }
   ],
   "name": "signup / password / after",

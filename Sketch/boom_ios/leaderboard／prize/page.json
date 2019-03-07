@@ -46,6 +46,14 @@
     {
       "class": "artboard",
       "id": "DD20FC6E-9F20-4FB6-A68C-E62719048978"
+    },
+    {
+      "class": "artboard",
+      "id": "9504243E-A9A2-4512-BEBE-DD2401707ECF"
+    },
+    {
+      "class": "artboard",
+      "id": "844D275B-FD5B-435C-8C79-58527810FD71"
     }
   ],
   "name": "leaderboard/prize",

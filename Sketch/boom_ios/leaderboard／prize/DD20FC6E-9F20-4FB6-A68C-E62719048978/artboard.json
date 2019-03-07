@@ -69,6 +69,34 @@
     {
       "class": "symbolInstance",
       "id": "3525C2C0-7525-47AB-968A-2AFEC6D34D30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "384E29ED-E249-4FE8-818E-9FBEB4D8C785"
+    },
+    {
+      "class": "text",
+      "id": "4915E87B-41D3-450E-AFEC-AC0BF2829C59"
+    },
+    {
+      "class": "text",
+      "id": "5C3EEE68-3F66-4157-8783-B9C571734E67"
+    },
+    {
+      "class": "rectangle",
+      "id": "885B5891-ABA8-47DF-90A1-C8BB729E945D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "139201B6-93D1-41FD-B70C-218A9CCCF722"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C580F030-ED4D-4855-AC1C-E9AC8EA19A83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E766B747-6745-461B-8D54-E68F9CDA5270"
     }
   ],
   "name": "prize / basic",

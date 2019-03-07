@@ -90,56 +90,28 @@
       "id": "09ABB616-C1DD-40A6-AB6B-7C4B4B8284A6"
     },
     {
-      "class": "text",
-      "id": "D0E4BCA2-FDF0-47F9-9AC1-0A371965E6F1"
-    },
-    {
-      "class": "text",
-      "id": "5090DC82-812A-4187-8484-D9A9DC6ED28B"
-    },
-    {
-      "class": "text",
-      "id": "CF1E6B1D-3362-4F55-BC75-7F3097B91DBE"
-    },
-    {
-      "class": "text",
-      "id": "AD5923B5-2D72-459B-A564-5EE7542833FB"
-    },
-    {
-      "class": "text",
-      "id": "5123F63C-6C12-42E8-8FC7-3B1F9F41B930"
-    },
-    {
-      "class": "rectangle",
-      "id": "CAC75F51-D383-43CD-BD01-A7313FE89E98"
-    },
-    {
-      "class": "rectangle",
-      "id": "645D0269-2FBE-465A-9694-F9BA741B5B34"
-    },
-    {
       "class": "symbolInstance",
       "id": "AF365971-A03C-42A1-BD5C-CDCA3E34C09A"
     },
     {
-      "class": "rectangle",
-      "id": "465AA113-497D-4476-8335-C616E61924C1"
+      "class": "symbolInstance",
+      "id": "0F14A065-3001-45E1-BAD8-3B134954D78E"
     },
     {
       "class": "text",
-      "id": "71FF2618-8C45-44CF-B7CA-A1500278C75F"
-    },
-    {
-      "class": "text",
-      "id": "8DE18B9B-E6A5-43B3-BB7E-2ADF9C0E54CD"
-    },
-    {
-      "class": "text",
-      "id": "8FA32717-9354-4E04-99B6-C5FF976954CA"
+      "id": "67F334C5-069C-4D92-99AE-C0C267383076"
     },
     {
       "class": "symbolInstance",
-      "id": "0F14A065-3001-45E1-BAD8-3B134954D78E"
+      "id": "C7392781-9AB5-480E-9F85-2BD1D90E1778"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8EDAE80F-4F50-4338-9D43-4F40CF1B58C8"
+    },
+    {
+      "class": "text",
+      "id": "A70B92BA-D314-45FD-BEC6-1D4F33BCD80F"
     }
   ],
   "name": "signup / phoneNumber / verificationAfter",

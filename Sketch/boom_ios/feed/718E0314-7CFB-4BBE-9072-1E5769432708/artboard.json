@@ -62,7 +62,7 @@
     "do_objectID": "DF133099-3F3D-4F6B-80DD-D52726091365"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -94,32 +94,16 @@
       "id": "E36DDA33-26BF-48D5-BDB1-CAA10513A024"
     },
     {
-      "class": "text",
-      "id": "3C120F63-60D1-4C39-B02A-896D8A2FB272"
+      "class": "symbolInstance",
+      "id": "18240E80-E6D0-4D18-BF32-5316AC6747CE"
     },
     {
       "class": "text",
-      "id": "30899AFD-F276-48A9-8446-6A94FF94104C"
-    },
-    {
-      "class": "rectangle",
-      "id": "44B31B4A-124D-4EAD-A8DB-DDD6890CC894"
-    },
-    {
-      "class": "text",
-      "id": "FE6EB991-0AE7-4821-8F06-FC3A82DD7F8D"
-    },
-    {
-      "class": "text",
-      "id": "0D3BB35E-DEC8-453A-981E-299F8074772B"
-    },
-    {
-      "class": "text",
-      "id": "E80999AE-0AA2-4FCF-895F-694D6AFB1D4A"
+      "id": "B1C672AE-85B8-44C3-933D-A22D216C6ECE"
     },
     {
       "class": "symbolInstance",
-      "id": "18240E80-E6D0-4D18-BF32-5316AC6747CE"
+      "id": "858C57A0-7F5A-4014-92C5-A1AE8A01E52D"
     }
   ],
   "name": "signup / password / before",

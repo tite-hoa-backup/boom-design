@@ -83,7 +83,7 @@
     "height": 16,
     "width": 223,
     "x": 64,
-    "y": 29.00000000000003
+    "y": 30.00000000000003
   },
   "glyphBounds": "{{0, 3}, {99, 12}}",
   "hasClippingMask": false,
@@ -94,11 +94,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular12",
+  "name": "textRegular12B3Left",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "CDF70C20-8511-4959-97D1-E29AAC1DF281",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +109,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "D918147E-8578-4C53-BA86-A3FE44A1E335",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

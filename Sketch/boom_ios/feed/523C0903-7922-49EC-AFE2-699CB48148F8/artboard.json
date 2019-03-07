@@ -62,7 +62,7 @@
     "do_objectID": "B6F2F6B3-8BB7-4580-BC8A-4939D9E4FA0F"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,28 +90,24 @@
       "id": "D1A4A58C-C42F-4D74-AA50-0F666FFC29F1"
     },
     {
-      "class": "text",
-      "id": "63D25EAA-AB92-4EA5-8B2F-EC37E7B5A7FB"
-    },
-    {
-      "class": "text",
-      "id": "9E32A258-5951-46DA-87DB-D4408B0DC60F"
-    },
-    {
-      "class": "text",
-      "id": "3B8F66B4-E081-44A0-A334-4B555700A46C"
-    },
-    {
       "class": "symbolInstance",
       "id": "2C49AC58-111B-41A0-B4CC-BC25C4E866D8"
     },
     {
-      "class": "rectangle",
-      "id": "F9D80038-5BA2-4918-923E-0D5A7E7F8942"
+      "class": "symbolInstance",
+      "id": "6A854084-8858-49A9-AC46-95319BC81718"
+    },
+    {
+      "class": "text",
+      "id": "0BA2692D-55DD-466F-BBBC-D331BB440107"
+    },
+    {
+      "class": "text",
+      "id": "575CBE4D-C37B-4A07-B7A7-EA837B42268A"
     },
     {
       "class": "symbolInstance",
-      "id": "6A854084-8858-49A9-AC46-95319BC81718"
+      "id": "AA46D3BA-FA39-4A2A-9F43-BDDF921C67EE"
     }
   ],
   "name": "signup / email / before",

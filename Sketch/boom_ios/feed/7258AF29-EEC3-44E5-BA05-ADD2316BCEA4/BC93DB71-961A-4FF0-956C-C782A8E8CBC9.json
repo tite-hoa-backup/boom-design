@@ -16,21 +16,23 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SpoqaHanSans-Bold",
+              "name": "SFProDisplay-Bold",
               "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacing": 1
           }
         },
-        "length": 10,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "전화번호로 회원가입"
+    "string": "Register by phone"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -78,12 +80,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3D665E9E-73D2-4BD9-AA1A-7B099E69433A",
-    "height": 27,
+    "height": 24,
     "width": 343,
     "x": 16,
     "y": 68
   },
-  "glyphBounds": "{{95, 5}, {152, 18}}",
+  "glyphBounds": "{{98, 4}, {147, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,11 +94,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold18",
+  "name": "textBold18B3Center",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "5CB12773-25A3-40A4-B733-7C1FEFA40874",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -106,7 +109,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B443DA20-C34E-4335-8AF5-8D8CCEDA4532",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -118,13 +120,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SpoqaHanSans-Bold",
+            "name": "SFProDisplay-Bold",
             "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacing": 1
         }
       },

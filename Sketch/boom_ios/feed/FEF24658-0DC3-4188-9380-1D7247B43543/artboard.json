@@ -62,7 +62,7 @@
     "do_objectID": "3BE08DC8-C3B8-447A-A35B-713CE668BE12"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,56 +90,28 @@
       "id": "C280270E-4417-4556-BD4A-6B49AB366E37"
     },
     {
-      "class": "text",
-      "id": "9C3B6601-DC10-4C75-8542-2EF9BF4DC5CA"
-    },
-    {
-      "class": "text",
-      "id": "4C3ECC43-45A4-4CAD-9370-319888647CD4"
-    },
-    {
-      "class": "text",
-      "id": "D60915B9-7423-4DE9-84C5-03B86C679A0D"
-    },
-    {
-      "class": "text",
-      "id": "4370AA98-9DE9-49B4-A740-5598BD82CBEF"
-    },
-    {
-      "class": "text",
-      "id": "F18C9641-53A2-4A58-8323-93576D338480"
-    },
-    {
-      "class": "text",
-      "id": "E2B34928-BDC7-48F7-8A80-A7BB1A09B828"
-    },
-    {
-      "class": "rectangle",
-      "id": "2A6E322E-78DC-4FFE-977B-1013D9843FB0"
-    },
-    {
-      "class": "rectangle",
-      "id": "A500080B-6B54-492D-9D82-386B0A5FE5F0"
-    },
-    {
-      "class": "rectangle",
-      "id": "2FA283A4-1F33-495B-BCCD-EDB6118BAF30"
+      "class": "symbolInstance",
+      "id": "F9C922BD-A055-4103-B64D-B578E009DA9B"
     },
     {
       "class": "symbolInstance",
       "id": "1E16AF6E-342C-4E65-9B0E-662948BCEE5B"
     },
     {
-      "class": "text",
-      "id": "9C9FAD6E-B214-4A9F-BCE2-9E3A2FCFEF4E"
+      "class": "symbolInstance",
+      "id": "EC58CA3D-748C-4439-AD00-97C61F72E68B"
     },
     {
       "class": "text",
-      "id": "F042DC4C-16F9-45C0-95F0-516074F56CBD"
+      "id": "0ACA4E8A-1823-4E62-A198-B723521F912D"
     },
     {
       "class": "symbolInstance",
-      "id": "EC58CA3D-748C-4439-AD00-97C61F72E68B"
+      "id": "867CB94A-3631-48B9-9DF8-CE695C803EB4"
+    },
+    {
+      "class": "text",
+      "id": "07A9FE56-76CB-44CE-8430-3BAE623DEE1D"
     }
   ],
   "name": "signup / phoneNumber / verificationBefore",

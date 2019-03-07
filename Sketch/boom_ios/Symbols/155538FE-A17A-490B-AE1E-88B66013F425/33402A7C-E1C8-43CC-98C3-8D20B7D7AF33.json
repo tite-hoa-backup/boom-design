@@ -94,11 +94,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14B3LeftKr",
+  "name": "textRegular14B3Left",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "B204EBDE-D39D-4260-AD74-E8EB02036878",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

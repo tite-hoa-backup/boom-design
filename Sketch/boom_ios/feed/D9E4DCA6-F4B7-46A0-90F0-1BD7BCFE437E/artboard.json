@@ -62,7 +62,7 @@
     "do_objectID": "B78B2CFC-6F5E-4D85-B5FC-43A59E76A5EA"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -90,48 +90,28 @@
       "id": "3DE2A628-EAED-4508-A5FB-45F57D8F3B4F"
     },
     {
-      "class": "text",
-      "id": "9E95AF3F-EDB1-4F52-A2BB-89B794FDE50F"
-    },
-    {
       "class": "symbolInstance",
       "id": "BE6503E0-D541-40A2-AC80-97A22D345F53"
     },
     {
-      "class": "text",
-      "id": "70038747-5FAC-4D46-8FBF-7ED9201C946F"
-    },
-    {
-      "class": "text",
-      "id": "1BDB5807-8C0C-424B-BCA7-D9EFA1AF6982"
-    },
-    {
-      "class": "text",
-      "id": "9705457C-2CF4-4735-8685-6D2D0B71691B"
-    },
-    {
-      "class": "text",
-      "id": "9F9A39C9-67F3-40E3-85B3-1525A48859D0"
-    },
-    {
-      "class": "rectangle",
-      "id": "BECABCA5-B366-4F87-AF30-BC085FED20B0"
-    },
-    {
-      "class": "rectangle",
-      "id": "893B3341-A105-4BB8-BE12-D42E9A5DA0E5"
-    },
-    {
-      "class": "rectangle",
-      "id": "7AA41D22-8E3A-4076-B4BD-56AFE71E3BC1"
-    },
-    {
-      "class": "text",
-      "id": "50D39FA4-5BB3-4F38-8191-322FA8789BFE"
+      "class": "symbolInstance",
+      "id": "A71515F7-700E-47B8-8DAF-066D0E76061C"
     },
     {
       "class": "symbolInstance",
-      "id": "A71515F7-700E-47B8-8DAF-066D0E76061C"
+      "id": "D7B13B8F-38CC-436C-B919-10DB2224B6B4"
+    },
+    {
+      "class": "text",
+      "id": "7F165837-DDC2-4FBE-9A94-7A886CF7E8E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A822F885-610E-4FE8-BD68-3D2A29C46B29"
+    },
+    {
+      "class": "text",
+      "id": "F641B767-ED48-45BB-AAB4-1852560F3FD2"
     }
   ],
   "name": "signup / signin / before",

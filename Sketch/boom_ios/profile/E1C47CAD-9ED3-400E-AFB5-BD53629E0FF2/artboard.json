@@ -68,22 +68,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "712A0DEC-AC8E-4B36-831D-59E23CD824BE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "81CB74FC-1DFF-4960-8030-7193800D52AC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B53149DD-64F0-47DC-B0E4-7341B0150B0B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "678A71B3-1CCA-4302-9CA5-7344307D18E9"
-    },
-    {
-      "class": "symbolInstance",
       "id": "173D8D6B-321A-4AB5-B924-094DB8A0A833"
     },
     {
@@ -108,14 +92,10 @@
     },
     {
       "class": "symbolInstance",
-      "id": "13C19CE6-0583-4B48-B72F-D1B24DAC304B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "78ED762F-51B6-4BBE-BF3E-350C7667C8B6"
+      "id": "0DCF30FB-8B9C-4C65-90F5-57E5DF83E0C6"
     }
   ],
-  "name": "profile / self / followerListModal",
+  "name": "profile / self / followerSearchExample",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

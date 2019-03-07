@@ -62,7 +62,7 @@
     "do_objectID": "5E20ACDD-FC38-4128-8AE0-BC5D230C952A"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -94,24 +94,16 @@
       "id": "97F8D9F4-66AB-40D5-8594-0AD09A104F2A"
     },
     {
-      "class": "text",
-      "id": "8BD9E988-CA29-421B-8E18-57C97FFC86E0"
+      "class": "symbolInstance",
+      "id": "A6DC1C66-628D-4571-A814-F8F4DC7363C3"
     },
     {
       "class": "text",
-      "id": "A8D2FFCC-BDA6-4E5B-8BEF-16F4C007594F"
-    },
-    {
-      "class": "rectangle",
-      "id": "A32F3C95-1F1E-47E3-8B05-EAE81EAA2952"
-    },
-    {
-      "class": "text",
-      "id": "B6C7CC3D-F826-49C0-9029-576F029E7886"
+      "id": "58C4FAE1-24E6-4B74-ABB9-CBEDFBDC86D9"
     },
     {
       "class": "symbolInstance",
-      "id": "A6DC1C66-628D-4571-A814-F8F4DC7363C3"
+      "id": "F248688B-FF23-4ED0-8DB0-BA82B213FE40"
     }
   ],
   "name": "signup / nickname / before",

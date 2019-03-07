@@ -94,24 +94,16 @@
       "id": "BD1B79E6-34BF-4ED4-8B8B-B97EACD9DF1B"
     },
     {
-      "class": "text",
-      "id": "6EEF427F-DA80-4CC0-B200-11AC72FD8061"
+      "class": "symbolInstance",
+      "id": "818B737F-AF03-4EAD-96C8-F8FE86EEBADE"
     },
     {
       "class": "text",
-      "id": "1E1C672D-E873-452A-B494-BDA0649439F5"
-    },
-    {
-      "class": "rectangle",
-      "id": "0CB24DA1-B3D1-4BBB-B27F-B371A5D1183E"
-    },
-    {
-      "class": "text",
-      "id": "CB70C652-BE36-49FE-A6EB-C2A74BCF0EC0"
+      "id": "9FCE09A9-A346-44FA-95D4-D1F0981566B8"
     },
     {
       "class": "symbolInstance",
-      "id": "818B737F-AF03-4EAD-96C8-F8FE86EEBADE"
+      "id": "30628011-8374-4DFC-BDA6-81221932004D"
     }
   ],
   "name": "signup / nickname / after",

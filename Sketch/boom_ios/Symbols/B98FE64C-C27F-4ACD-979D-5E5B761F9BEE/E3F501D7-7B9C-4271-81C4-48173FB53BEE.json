@@ -92,11 +92,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14",
+  "name": "textRegular14B9Center",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "CECDF867-32E4-4E0B-9944-33A7D901D381",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -106,7 +107,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3A48FBF4-1A83-4F35-BACF-FF4791499E0E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
