@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "930F7947-B206-4A63-B15E-ACAAF817BA52",
+  "do_objectID": "46648488-1E46-421B-BBA9-23131F87399D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "07402A43-19A2-4DFE-99B1-5A62741C01E3",
+    "do_objectID": "D1D38740-FCCD-47DF-B7CE-F98504B42D45",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "630D932D-532B-4092-82F1-470F49B1CE26",
-    "height": 40,
-    "width": 168,
-    "x": 191,
-    "y": 224
+    "do_objectID": "79D64DD6-646C-4354-A8DE-B665B1F6617A",
+    "height": 20,
+    "width": 375,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,15 +57,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / halfWidthBtn40",
+  "name": "Bars/Status Bar/Light Status Bar",
   "nameIsFixed": false,
+  "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "A6FCFBAF-BFDB-4E03-8D89-F9F5B11344BE",
-      "overrideName": "60DF8045-1126-4C37-B9F9-9448C3E81326_stringValue",
-      "value": "Archives"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -74,12 +69,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A11E92DE-21DF-4A46-B292-1CA76CF888FC",
+    "do_objectID": "90E96E45-45FE-48D6-96AD-451894C0975C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4C0C29E1-855C-4AEB-B329-E0F9066DB296",
+  "symbolID": "38E73882-9D45-4771-9049-7D43ECF59340",
   "verticalSpacing": 0
 }

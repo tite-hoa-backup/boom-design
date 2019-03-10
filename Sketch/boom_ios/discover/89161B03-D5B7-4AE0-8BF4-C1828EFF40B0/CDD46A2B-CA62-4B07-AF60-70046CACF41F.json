@@ -60,6 +60,12 @@
   "name": "header / searchBefore",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C9387EA-B207-4B99-924D-A2516A9D542F",
+      "overrideName": "F161C9EC-8320-42C2-B5AD-830627837958_stringValue",
+      "value": "Search people"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,

@@ -103,7 +103,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

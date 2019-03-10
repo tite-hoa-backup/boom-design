@@ -60,6 +60,12 @@
   "name": "header / searchBefore",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52C4B22F-36A8-418C-93B7-81A4E64DCABD",
+      "overrideName": "F161C9EC-8320-42C2-B5AD-830627837958_stringValue",
+      "value": "Search nickname's followers"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,

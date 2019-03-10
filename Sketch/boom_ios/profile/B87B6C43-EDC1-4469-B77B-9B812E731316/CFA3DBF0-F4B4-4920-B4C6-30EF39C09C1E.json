@@ -60,6 +60,12 @@
   "name": "header / searchBefore",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B6FB8DD-6350-4692-A63C-9C5B18420284",
+      "overrideName": "F161C9EC-8320-42C2-B5AD-830627837958_stringValue",
+      "value": "Search nickname's following"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
