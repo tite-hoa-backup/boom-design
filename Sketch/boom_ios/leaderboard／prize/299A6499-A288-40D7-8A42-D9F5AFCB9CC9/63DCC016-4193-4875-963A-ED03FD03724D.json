@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "63DCC016-4193-4875-963A-ED03FD03724D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF8176E2-4366-42EE-8ECE-D356636026B7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF02F596-51D0-45E4-8DE0-57AEE633B290",
+    "height": 76,
+    "width": 311,
+    "x": 32,
+    "y": 292
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / helpTextAfterLeft",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "162A98A8-F757-4DCB-B289-4759E3AB3102",
+      "overrideName": "A087AB19-5D7F-442D-8046-B4C821A557AC_stringValue",
+      "value": "0/20"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36670B3B-F06C-4C4E-8500-0CA079D323FB",
+      "overrideName": "56138721-16A2-4709-8ABB-A12350FC8CB5_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6E82F5ED-ACC7-4262-8DA4-B1C0547F0FE4",
+      "overrideName": "F019217F-0D54-4A91-8B72-17BC04B41C16_stringValue",
+      "value": "3 min video call"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "475270EF-1AAA-40AE-8473-8B08C6152A2F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "279D7399-390A-4229-8FF7-0B2D4461DB49",
+  "verticalSpacing": 0
+}

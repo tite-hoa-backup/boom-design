@@ -57,13 +57,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / brandPaddingCenter56",
-  "nameIsFixed": false,
+  "name": "btn / brandPaddingCenter56Opacity",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "DEC365B1-594A-4927-8643-98480E9BE831",
-      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_stringValue",
+      "do_objectID": "3B7389DC-B420-47C5-A7AC-8E80F38B3C41",
+      "overrideName": "ADECCDB0-1A96-4702-A009-33A234DEC452_stringValue",
+      "value": "Go!"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEE0F0EF-FC04-4815-8CBB-FFE5719614F2",
+      "overrideName": "53142B12-8D73-4B32-AB07-C937847F17A7_stringValue",
       "value": "Go!"
     }
   ],
@@ -80,6 +86,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5D94CC25-4CFC-49F5-9AAA-4ECA5676BA1E",
+  "symbolID": "CB1FFE7C-A6C0-42C9-9A18-F7E08C5695FD",
   "verticalSpacing": 0
 }
