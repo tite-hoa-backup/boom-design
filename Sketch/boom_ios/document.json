@@ -9842,7 +9842,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 229,
+        "changeIdentifier": 236,
         "clippingMaskMode": 0,
         "do_objectID": "C61B4D6C-9B1B-4D68-A2A3-1B1509BFAC93",
         "exportOptions": {
@@ -9908,10 +9908,10 @@
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "4F7FAAC4-DFD9-456D-94F8-088F920475DC",
-              "height": 18,
+              "height": 19,
               "width": 14,
               "x": 5,
-              "y": 3
+              "y": 2.5
             },
             "groupLayout": {
               "_class": "MSImmutableFreeformGroupLayout",
@@ -9946,10 +9946,10 @@
                   "_class": "rect",
                   "constrainProportions": false,
                   "do_objectID": "E2C6479D-0FF2-488A-90DC-AF23A9F1C759",
-                  "height": 1.363636363636364,
-                  "width": 5.333333333333333,
-                  "x": 4.333333333333314,
-                  "y": 16.63636363636364
+                  "height": 1.5,
+                  "width": 6,
+                  "x": 4,
+                  "y": 17
                 },
                 "hasClippingMask": false,
                 "isClosed": false,
@@ -10343,7 +10343,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 229,
+        "changeIdentifier": 236,
         "clippingMaskMode": 0,
         "do_objectID": "C61B4D6C-9B1B-4D68-A2A3-1B1509BFAC93",
         "exportOptions": {
@@ -10409,10 +10409,10 @@
               "_class": "rect",
               "constrainProportions": false,
               "do_objectID": "4F7FAAC4-DFD9-456D-94F8-088F920475DC",
-              "height": 18,
+              "height": 19,
               "width": 14,
               "x": 5,
-              "y": 3
+              "y": 2.5
             },
             "groupLayout": {
               "_class": "MSImmutableFreeformGroupLayout",
@@ -10447,10 +10447,10 @@
                   "_class": "rect",
                   "constrainProportions": false,
                   "do_objectID": "E2C6479D-0FF2-488A-90DC-AF23A9F1C759",
-                  "height": 1.363636363636364,
-                  "width": 5.333333333333333,
-                  "x": 4.333333333333314,
-                  "y": 16.63636363636364
+                  "height": 1.5,
+                  "width": 6,
+                  "x": 4,
+                  "y": 17
                 },
                 "hasClippingMask": false,
                 "isClosed": false,
@@ -58461,6 +58461,7 @@
     "feed",
     "discover",
     "leaderboard/prize",
+    "post",
     "profile",
     "Symbols"
   ]

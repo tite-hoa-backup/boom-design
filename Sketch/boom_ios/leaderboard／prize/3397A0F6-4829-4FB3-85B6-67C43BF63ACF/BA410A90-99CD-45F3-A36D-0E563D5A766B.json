@@ -69,6 +69,12 @@
       "do_objectID": "7B43E923-7A5E-4BE2-8227-76DABEF0D5DD",
       "overrideName": "1DD55B52-5A94-4FF7-9B52-836B2BC14577/1E9FF833-4EC8-4074-992F-E825C7203BC7_stringValue",
       "value": "Stop"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95898017-BC97-4C27-9ECD-2B6762C8C0A0",
+      "overrideName": "42CD11BE-C2D2-4E56-B976-94C2A281E492_stringValue",
+      "value": "Stop live prize?"
     }
   ],
   "resizingConstraint": 63,
