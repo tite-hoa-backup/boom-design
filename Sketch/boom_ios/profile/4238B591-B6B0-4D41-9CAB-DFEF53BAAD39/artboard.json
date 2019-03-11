@@ -95,10 +95,6 @@
       "id": "E98C8B5D-BD62-4023-B923-9A6978251724"
     },
     {
-      "class": "symbolInstance",
-      "id": "17963AE3-F284-4AEB-B728-AA35E5689909"
-    },
-    {
       "class": "text",
       "id": "A95936F1-691E-4E0D-8653-EE40CFF01142"
     },
@@ -117,6 +113,14 @@
     {
       "class": "symbolInstance",
       "id": "97BBB06F-0F89-44EA-AA8D-BCF5ADB1B791"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D21447A1-E37F-4F11-B1E9-476371F22FEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD2FFB0F-37B1-4485-9932-5695900F76DE"
     }
   ],
   "name": "profile / self / basicGrid",

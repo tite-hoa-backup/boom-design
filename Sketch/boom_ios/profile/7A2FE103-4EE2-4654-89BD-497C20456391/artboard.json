@@ -80,10 +80,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7D4CA69C-92B8-4E68-B599-8518BD948DDB"
-    },
-    {
-      "class": "symbolInstance",
       "id": "0B551CA5-6ABF-46CF-99FF-EAD5B2364DA6"
     },
     {
@@ -101,6 +97,14 @@
     {
       "class": "symbolInstance",
       "id": "5CAABB55-A774-4796-A374-E26B385F3BF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "661C8CBD-1BC1-4B5D-8688-5E0E0AE7C451"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D11F47B-340E-4493-BF00-F8AD1C364E22"
     }
   ],
   "name": "profile / self / basic",
