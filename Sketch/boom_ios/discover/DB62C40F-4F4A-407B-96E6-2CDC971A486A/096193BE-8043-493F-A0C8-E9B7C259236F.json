@@ -58,6 +58,12 @@
   "name": "list / header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9CBF2DF0-E4BC-401F-8935-BF2796EA122A",
+      "overrideName": "4C063D82-1393-42EC-B63F-5149B1DDC0CE_stringValue",
+      "value": "Recommendation"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
