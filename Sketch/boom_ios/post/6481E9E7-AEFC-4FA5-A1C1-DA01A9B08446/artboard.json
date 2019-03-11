@@ -79,7 +79,7 @@
       "id": "4768B8E2-1B07-4D7D-9C9B-EC55A0914D75"
     }
   ],
-  "name": "post / selectImageFromLibrary",
+  "name": "post / selectImageFromLibraryBefore",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

@@ -62,15 +62,9 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "CF0BEFB3-4E17-4B37-AF51-4DC4BD4D834F",
-      "overrideName": "7AF853B8-EE80-45C2-9840-93AEEE538B8C/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
-      "value": "41FE2736-C363-419D-BF02-E2E74527538F"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "86BCFF53-2974-4A0D-966B-66A572F9B0DB",
       "overrideName": "E9F2AEDE-F081-4477-A54B-C335203E5D4D_stringValue",
-      "value": "Camera"
+      "value": "Filter"
     }
   ],
   "resizingConstraint": 13,
