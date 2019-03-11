@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C73FA53C-83A4-49A7-84FA-F8EE4B6E18B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42871A34-52AC-4F3C-A41A-B9486E8FD1D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8A5819F-3069-46E9-86DE-E75D350DCD1B",
+    "height": 32,
+    "width": 32,
+    "x": 121,
+    "y": 19
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile / snsLogoMaskOval32",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E14D2B12-B6B4-4D14-9775-A5F9DCBB9B28",
+      "overrideName": "4A26B4C9-BBB0-4497-A4A5-C2F7811C35E8/5C8B50E2-CDDE-4EFF-9153-BCF8A2AFE204_symbolID",
+      "value": "14B8AB05-E787-4972-9BEF-479E428ECED9"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DE38F32-E10D-4DA3-84CF-033A860753F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A398DDE9-3853-4D0F-8732-E37104A90A95",
+  "verticalSpacing": 0
+}

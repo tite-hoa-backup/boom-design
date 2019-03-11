@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 42,
+  "changeIdentifier": 45,
   "clippingMaskMode": 0,
   "do_objectID": "92FCA1B4-2865-4661-9195-6687057A78BC",
   "exportOptions": {
@@ -80,6 +80,10 @@
   "layers": [
     {
       "class": "rectangle",
+      "id": "D91285B2-207B-45D3-92B2-DC9FC7EE0BB0"
+    },
+    {
+      "class": "rectangle",
       "id": "8A7698F7-61A6-4CD1-BA0E-9EC35527C87F"
     },
     {
@@ -98,6 +102,31 @@
   "name": "feed / commentAfter",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E896F3BF-D575-4ADB-A14A-F2A3229CFF9D_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "582FBB89-4EA3-4D6E-A906-A0DC40EDA7E8_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "53A9FD33-14E7-491A-90C2-C838F4947982_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E896F3BF-D575-4ADB-A14A-F2A3229CFF9D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "53A9FD33-14E7-491A-90C2-C838F4947982_stringValue"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -96,15 +96,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "77BDBD17-3365-4577-956F-662CED75DA77"
-    },
-    {
-      "class": "symbolInstance",
       "id": "EC1A8E62-6AC8-4E0A-95A9-AEE684A723C1"
     },
     {
       "class": "symbolInstance",
       "id": "CFA3DBF0-F4B4-4920-B4C6-30EF39C09C1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3973E5FB-5788-4E4C-88D1-4C05E391AB0E"
     }
   ],
   "name": "profile / self / followingList",

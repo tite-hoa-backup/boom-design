@@ -64,7 +64,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "1DD92A0C-6CAE-4E41-8682-957DC0E6D478"
+      "id": "DB675DDE-914F-40AF-8FCC-DBEEB6AFDE69"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E6D6150-8352-4CDD-956A-4C859C1EBD84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C67353AA-8A92-43BE-938D-F3BBEE06F33C"
     },
     {
       "class": "symbolInstance",
@@ -97,14 +105,6 @@
     {
       "class": "symbolInstance",
       "id": "7CDD7307-C111-4E9E-B053-1882F4F79B66"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DB675DDE-914F-40AF-8FCC-DBEEB6AFDE69"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3E6D6150-8352-4CDD-956A-4C859C1EBD84"
     }
   ],
   "name": "profile / self / followerList",
