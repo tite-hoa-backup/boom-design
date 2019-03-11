@@ -68,19 +68,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "49C8F02E-1E54-40A3-9972-C5D7E8BEFD90"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4FC38F2C-0F1B-43C0-A34B-AA7619B05BC0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "75FDC2CC-69A8-45D6-A3A0-3A15AC3E0595"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C64B19A8-7699-4454-80BB-58FA99E0B9A5"
+      "id": "0D90BFE0-F188-42DB-87A1-F881C2412CBC"
     }
   ],
   "name": "post / selectImageFromLibraryAfter",

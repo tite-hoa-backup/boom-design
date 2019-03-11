@@ -27,6 +27,8 @@
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
           "paragraphSpacing": 1
         }
       },

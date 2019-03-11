@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "49C8F02E-1E54-40A3-9972-C5D7E8BEFD90",
+  "do_objectID": "4B30D6FE-33DC-484B-A7A6-9EB70BDDD684",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DA97F266-5674-4521-B0F6-3F46CD9F0F35",
+    "do_objectID": "4D351AE4-56BD-454C-B7EF-F9804B0C87F7",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "91E6A34A-53F1-42DB-97C1-BDB09224831E",
+    "do_objectID": "1C34F06B-4398-4C4C-B43C-9871EE0234A0",
     "height": 118,
     "width": 96,
-    "x": 312,
-    "y": 496
+    "x": 16,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,9 +57,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "post / setImageFilterListEach",
-  "nameIsFixed": false,
+  "name": "post / setImageFilterListEachThis",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE6C164A-8453-4DAD-8060-20C6B38C7708",
+      "overrideName": "3E48BD25-66FF-49EF-9A8A-8A7965FE23A4_stringValue",
+      "value": "Normal"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "48D5DFFE-C23E-4643-A7CC-C5D26F05B3F9",
+    "do_objectID": "88409A91-CFC2-4652-8156-EFF1343F70A8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3F5FC965-6DDB-4B50-A192-62750E212622",
+  "symbolID": "82A8B833-A026-4667-B586-26702563929B",
   "verticalSpacing": 0
 }

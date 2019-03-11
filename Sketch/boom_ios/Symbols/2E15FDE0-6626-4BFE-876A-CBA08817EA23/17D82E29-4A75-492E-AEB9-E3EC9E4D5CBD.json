@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4FC38F2C-0F1B-43C0-A34B-AA7619B05BC0",
+  "do_objectID": "17D82E29-4A75-492E-AEB9-E3EC9E4D5CBD",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FF9FD71A-0E2F-4871-8616-204F86B368EB",
+    "do_objectID": "6D0EB261-3D25-473F-A40C-44F704B0F2D4",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F90D1FFD-4322-4D2B-85D9-58B5947DEA5A",
-    "height": 118,
-    "width": 96,
-    "x": 208,
-    "y": 496
+    "do_objectID": "C60E4B97-E5C8-499D-AECF-74AF0E5E7E54",
+    "height": 94,
+    "width": 94,
+    "x": 1,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,23 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "post / setImageFilterListEach",
+  "name": "post / selectImageBefore80",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "30F02B7F-8C7A-49DD-B550-D1915C10329D",
+    "do_objectID": "D2B9B170-1FA0-4657-8327-C7061E26D4C4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3F5FC965-6DDB-4B50-A192-62750E212622",
+  "symbolID": "2283E1FD-C14D-4230-A511-8649F2ADD466",
   "verticalSpacing": 0
 }

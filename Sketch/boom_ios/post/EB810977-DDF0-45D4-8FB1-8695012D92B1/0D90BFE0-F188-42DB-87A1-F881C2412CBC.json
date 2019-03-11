@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AFC3648B-CFB5-4170-B9DD-512EED9BF4E7",
+  "do_objectID": "0D90BFE0-F188-42DB-87A1-F881C2412CBC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -43,8 +43,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 118,
-    "width": 96,
-    "x": 328,
+    "width": 375,
+    "x": 0,
     "y": 496
   },
   "hasClippingMask": false,
@@ -55,11 +55,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "post / setImageFilterListEach",
+  "name": "post / setImageFilterRow",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -71,6 +71,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3F5FC965-6DDB-4B50-A192-62750E212622",
+  "symbolID": "E01680F8-5416-4D6B-9F58-02BDF494CBEF",
   "verticalSpacing": 0
 }

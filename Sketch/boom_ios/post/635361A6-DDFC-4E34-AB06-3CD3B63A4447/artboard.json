@@ -68,19 +68,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "AFC3648B-CFB5-4170-B9DD-512EED9BF4E7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "837632D6-D645-4204-82FB-83015445DC59"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1FEE1782-5C21-42BB-AD62-10290A5B386E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B0F7CA74-9D36-4A40-8A56-0F133F40BD62"
+      "id": "71B2DF3E-D56D-492A-AC27-4C8C11D2CF6F"
     }
   ],
   "name": "post / selectImageFromCameraAfter",
