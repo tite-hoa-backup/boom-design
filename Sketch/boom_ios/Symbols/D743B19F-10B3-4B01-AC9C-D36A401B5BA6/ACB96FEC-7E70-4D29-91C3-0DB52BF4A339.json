@@ -28,20 +28,20 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 47,
+        "length": 93,
         "location": 0
       }
     ],
-    "string": "A message should be a short,\ncomplete sentence."
+    "string": "Invite a friend and you and your\nfriend will both receive 10,000 entries.\nLimited time offer!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9C0E7EA2-E3B4-42EA-B410-3206D965EEE3",
+  "do_objectID": "ACB96FEC-7E70-4D29-91C3-0DB52BF4A339",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EDFD55B2-3FC9-4154-B86D-32B35BFE0195",
+    "do_objectID": "E761EB6C-00F9-48F8-8D7C-5E63D65D00B0",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -79,13 +79,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3C594B44-E93C-4E44-AA71-A726DC56DD50",
-    "height": 41,
+    "do_objectID": "E3276AC3-DD61-4688-9BDD-4926917C87F6",
+    "height": 62,
     "width": 238,
     "x": 16,
-    "y": 69
+    "y": 46
   },
-  "glyphBounds": "{{33, 5}, {172, 34}}",
+  "glyphBounds": "{{8, 5}, {222, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -103,12 +103,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F8958560-D1C3-4AA3-B87B-94279F5BA6D4",
+    "do_objectID": "0EF35622-0975-4F53-9C2B-ABF1B3079FFA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "7B62F853-6A49-42AD-847C-CC129C3F0E95",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

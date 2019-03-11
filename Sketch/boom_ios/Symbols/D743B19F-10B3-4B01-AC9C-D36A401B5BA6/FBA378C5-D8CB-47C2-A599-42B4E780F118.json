@@ -16,32 +16,32 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Regular",
-              "size": 14
+              "name": "SFProDisplay-Bold",
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
             "paragraphSpacing": 1
           }
         },
-        "length": 47,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "A message should be a short,\ncomplete sentence."
+    "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9C0E7EA2-E3B4-42EA-B410-3206D965EEE3",
+  "do_objectID": "FBA378C5-D8CB-47C2-A599-42B4E780F118",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EDFD55B2-3FC9-4154-B86D-32B35BFE0195",
+    "do_objectID": "291B9436-8436-42E0-AE31-C42279C5BF7E",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -79,13 +79,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3C594B44-E93C-4E44-AA71-A726DC56DD50",
-    "height": 41,
+    "do_objectID": "79570E72-64A6-40AE-A802-E51C0AEE173E",
+    "height": 22,
     "width": 238,
     "x": 16,
-    "y": 69
+    "y": 16
   },
-  "glyphBounds": "{{33, 5}, {172, 34}}",
+  "glyphBounds": "{{100, 5}, {39, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,21 +94,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14B3Center",
+  "name": "textBold16B3Center",
   "nameIsFixed": true,
   "resizingConstraint": 10,
   "resizingType": 2,
   "rotation": 0,
-  "sharedStyleID": "6D5F742F-A814-4855-9207-06350DB4B780",
+  "sharedStyleID": "418A43A9-80BE-492F-B03B-C416BCF04D9A",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F8958560-D1C3-4AA3-B87B-94279F5BA6D4",
+    "do_objectID": "AB9759B7-9986-4990-80BF-412DEB37F0B9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "03ADF3A5-F68A-43D3-B369-A14099CA1B4A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -120,15 +121,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Regular",
-            "size": 14
+            "name": "SFProDisplay-Bold",
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22,
           "paragraphSpacing": 1
         }
       },
@@ -136,5 +137,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
 }

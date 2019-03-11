@@ -4,15 +4,17 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "480D2FFD-482E-4612-A4EB-14206FA992F6",
     "green": 1,
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 2811,
+  "changeIdentifier": 6196,
   "clippingMaskMode": 0,
-  "do_objectID": "13B0966B-4DD0-4512-95D7-DABB239961B3",
+  "do_objectID": "D743B19F-10B3-4B01-AC9C-D36A401B5BA6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F8ECB82F-3E96-4DEB-9B4B-B846D8607C65",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -50,13 +52,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
+    "do_objectID": "9B8EAF43-B0E4-402C-8791-EBE6BAD08C8C",
+    "height": 168,
     "width": 270,
-    "x": 4372,
+    "x": 4976,
     "y": -303
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "59221444-8954-4C5F-93A6-6A9496DEC216"
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -64,11 +68,12 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "80226721-807D-4324-A204-A0DCE3F5AD11",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -76,39 +81,58 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "2AC087DB-DD8B-4E41-B5C1-09D55A9BFE68"
+      "id": "A3367F79-2A58-4E18-851E-2A1371F2646A"
     },
     {
-      "class": "rectangle",
-      "id": "B491D90A-1E39-4920-9AC4-69C7BE986B87"
+      "class": "symbolInstance",
+      "id": "79FEAEFE-1740-42A9-B033-D15B6C118DE3"
     },
     {
       "class": "text",
-      "id": "2C811087-F567-4F8A-B399-93C744CB78F9"
+      "id": "ACB96FEC-7E70-4D29-91C3-0DB52BF4A339"
+    },
+    {
+      "class": "text",
+      "id": "FBA378C5-D8CB-47C2-A599-42B4E780F118"
     }
   ],
-  "name": "Views/Alerts/_/Primary Action",
+  "name": "Views/Alerts/Default 3 Lines",
   "nameIsFixed": true,
-  "originalObjectID": "D2F33AD0-0A15-4168-82B9-01AE09C4FD27",
+  "originalObjectID": "7EF09F0E-0DCA-4B7B-A33F-049553A0995B",
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2C811087-F567-4F8A-B399-93C744CB78F9_stringValue"
+      "overrideName": "A3367F79-2A58-4E18-851E-2A1371F2646A_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2AC087DB-DD8B-4E41-B5C1-09D55A9BFE68_image"
+      "overrideName": "79FEAEFE-1740-42A9-B033-D15B6C118DE3_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "2AC087DB-DD8B-4E41-B5C1-09D55A9BFE68_layerStyle"
+      "overrideName": "ACB96FEC-7E70-4D29-91C3-0DB52BF4A339_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FBA378C5-D8CB-47C2-A599-42B4E780F118_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ACB96FEC-7E70-4D29-91C3-0DB52BF4A339_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FBA378C5-D8CB-47C2-A599-42B4E780F118_textStyle"
     }
   ],
   "resizesContent": true,
@@ -118,12 +142,13 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "B8F640C3-11A1-4451-A5D7-5E26DD8A035B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A02B8818-5CFD-465B-9E1F-D00B6E0D1BAD",
+  "symbolID": "CAA9A2B1-29F2-4637-A81F-B72FF96A7B86",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
@@ -133,6 +158,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "514DCA7B-C408-4974-A9F8-1695755DFAB0",
     "guides": [
     ]
   }

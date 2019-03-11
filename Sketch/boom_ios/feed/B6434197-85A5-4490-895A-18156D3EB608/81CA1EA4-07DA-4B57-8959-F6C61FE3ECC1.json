@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "10C0F932-F8C7-41BC-95D0-E5D41E037A03",
+  "do_objectID": "81CA1EA4-07DA-4B57-8959-F6C61FE3ECC1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1BEB79CF-FF8B-475F-ABF7-9B8DA25AAB73",
+    "do_objectID": "93CDA60A-1054-48D8-8138-12F31A690747",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CF014275-813E-48A8-8958-8C85E8F0A562",
-    "height": 44,
-    "width": 270,
+    "do_objectID": "64C834CE-9D05-42E0-B792-A43CB1A271E4",
+    "height": 667,
+    "width": 375,
     "x": 0,
-    "y": 191
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,24 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Primary Action",
-  "nameIsFixed": true,
-  "originalObjectID": "5AD566F2-F5CD-406B-921B-C61B1BE94C72",
+  "name": "actionSheet / actionSheetBlack38Layer",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 10,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F34BA8BD-73D4-4354-82C6-766AA9DC600F",
+    "do_objectID": "D9FDF565-4148-427F-B5E8-CDFACC140DBC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A02B8818-5CFD-465B-9E1F-D00B6E0D1BAD",
+  "symbolID": "4A7706A5-6251-4DE7-9E1E-A692882BAD23",
   "verticalSpacing": 0
 }

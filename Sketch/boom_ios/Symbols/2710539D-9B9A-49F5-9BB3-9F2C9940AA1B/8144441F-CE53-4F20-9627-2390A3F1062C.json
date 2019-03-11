@@ -47,7 +47,7 @@
     "height": 44,
     "width": 270,
     "x": 0,
-    "y": 128
+    "y": 126
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -62,7 +62,7 @@
   "originalObjectID": "40D9E2CD-4DA5-470F-ABB7-A933CEFD5BF7",
   "overrideValues": [
   ],
-  "resizingConstraint": 34,
+  "resizingConstraint": 10,
   "resizingType": 2,
   "rotation": 0,
   "scale": 1,
