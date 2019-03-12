@@ -60,6 +60,12 @@
   "name": "form / phoneNumberAfter",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0DD72A16-9851-4D82-83B0-3272D021F1DB",
+      "overrideName": "78607504-5973-449B-913A-AD873F7D7BEE_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
