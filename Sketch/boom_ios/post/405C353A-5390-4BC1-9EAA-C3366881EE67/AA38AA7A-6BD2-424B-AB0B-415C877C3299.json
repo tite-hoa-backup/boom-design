@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA38AA7A-6BD2-424B-AB0B-415C877C3299",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "792C4D78-F268-456F-88C5-F1021A18CF02",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17DD3B87-605C-4778-A9D3-897CCDD05B42",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 245
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "post / shareOtherSns",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DECF73EE-D3CA-4CAC-949F-219B2E01D19E",
+      "overrideName": "A9158CF3-E91D-46FF-B8E1-7851CF53FA47_stringValue",
+      "value": "Twitter"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "622D830B-44D2-4338-9688-6C7ADD9D030F",
+      "overrideName": "823203B4-93C5-4A80-AF81-0E0434360B90/4A26B4C9-BBB0-4497-A4A5-C2F7811C35E8/5C8B50E2-CDDE-4EFF-9153-BCF8A2AFE204_symbolID",
+      "value": "9159457C-9E4B-4A6D-BD17-246998B4FAC2"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "816922E1-DD94-426D-97BC-D7C2DD1D0587",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6A4384FA-DD92-4D39-88D5-C88CD78E5101",
+  "verticalSpacing": 0
+}

@@ -3518,7 +3518,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 277,
+        "changeIdentifier": 282,
         "clippingMaskMode": 0,
         "do_objectID": "5EC3CD56-C784-49F5-B0C3-ABF27344271D",
         "exportOptions": {
@@ -3573,51 +3573,6 @@
               "_class": "exportOptions",
               "do_objectID": "0A51F6DC-8469-4567-827F-9FB2971AC886",
               "exportFormats": [
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "mdpi/",
-                  "namingScheme": 1,
-                  "scale": 1,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "hdpi/",
-                  "namingScheme": 1,
-                  "scale": 1.5,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xhdpi/",
-                  "namingScheme": 1,
-                  "scale": 2,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xxhdpi/",
-                  "namingScheme": 1,
-                  "scale": 3,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xxxhdpi/",
-                  "namingScheme": 1,
-                  "scale": 4,
-                  "visibleScaleType": 0
-                }
               ],
               "includedLayerIds": [
               ],
@@ -4084,7 +4039,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 278,
+        "changeIdentifier": 282,
         "clippingMaskMode": 0,
         "do_objectID": "5EC3CD56-C784-49F5-B0C3-ABF27344271D",
         "exportOptions": {
@@ -4139,51 +4094,6 @@
               "_class": "exportOptions",
               "do_objectID": "0A51F6DC-8469-4567-827F-9FB2971AC886",
               "exportFormats": [
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "mdpi/",
-                  "namingScheme": 1,
-                  "scale": 1,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "hdpi/",
-                  "namingScheme": 1,
-                  "scale": 1.5,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xhdpi/",
-                  "namingScheme": 1,
-                  "scale": 2,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xxhdpi/",
-                  "namingScheme": 1,
-                  "scale": 3,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xxxhdpi/",
-                  "namingScheme": 1,
-                  "scale": 4,
-                  "visibleScaleType": 0
-                }
               ],
               "includedLayerIds": [
               ],
@@ -7938,7 +7848,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 214,
+        "changeIdentifier": 219,
         "clippingMaskMode": 0,
         "do_objectID": "6187B63A-4BED-4877-BD2F-C75F24A96B83",
         "exportOptions": {
@@ -7993,51 +7903,6 @@
               "_class": "exportOptions",
               "do_objectID": "B93BAA0D-310D-4C02-9360-0C386D5027C0",
               "exportFormats": [
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "mdpi/",
-                  "namingScheme": 1,
-                  "scale": 1,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "hdpi/",
-                  "namingScheme": 1,
-                  "scale": 1.5,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xhdpi/",
-                  "namingScheme": 1,
-                  "scale": 2,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xxhdpi/",
-                  "namingScheme": 1,
-                  "scale": 3,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xxxhdpi/",
-                  "namingScheme": 1,
-                  "scale": 4,
-                  "visibleScaleType": 0
-                }
               ],
               "includedLayerIds": [
               ],
@@ -8504,7 +8369,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 214,
+        "changeIdentifier": 219,
         "clippingMaskMode": 0,
         "do_objectID": "6187B63A-4BED-4877-BD2F-C75F24A96B83",
         "exportOptions": {
@@ -8559,51 +8424,6 @@
               "_class": "exportOptions",
               "do_objectID": "B93BAA0D-310D-4C02-9360-0C386D5027C0",
               "exportFormats": [
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "mdpi/",
-                  "namingScheme": 1,
-                  "scale": 1,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "hdpi/",
-                  "namingScheme": 1,
-                  "scale": 1.5,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xhdpi/",
-                  "namingScheme": 1,
-                  "scale": 2,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xxhdpi/",
-                  "namingScheme": 1,
-                  "scale": 3,
-                  "visibleScaleType": 0
-                },
-                {
-                  "_class": "exportFormat",
-                  "absoluteSize": 0,
-                  "fileFormat": "png",
-                  "name": "xxxhdpi/",
-                  "namingScheme": 1,
-                  "scale": 4,
-                  "visibleScaleType": 0
-                }
               ],
               "includedLayerIds": [
               ],
@@ -42984,7 +42804,7 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "B4D9158E-CEB5-4FDF-8DDC-A9FCE9B48413_stringValue"
+            "overrideName": "EBB27F46-7689-4113-93B3-E892973BF436_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
@@ -43014,12 +42834,12 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "D172135A-8C68-4D63-87FA-D2DE5C9D3ED5_stringValue"
+            "overrideName": "530982D3-364B-4A52-B6FD-DC70CD84E573_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "530982D3-364B-4A52-B6FD-DC70CD84E573_stringValue"
+            "overrideName": "D172135A-8C68-4D63-87FA-D2DE5C9D3ED5_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
@@ -43059,12 +42879,12 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "08B2C67D-4D6B-4064-803F-502561D72510_stringValue"
+            "overrideName": "B4D9158E-CEB5-4FDF-8DDC-A9FCE9B48413_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "EBB27F46-7689-4113-93B3-E892973BF436_stringValue"
+            "overrideName": "08B2C67D-4D6B-4064-803F-502561D72510_stringValue"
           }
         ],
         "resizesContent": false,
@@ -49411,7 +49231,7 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "B4D9158E-CEB5-4FDF-8DDC-A9FCE9B48413_stringValue"
+            "overrideName": "EBB27F46-7689-4113-93B3-E892973BF436_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
@@ -49441,12 +49261,12 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "D172135A-8C68-4D63-87FA-D2DE5C9D3ED5_stringValue"
+            "overrideName": "530982D3-364B-4A52-B6FD-DC70CD84E573_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "530982D3-364B-4A52-B6FD-DC70CD84E573_stringValue"
+            "overrideName": "D172135A-8C68-4D63-87FA-D2DE5C9D3ED5_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
@@ -49476,22 +49296,22 @@
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "0EA77DC8-2333-4DD7-A748-0A2DEBCD1305_stringValue"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": false,
-            "overrideName": "08B2C67D-4D6B-4064-803F-502561D72510_stringValue"
-          },
-          {
-            "_class": "MSImmutableOverrideProperty",
-            "canOverride": false,
             "overrideName": "F5AA2D8A-4B2D-45E6-8A2E-398B009F5ADE_stringValue"
           },
           {
             "_class": "MSImmutableOverrideProperty",
             "canOverride": false,
-            "overrideName": "EBB27F46-7689-4113-93B3-E892973BF436_stringValue"
+            "overrideName": "0EA77DC8-2333-4DD7-A748-0A2DEBCD1305_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": false,
+            "overrideName": "B4D9158E-CEB5-4FDF-8DDC-A9FCE9B48413_stringValue"
+          },
+          {
+            "_class": "MSImmutableOverrideProperty",
+            "canOverride": false,
+            "overrideName": "08B2C67D-4D6B-4064-803F-502561D72510_stringValue"
           }
         ],
         "resizesContent": false,
@@ -49536,7 +49356,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 207,
+        "changeIdentifier": 217,
         "clippingMaskMode": 0,
         "do_objectID": "1625C3E4-653E-4C83-8C60-037F1E4D96F9",
         "exportOptions": {
@@ -49626,51 +49446,6 @@
                   "_class": "exportOptions",
                   "do_objectID": "D2ADB69E-4356-4171-8609-F8AA54442B94",
                   "exportFormats": [
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "mdpi/",
-                      "namingScheme": 1,
-                      "scale": 1,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "hdpi/",
-                      "namingScheme": 1,
-                      "scale": 1.5,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xhdpi/",
-                      "namingScheme": 1,
-                      "scale": 2,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xxhdpi/",
-                      "namingScheme": 1,
-                      "scale": 3,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xxxhdpi/",
-                      "namingScheme": 1,
-                      "scale": 4,
-                      "visibleScaleType": 0
-                    }
                   ],
                   "includedLayerIds": [
                   ],
@@ -49787,51 +49562,6 @@
                   "_class": "exportOptions",
                   "do_objectID": "ED1A0F5F-B5B8-4744-82D4-BB61B98E4FC2",
                   "exportFormats": [
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "mdpi/",
-                      "namingScheme": 1,
-                      "scale": 1,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "hdpi/",
-                      "namingScheme": 1,
-                      "scale": 1.5,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xhdpi/",
-                      "namingScheme": 1,
-                      "scale": 2,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xxhdpi/",
-                      "namingScheme": 1,
-                      "scale": 3,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xxxhdpi/",
-                      "namingScheme": 1,
-                      "scale": 4,
-                      "visibleScaleType": 0
-                    }
                   ],
                   "includedLayerIds": [
                   ],
@@ -50003,7 +49733,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 207,
+        "changeIdentifier": 217,
         "clippingMaskMode": 0,
         "do_objectID": "1625C3E4-653E-4C83-8C60-037F1E4D96F9",
         "exportOptions": {
@@ -50093,51 +49823,6 @@
                   "_class": "exportOptions",
                   "do_objectID": "D2ADB69E-4356-4171-8609-F8AA54442B94",
                   "exportFormats": [
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "mdpi/",
-                      "namingScheme": 1,
-                      "scale": 1,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "hdpi/",
-                      "namingScheme": 1,
-                      "scale": 1.5,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xhdpi/",
-                      "namingScheme": 1,
-                      "scale": 2,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xxhdpi/",
-                      "namingScheme": 1,
-                      "scale": 3,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xxxhdpi/",
-                      "namingScheme": 1,
-                      "scale": 4,
-                      "visibleScaleType": 0
-                    }
                   ],
                   "includedLayerIds": [
                   ],
@@ -50254,51 +49939,6 @@
                   "_class": "exportOptions",
                   "do_objectID": "ED1A0F5F-B5B8-4744-82D4-BB61B98E4FC2",
                   "exportFormats": [
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "mdpi/",
-                      "namingScheme": 1,
-                      "scale": 1,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "hdpi/",
-                      "namingScheme": 1,
-                      "scale": 1.5,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xhdpi/",
-                      "namingScheme": 1,
-                      "scale": 2,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xxhdpi/",
-                      "namingScheme": 1,
-                      "scale": 3,
-                      "visibleScaleType": 0
-                    },
-                    {
-                      "_class": "exportFormat",
-                      "absoluteSize": 0,
-                      "fileFormat": "png",
-                      "name": "xxxhdpi/",
-                      "namingScheme": 1,
-                      "scale": 4,
-                      "visibleScaleType": 0
-                    }
                   ],
                   "includedLayerIds": [
                   ],
@@ -58438,6 +58078,872 @@
           "_class": "rulerData",
           "base": 0,
           "do_objectID": "F964F320-2529-444C-A7C8-6863CB829131",
+          "guides": [
+          ]
+        }
+      },
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "6B39BFC3-099D-492A-BD2B-6857047A01AA",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "do_objectID": "1757C722-B8F3-4EAD-BE88-177D5F644A1A",
+          "green": 0.2,
+          "red": 0.2
+        },
+        "booleanOperation": 0,
+        "changeIdentifier": 3833,
+        "clippingMaskMode": 0,
+        "do_objectID": "81628EA1-E189-48C7-BAF2-840380132AC5",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "FA8F47FD-E008-4C09-81A9-09BA7401A31B",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "340A3AEE-D9EC-401D-B181-BE5F7125F295",
+          "height": 24,
+          "width": 24,
+          "x": 127,
+          "y": 160
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "700B7FB1-1291-4D18-8E40-26975607A535",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": false,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 2,
+        "layers": [
+          {
+            "_class": "group",
+            "booleanOperation": -1,
+            "clippingMaskMode": 0,
+            "do_objectID": "84D16DF0-CE2C-4A60-9DAC-95E316573D42",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "B8F18AAC-3327-44A3-8D44-D44E824426E5",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "do_objectID": "625C77A8-35EE-4540-918F-D351968E1993",
+              "height": 18,
+              "width": 18,
+              "x": 3,
+              "y": 3
+            },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "clippingMaskMode": 0,
+                "do_objectID": "5BE5FF57-D739-4EFB-B27A-FDF181E317BA",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "do_objectID": "91EDEEB6-5056-4EE4-9C06-6A2618E10162",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 1,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "do_objectID": "EFA104FC-8633-4D5B-B4BA-AB9DC67F6F23",
+                  "height": 1.5,
+                  "width": 18,
+                  "x": 0,
+                  "y": 8.25
+                },
+                "hasClippingMask": false,
+                "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
+                "isFixedToViewport": false,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "axis",
+                "nameIsFixed": true,
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false,
+                "style": {
+                  "_class": "style",
+                  "borderOptions": {
+                    "_class": "borderOptions",
+                    "dashPattern": [
+                    ],
+                    "do_objectID": "1A9EE218-0FF0-45B0-8993-C1842F3A6340",
+                    "isEnabled": false,
+                    "lineCapStyle": 1,
+                    "lineJoinStyle": 1
+                  },
+                  "do_objectID": "77F4BD1C-7C7D-4A4F-BD7B-C9D20AED2746",
+                  "endMarkerType": 0,
+                  "fills": [
+                    {
+                      "_class": "fill",
+                      "color": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 1,
+                        "green": 1,
+                        "red": 1
+                      },
+                      "fillType": 0,
+                      "isEnabled": true,
+                      "noiseIndex": 0,
+                      "noiseIntensity": 0,
+                      "patternFillType": 1,
+                      "patternTileScale": 1
+                    }
+                  ],
+                  "miterLimit": 10,
+                  "startMarkerType": 0,
+                  "windingRule": 0
+                }
+              },
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "clippingMaskMode": 0,
+                "do_objectID": "B1EE0098-5C18-4B8F-8B26-12B78A179101",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "do_objectID": "1D424990-B114-4E38-968D-ADDCE1775E32",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 1,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "do_objectID": "95E1AF76-8D0E-434B-8716-0F487914B472",
+                  "height": 1.5,
+                  "width": 18,
+                  "x": 0,
+                  "y": 8.25
+                },
+                "hasClippingMask": false,
+                "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
+                "isFixedToViewport": false,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "axis",
+                "nameIsFixed": true,
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": -90,
+                "shouldBreakMaskChain": false,
+                "style": {
+                  "_class": "style",
+                  "borderOptions": {
+                    "_class": "borderOptions",
+                    "dashPattern": [
+                    ],
+                    "do_objectID": "37DDC3B6-6BD2-48A8-B950-79B7E14C279B",
+                    "isEnabled": false,
+                    "lineCapStyle": 1,
+                    "lineJoinStyle": 1
+                  },
+                  "do_objectID": "8BC65793-E9DB-4B9B-99AB-B51D4515BD98",
+                  "endMarkerType": 0,
+                  "fills": [
+                    {
+                      "_class": "fill",
+                      "color": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 1,
+                        "green": 1,
+                        "red": 1
+                      },
+                      "fillType": 0,
+                      "isEnabled": true,
+                      "noiseIndex": 0,
+                      "noiseIntensity": 0,
+                      "patternFillType": 1,
+                      "patternTileScale": 1
+                    }
+                  ],
+                  "miterLimit": 10,
+                  "startMarkerType": 0,
+                  "windingRule": 0
+                }
+              }
+            ],
+            "name": "Group",
+            "nameIsFixed": false,
+            "resizingConstraint": 45,
+            "resizingType": 0,
+            "rotation": -45,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "do_objectID": "ACF9E742-A926-41EA-B85A-661305C3DCC4",
+              "endMarkerType": 0,
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            }
+          }
+        ],
+        "name": "-g-activity / header / ic / close-white",
+        "nameIsFixed": true,
+        "overrideProperties": [
+        ],
+        "resizesContent": true,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "3D25D6AE-B868-44BF-8DC3-1139BB8BFC08",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.2,
+                      "green": 0.2,
+                      "red": 0.2
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "D5EDD29C-926F-418B-A806-39FA4CFAC37D",
+        "userInfo": {
+          "com.invisionlabs.library": {
+            "version": 5
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "EE607C74-10A3-44CE-92F2-FE31B5F3F248",
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "tite-launcher",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "do_objectID": "1757C722-B8F3-4EAD-BE88-177D5F644A1A",
+          "green": 0.2,
+          "red": 0.2
+        },
+        "booleanOperation": 0,
+        "changeIdentifier": 3833,
+        "clippingMaskMode": 0,
+        "do_objectID": "81628EA1-E189-48C7-BAF2-840380132AC5",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "FA8F47FD-E008-4C09-81A9-09BA7401A31B",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "340A3AEE-D9EC-401D-B181-BE5F7125F295",
+          "height": 24,
+          "width": 24,
+          "x": 127,
+          "y": 160
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout"
+        },
+        "hasBackgroundColor": true,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "700B7FB1-1291-4D18-8E40-26975607A535",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": false,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 2,
+        "layers": [
+          {
+            "_class": "group",
+            "booleanOperation": -1,
+            "clippingMaskMode": 0,
+            "do_objectID": "84D16DF0-CE2C-4A60-9DAC-95E316573D42",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "do_objectID": "B8F18AAC-3327-44A3-8D44-D44E824426E5",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "do_objectID": "625C77A8-35EE-4540-918F-D351968E1993",
+              "height": 18,
+              "width": 18,
+              "x": 3,
+              "y": 3
+            },
+            "groupLayout": {
+              "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": false,
+            "hasClippingMask": false,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "layers": [
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "clippingMaskMode": 0,
+                "do_objectID": "5BE5FF57-D739-4EFB-B27A-FDF181E317BA",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "do_objectID": "91EDEEB6-5056-4EE4-9C06-6A2618E10162",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 1,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "do_objectID": "EFA104FC-8633-4D5B-B4BA-AB9DC67F6F23",
+                  "height": 1.5,
+                  "width": 18,
+                  "x": 0,
+                  "y": 8.25
+                },
+                "hasClippingMask": false,
+                "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
+                "isFixedToViewport": false,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "axis",
+                "nameIsFixed": true,
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": 0,
+                "shouldBreakMaskChain": false,
+                "style": {
+                  "_class": "style",
+                  "borderOptions": {
+                    "_class": "borderOptions",
+                    "dashPattern": [
+                    ],
+                    "do_objectID": "1A9EE218-0FF0-45B0-8993-C1842F3A6340",
+                    "isEnabled": false,
+                    "lineCapStyle": 1,
+                    "lineJoinStyle": 1
+                  },
+                  "do_objectID": "77F4BD1C-7C7D-4A4F-BD7B-C9D20AED2746",
+                  "endMarkerType": 0,
+                  "fills": [
+                    {
+                      "_class": "fill",
+                      "color": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 1,
+                        "green": 1,
+                        "red": 1
+                      },
+                      "fillType": 0,
+                      "isEnabled": true,
+                      "noiseIndex": 0,
+                      "noiseIntensity": 0,
+                      "patternFillType": 1,
+                      "patternTileScale": 1
+                    }
+                  ],
+                  "miterLimit": 10,
+                  "startMarkerType": 0,
+                  "windingRule": 0
+                }
+              },
+              {
+                "_class": "rectangle",
+                "booleanOperation": -1,
+                "clippingMaskMode": 0,
+                "do_objectID": "B1EE0098-5C18-4B8F-8B26-12B78A179101",
+                "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "do_objectID": "1D424990-B114-4E38-968D-ADDCE1775E32",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
+                "fixedRadius": 1,
+                "frame": {
+                  "_class": "rect",
+                  "constrainProportions": false,
+                  "do_objectID": "95E1AF76-8D0E-434B-8716-0F487914B472",
+                  "height": 1.5,
+                  "width": 18,
+                  "x": 0,
+                  "y": 8.25
+                },
+                "hasClippingMask": false,
+                "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
+                "isFixedToViewport": false,
+                "isFlippedHorizontal": false,
+                "isFlippedVertical": false,
+                "isLocked": false,
+                "isVisible": true,
+                "layerListExpandedType": 0,
+                "name": "axis",
+                "nameIsFixed": true,
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 1,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
+                "resizingConstraint": 63,
+                "resizingType": 0,
+                "rotation": -90,
+                "shouldBreakMaskChain": false,
+                "style": {
+                  "_class": "style",
+                  "borderOptions": {
+                    "_class": "borderOptions",
+                    "dashPattern": [
+                    ],
+                    "do_objectID": "37DDC3B6-6BD2-48A8-B950-79B7E14C279B",
+                    "isEnabled": false,
+                    "lineCapStyle": 1,
+                    "lineJoinStyle": 1
+                  },
+                  "do_objectID": "8BC65793-E9DB-4B9B-99AB-B51D4515BD98",
+                  "endMarkerType": 0,
+                  "fills": [
+                    {
+                      "_class": "fill",
+                      "color": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 1,
+                        "green": 1,
+                        "red": 1
+                      },
+                      "fillType": 0,
+                      "isEnabled": true,
+                      "noiseIndex": 0,
+                      "noiseIntensity": 0,
+                      "patternFillType": 1,
+                      "patternTileScale": 1
+                    }
+                  ],
+                  "miterLimit": 10,
+                  "startMarkerType": 0,
+                  "windingRule": 0
+                }
+              }
+            ],
+            "name": "Group",
+            "nameIsFixed": false,
+            "resizingConstraint": 45,
+            "resizingType": 0,
+            "rotation": -45,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "do_objectID": "ACF9E742-A926-41EA-B85A-661305C3DCC4",
+              "endMarkerType": 0,
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            }
+          }
+        ],
+        "name": "-g-activity / header / ic / close-white",
+        "nameIsFixed": true,
+        "overrideProperties": [
+        ],
+        "resizesContent": true,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "3D25D6AE-B868-44BF-8DC3-1139BB8BFC08",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.2,
+                      "green": 0.2,
+                      "red": 0.2
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "399920FB-7E1A-41C5-9578-7366B5B48900",
+        "userInfo": {
+          "com.invisionlabs.library": {
+            "version": 5
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "EE607C74-10A3-44CE-92F2-FE31B5F3F248",
           "guides": [
           ]
         }

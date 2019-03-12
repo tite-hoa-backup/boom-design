@@ -44,10 +44,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 361,
+    "height": 336,
     "width": 375,
     "x": 0,
-    "y": 306
+    "y": 331
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,

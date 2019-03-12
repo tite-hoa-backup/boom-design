@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 19,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "You have 57 entries"
+    "string": "3 min video call"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -85,7 +85,7 @@
     "x": 76,
     "y": 52.00000000000002
   },
-  "glyphBounds": "{{0, 5}, {115, 11}}",
+  "glyphBounds": "{{0, 4}, {90, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

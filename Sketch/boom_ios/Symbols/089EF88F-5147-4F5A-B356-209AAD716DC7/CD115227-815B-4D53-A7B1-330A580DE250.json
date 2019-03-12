@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 16,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "3 min video call"
+    "string": "16 followers played 64 entries"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -85,7 +85,7 @@
     "x": 76,
     "y": 28
   },
-  "glyphBounds": "{{0, 4}, {125, 15}}",
+  "glyphBounds": "{{0, 4}, {245, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

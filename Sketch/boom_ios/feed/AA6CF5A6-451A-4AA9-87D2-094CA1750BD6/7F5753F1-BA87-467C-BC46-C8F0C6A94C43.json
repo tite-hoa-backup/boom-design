@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 43,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "For more information,\nyou need to register."
+    "string": "Please register to continue"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,12 +80,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "592CA7EC-AA3A-4A6B-92BB-F0E14BECAB09",
-    "height": 49,
+    "height": 24,
     "width": 343,
     "x": 16,
-    "y": 338
+    "y": 363
   },
-  "glyphBounds": "{{85, 4}, {174, 43}}",
+  "glyphBounds": "{{64, 4}, {216, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
