@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4018D31E-4436-46E3-BE96-4FAB304E4C1E",
+  "do_objectID": "78562EEB-9C7D-407B-A19D-FE3D3C187AC3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1E4A0DC1-B9E4-477F-B7C9-69C33FAAB5F1",
+    "do_objectID": "BF8E54DA-9431-4ACB-8CEB-4D9926FF1FA7",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7914FF68-7E6D-41C5-8B01-2174C3326E16",
+    "do_objectID": "C0710BD3-40FC-46BD-AE73-90C2236E4CAA",
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 378
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,18 +57,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feed / cardProfileInfo",
-  "nameIsFixed": false,
+  "name": "header / searchBefore",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "BE3ECCA6-CF62-47B7-9894-C9D111ADD53F",
-      "overrideName": "59A38174-9C3C-4915-940A-243E86E1F85F/0EDAC7AF-797F-4064-9248-BF0D7BD100F8_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/95f8dae4665cbfa4ac7400fe062389ef3ca8afcc.png",
-        "_ref_class": "MSImageData"
-      }
+      "do_objectID": "63BBD40B-E4D0-4D29-AA5F-152824C04658",
+      "overrideName": "DA581667-0CE3-4193-8967-6FAC6A0690AF/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
+      "value": "D750CF86-EEA5-46AE-8E79-39FD72AA01D1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF80BE29-057C-4514-8A40-9E4A2393D748",
+      "overrideName": "F5F71E9A-5B4F-4B1B-828A-123E213FF62B_stringValue",
+      "value": "검색어예시"
     }
   ],
   "resizingConstraint": 13,
@@ -78,12 +80,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A1879AE2-88F2-4225-A7A0-29B990AFBC4B",
+    "do_objectID": "4AD92313-4E93-47B9-A193-B5965814656A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "60DA776D-53DD-4C86-BD61-CF7BFC9DA4B6",
+  "symbolID": "05024614-0755-4FE8-857E-367AF32276DD",
   "verticalSpacing": 0
 }

@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "37E1BC66-6227-484B-9DBF-3D7D9B067FDC",
+  "do_objectID": "C909D261-5A01-4CEE-AD38-8887DC702426",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "365A758A-B4D4-4F8C-96F6-7B3AEA9C94B0",
+    "do_objectID": "24AF8C2E-3575-435B-AFDC-8CF1C3AF8E7B",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BD17FA65-BF17-4E7A-A1A4-73D071CD0BF6",
-    "height": 375,
+    "do_objectID": "9066CE26-1978-4B33-A3A4-D0F391B985A6",
+    "height": 20,
     "width": 375,
     "x": 0,
-    "y": 426
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,19 +57,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feed / cardImageFull",
+  "name": "Bars/Status Bar/Light Status Bar",
   "nameIsFixed": false,
+  "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "35FE3D21-66BA-45A1-B7AF-C926BDBD824A",
-      "overrideName": "4E0C3739-2880-4099-BE25-12F6AA8CAB40_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/3ff9608d9d5f18584f3deb5be1843f9ca9d82807.png",
-        "_ref_class": "MSImageData"
-      }
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -78,12 +69,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "60E04768-E25D-4E8E-9993-801F594F418C",
+    "do_objectID": "EDB69996-98C7-461C-995B-7EE5639375CB",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A8FD02A0-6CC1-4FF1-9EBC-B54EB25C5B37",
+  "symbolID": "38E73882-9D45-4771-9049-7D43ECF59340",
   "verticalSpacing": 0
 }

@@ -56,14 +56,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "37E1BC66-6227-484B-9DBF-3D7D9B067FDC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4018D31E-4436-46E3-BE96-4FAB304E4C1E"
-    },
-    {
-      "class": "symbolInstance",
       "id": "2413D4C8-ACBB-4BDE-B390-A4576F6F4B7C"
     },
     {
@@ -92,18 +84,18 @@
     },
     {
       "class": "symbolInstance",
-      "id": "97BBB06F-0F89-44EA-AA8D-BCF5ADB1B791"
-    },
-    {
-      "class": "symbolInstance",
       "id": "D21447A1-E37F-4F11-B1E9-476371F22FEA"
     },
     {
       "class": "symbolInstance",
       "id": "FD2FFB0F-37B1-4485-9932-5695900F76DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCF6FE53-0017-401E-8C0C-41FAA7841A6F"
     }
   ],
-  "name": "profile / self / basicGrid",
+  "name": "profile / self / empty",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
