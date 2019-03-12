@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 213,
+  "changeIdentifier": 245,
   "clippingMaskMode": 0,
   "do_objectID": "F15F7306-63BA-4812-9E05-04FE5541E05A",
   "exportOptions": {
@@ -63,7 +63,7 @@
     "do_objectID": "A14623DD-CD1C-44D8-B1A1-B12560036B5B"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -98,6 +98,10 @@
     {
       "class": "text",
       "id": "F019217F-0D54-4A91-8B72-17BC04B41C16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18EAE857-DC84-4CEA-BB3F-88F74CFCC4FA"
     }
   ],
   "name": "form / helpTextAfterLeft",
@@ -134,7 +138,7 @@
       "overrideName": "56138721-16A2-4709-8ABB-A12350FC8CB5_textStyle"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

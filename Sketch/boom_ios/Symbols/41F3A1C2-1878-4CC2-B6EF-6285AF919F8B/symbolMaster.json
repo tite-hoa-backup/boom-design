@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 268,
+  "changeIdentifier": 308,
   "clippingMaskMode": 0,
   "do_objectID": "41F3A1C2-1878-4CC2-B6EF-6285AF919F8B",
   "exportOptions": {
@@ -56,14 +56,14 @@
     "height": 48,
     "width": 311,
     "x": 6296,
-    "y": 339
+    "y": 513
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "8DE79BF6-156E-4317-9E62-452366B6D4BA"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -102,6 +102,10 @@
     {
       "class": "text",
       "id": "684A3F13-A1D8-474C-81F9-AA2D6FB240B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78607504-5973-449B-913A-AD873F7D7BEE"
     }
   ],
   "name": "form / phoneNumberAfter",
