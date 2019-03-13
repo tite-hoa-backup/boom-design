@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C06E7F77-03AF-4075-A36D-3D75F00F0282",
+  "do_objectID": "E63A5849-7B47-4853-BF06-0C7A4722325D",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "293CCB06-A2F1-4029-AFE8-0F5696434C6C",
+    "do_objectID": "E05CCD56-46B9-4C81-AD77-58FCD968C01D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D83DC158-F4AC-47B4-9E90-334952B3234F",
-    "height": 56,
-    "width": 311,
-    "x": 32,
-    "y": 531
+    "do_objectID": "E45D320D-A348-47A1-9056-57F2FC828C68",
+    "height": 78,
+    "width": 16,
+    "x": 100,
+    "y": 12
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,29 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / brandPaddingCenter56",
+  "name": "prize / prizeInsightGraphEach",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "DEC365B1-594A-4927-8643-98480E9BE831",
-      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_stringValue",
-      "value": "Stop"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "726CA8DE-7C7A-476D-B95D-383DC8FC7048",
+    "do_objectID": "801E67A4-1ADC-476A-9B27-4E0CD23429E1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5D94CC25-4CFC-49F5-9AAA-4ECA5676BA1E",
+  "symbolID": "93683FF2-2F5F-44B5-AE9D-B23598E570A8",
   "verticalSpacing": 0
 }

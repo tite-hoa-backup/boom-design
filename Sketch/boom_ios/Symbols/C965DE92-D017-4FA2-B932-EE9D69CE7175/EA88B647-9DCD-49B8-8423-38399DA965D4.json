@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DCEE1DFA-0E2D-40D6-B1CB-C548127037B1",
+  "do_objectID": "EA88B647-9DCD-49B8-8423-38399DA965D4",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A626EC56-1C19-4525-87C9-F12F1F885868",
+    "do_objectID": "990C40B1-B87E-48DE-B92C-069BDD1D87D8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3C0A4967-AEAD-4471-A3D4-E2A590677B30",
-    "height": 48,
-    "width": 375,
-    "x": 0,
-    "y": 68
+    "do_objectID": "456B34B1-F3B4-44C0-B038-EE444336A1DF",
+    "height": 68,
+    "width": 16,
+    "x": 140,
+    "y": 22
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,35 +57,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tab / headerBottomHalf",
+  "name": "prize / prizeInsightGraphEach",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3C70A5E3-DB03-4FD0-BDFA-38572579CBCC",
-      "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
-      "value": "Winnings"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2E4BB663-3094-4FE4-9757-DE3C0A275B50",
-      "overrideName": "E1A3A51B-56E7-470E-8249-AB827AD30AD8/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
-      "value": "Prize"
+      "do_objectID": "8FC542F5-C9C3-4424-963D-DFDD5290DECD",
+      "overrideName": "41158596-FB02-4479-B000-BE9C574822F5_stringValue",
+      "value": "T"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "1A0D45C5-897F-492B-A9B6-39A9486EDE32",
+    "do_objectID": "0BA97DCC-4DAA-4E1C-8420-17E506053578",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8A352939-CF6F-47EB-A725-E671B220CDBE",
+  "symbolID": "93683FF2-2F5F-44B5-AE9D-B23598E570A8",
   "verticalSpacing": 0
 }

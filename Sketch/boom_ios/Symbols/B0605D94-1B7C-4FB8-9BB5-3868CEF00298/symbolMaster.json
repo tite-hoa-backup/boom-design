@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 15880,
+  "changeIdentifier": 15932,
   "clippingMaskMode": 0,
   "do_objectID": "B0605D94-1B7C-4FB8-9BB5-3868CEF00298",
   "exportOptions": {
@@ -63,7 +63,7 @@
     "do_objectID": "2A6EDD4C-9C4B-4E52-BB66-AB96B6F9039B"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

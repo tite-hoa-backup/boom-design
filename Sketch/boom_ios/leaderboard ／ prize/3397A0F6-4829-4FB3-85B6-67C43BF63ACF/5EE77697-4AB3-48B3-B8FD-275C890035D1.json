@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BC4D1274-8B6F-4E1B-A4A7-5A288AB09B60",
+  "do_objectID": "5EE77697-4AB3-48B3-B8FD-275C890035D1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "05334EC3-06BF-4B59-B37E-4778AE14FD1B",
+    "do_objectID": "B8C8754C-1280-45F7-BD88-610DC116A049",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "226F8496-35BE-4755-91F7-66845C614FDE",
-    "height": 48,
+    "do_objectID": "4035381D-E15B-4562-BC98-72019A674C2F",
+    "height": 667,
     "width": 375,
     "x": 0,
-    "y": 619
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,41 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tabbar / home",
+  "name": "prize / onGoingCampaign",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "03306106-4968-4366-9FD7-B4FE7EF49C7E",
-      "overrideName": "3A839AD6-EC25-4CF6-9B2B-E56FC63E7F2F_symbolID",
-      "value": "DC5C6FDA-9F25-4EBD-8568-7038DA049C78"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D425A634-B2D2-4CEA-9D32-C60E9F04B57F",
-      "overrideName": "5A70DDCF-B17A-43EE-809A-7439AEED6C38_symbolID",
-      "value": "2F63F40B-6F7A-4FA1-A245-4B5C395973DA"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CAFB30A2-61CA-4CFB-8A56-75C16DB822BF",
-      "overrideName": "5A70DDCF-B17A-43EE-809A-7439AEED6C38/C3923159-2A5A-427C-9357-9EAF2517AB98_symbolID",
-      "value": "8FE205EA-0718-465E-B73E-541881BD4DDC"
-    }
   ],
-  "resizingConstraint": 37,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "095B937C-BB07-4EEB-A74B-114EA3FF28E0",
+    "do_objectID": "F2554DC8-6411-4E0B-B85B-522800DA89B0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8572603C-C145-493C-83FA-7279785EADA5",
+  "symbolID": "2E8C6667-2671-4301-A19E-1FD398979BEE",
   "verticalSpacing": 0
 }

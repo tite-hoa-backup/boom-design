@@ -1,12 +1,12 @@
 {
-  "_class": "rectangle",
+  "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F320F30D-F16E-41DF-B8F8-04F5A12A2B68",
+  "do_objectID": "A3D052F5-E868-4DF7-A0B3-AB83798B5D40",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "16085B5B-F7E6-47AC-B49D-C049A587653C",
+    "do_objectID": "B54C28CC-FADE-4758-AFBC-52A4F7BBBF31",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -41,18 +41,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 48,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "BD438FF8-2158-454B-AFB4-6DA224330019",
+    "do_objectID": "AE22435C-0BF4-4914-B07B-F1FA9DEE64D4",
     "height": 96,
     "width": 96,
-    "x": 140,
-    "y": 172
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -60,75 +58,66 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 2,
+  "name": "-g-ic / profileOval / icProfileOval96",
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 48,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "cornerRadius": 0,
+      "curveFrom": "{0.77614237490000004, 1}",
+      "curveMode": 2,
+      "curveTo": "{0.22385762510000001, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 1}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 48,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0.22385762510000001}",
+      "curveMode": 2,
+      "curveTo": "{1, 0.77614237490000004}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{1, 0.5}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 48,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
+      "cornerRadius": 0,
+      "curveFrom": "{0.22385762510000001, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.77614237490000004, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.5, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 48,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.77614237490000004}",
+      "curveMode": 2,
+      "curveTo": "{0, 0.22385762510000001}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0, 0.5}"
     }
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borderOptions": {
-      "_class": "borderOptions",
-      "dashPattern": [
-      ],
-      "do_objectID": "A9F5C591-7453-4BFB-88B8-A019BE659EFD",
-      "isEnabled": false,
-      "lineCapStyle": 1,
-      "lineJoinStyle": 1
-    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8,
-          "green": 0.8,
-          "red": 0.8
+          "blue": 0.9333333333333333,
+          "green": 0.9333333333333333,
+          "red": 0.9333333333333333
         },
         "fillType": 0,
         "isEnabled": true,
@@ -136,7 +125,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "5BBD1B2A-6BB8-4683-AB59-E1F70B7C65DA",
+    "do_objectID": "42FE1516-8F3E-4F4A-9149-352ABC2C8BC1",
     "endMarkerType": 0,
     "fills": [
       {
@@ -151,7 +140,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/a4e67e5b4b830480a6900f476813c63736929852.png",
+          "_ref": "images/414e7d53e894e36e0467bdbf0f96b961cc270a8f.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

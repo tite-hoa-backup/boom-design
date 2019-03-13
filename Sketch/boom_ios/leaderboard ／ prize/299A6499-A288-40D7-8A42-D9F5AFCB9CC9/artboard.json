@@ -87,12 +87,12 @@
       "id": "63DCC016-4193-4875-963A-ED03FD03724D"
     },
     {
-      "class": "rectangle",
-      "id": "639D54EF-3810-4DA5-AA81-948D1B064BDD"
+      "class": "symbolInstance",
+      "id": "5FF49C1D-60C8-41B6-8934-8C6E8E94E967"
     },
     {
       "class": "symbolInstance",
-      "id": "5FF49C1D-60C8-41B6-8934-8C6E8E94E967"
+      "id": "CA7BEBC2-9F32-4EFA-96CF-F26DB629D8AD"
     }
   ],
   "name": "prize / basicAfter",

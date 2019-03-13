@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3ED377A-97EE-4192-9EAF-3CC5D5C14101",
+  "do_objectID": "A6EA2803-8214-4B20-92F1-D842AFEA9875",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CD609674-D53F-46B0-8D96-C19E88DF6842",
+    "do_objectID": "D1D27009-7924-4BC9-A925-70ED1CC335E4",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7DA27269-5AAB-42CE-9C8E-AB1CB5D83088",
-    "height": 20,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "do_objectID": "B63CD0D8-44FF-4AE8-8D46-56F2466C8D94",
+    "height": 48,
+    "width": 16,
+    "x": 260,
+    "y": 42
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,10 +57,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Status Bar/Light Status Bar",
+  "name": "prize / prizeInsightGraphEach",
   "nameIsFixed": false,
-  "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27AB381A-8059-4B26-B8B3-72703B895706",
+      "overrideName": "41158596-FB02-4479-B000-BE9C574822F5_stringValue",
+      "value": "F"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -69,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "592D2F57-8932-41E5-849D-C65492251948",
+    "do_objectID": "C5E7680D-3399-4133-BC0E-1F9CC0E789B5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "38E73882-9D45-4771-9049-7D43ECF59340",
+  "symbolID": "93683FF2-2F5F-44B5-AE9D-B23598E570A8",
   "verticalSpacing": 0
 }

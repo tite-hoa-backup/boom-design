@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9190CEFC-BC3B-4075-A8C9-B9B2018C12F1",
+  "do_objectID": "E0CA6741-A1A8-4506-8265-9DA180451C84",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EB2E8E36-1F80-4FF3-A5BF-23A5A87D6057",
+    "do_objectID": "C6B07CA8-3568-4F5E-897F-AC820F20FEAA",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "83ACF2E9-52E8-48B8-A8CB-BBC1603FF49B",
-    "height": 667,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "do_objectID": "D9726645-8ABE-48D5-862F-2E66BD1F5537",
+    "height": 58,
+    "width": 16,
+    "x": 300,
+    "y": 32
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,23 +57,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "prize / onGoingCampaign",
+  "name": "prize / prizeInsightGraphEach",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EA06D7AE-AD88-4283-9666-6E3964F94AD9",
+      "overrideName": "41158596-FB02-4479-B000-BE9C574822F5_stringValue",
+      "value": "S"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "670112CA-D03C-4A34-866D-839F3B0CCBA1",
+    "do_objectID": "83057DA8-3F30-481E-ABF0-437FD07FC8B0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "35506172-2F51-4E46-B295-073F52A1560F",
+  "symbolID": "93683FF2-2F5F-44B5-AE9D-B23598E570A8",
   "verticalSpacing": 0
 }

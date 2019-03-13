@@ -2,11 +2,10 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "18CDBBD3-4ED4-4A45-8BD9-2CBE75829475",
+  "do_objectID": "08303FC9-AC16-40D7-A79C-93EBF3602577",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "16085B5B-F7E6-47AC-B49D-C049A587653C",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -41,15 +40,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 48,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "BD438FF8-2158-454B-AFB4-6DA224330019",
-    "height": 96,
-    "width": 96,
-    "x": 140,
-    "y": 172
+    "constrainProportions": false,
+    "height": 64,
+    "width": 8,
+    "x": 4,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -61,12 +59,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "base",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 2,
+  "nameIsFixed": true,
+  "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 48,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -76,7 +74,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 48,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -86,7 +84,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 48,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -96,7 +94,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 48,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -105,38 +103,12 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 53,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borderOptions": {
-      "_class": "borderOptions",
-      "dashPattern": [
-      ],
-      "do_objectID": "A9F5C591-7453-4BFB-88B8-A019BE659EFD",
-      "isEnabled": false,
-      "lineCapStyle": 1,
-      "lineJoinStyle": 1
-    },
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.8,
-          "green": 0.8,
-          "red": 0.8
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 1
-      }
-    ],
-    "do_objectID": "5BBD1B2A-6BB8-4683-AB59-E1F70B7C65DA",
     "endMarkerType": 0,
     "fills": [
       {
@@ -144,16 +116,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.3764705882352941,
+          "green": 0.7529411764705882,
+          "red": 0.09019607843137255
         },
-        "fillType": 4,
-        "image": {
-          "_class": "MSJSONFileReference",
-          "_ref": "images/a4e67e5b4b830480a6900f476813c63736929852.png",
-          "_ref_class": "MSImageData"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -164,8 +131,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "datasupplier.key": "Tiles"
   }
 }

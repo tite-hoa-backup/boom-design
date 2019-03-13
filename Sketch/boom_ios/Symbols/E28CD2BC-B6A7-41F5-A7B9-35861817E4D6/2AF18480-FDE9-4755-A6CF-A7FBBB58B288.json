@@ -57,8 +57,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "-g-ic / icProfileOval40",
-  "nameIsFixed": false,
+  "name": "-g-ic / profileOval / icProfileOval40",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

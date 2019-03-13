@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 65,
+  "changeIdentifier": 75,
   "clippingMaskMode": 0,
   "do_objectID": "C7A3A9D6-2EB2-4DC7-AFC7-AB4021D3A94A",
   "exportOptions": {
@@ -83,7 +83,7 @@
       "id": "0EDAC7AF-797F-4064-9248-BF0D7BD100F8"
     }
   ],
-  "name": "-g-ic / icProfileOval32",
+  "name": "-g-ic / profileOval / icProfileOval32",
   "nameIsFixed": true,
   "overrideProperties": [
     {

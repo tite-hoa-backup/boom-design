@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 47,
+  "changeIdentifier": 247,
   "clippingMaskMode": 0,
   "do_objectID": "EDEDEE16-8032-497E-B056-E1644DE8E8A7",
   "exportOptions": {
@@ -49,8 +49,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BB48B886-5F3F-4AB1-A490-9C4F1DB9913D"
+    },
     {
       "class": "text",
       "id": "1485E037-0597-4038-8132-05654B6B917D"
@@ -88,8 +92,8 @@
       "id": "81019B7B-2AC8-4842-9FBF-6081EF470279"
     },
     {
-      "class": "rectangle",
-      "id": "F320F30D-F16E-41DF-B8F8-04F5A12A2B68"
+      "class": "symbolInstance",
+      "id": "421904D4-61BD-4A9A-9E7C-461945E33E41"
     }
   ],
   "name": "prize / onGoingCampaign",
@@ -166,7 +170,7 @@
       "overrideName": "7FFE8529-13AB-4451-846A-0138489E294C_symbolID"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

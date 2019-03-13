@@ -9,39 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProDisplay-Regular",
-              "size": 14
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18,
             "paragraphSpacing": 1
           }
         },
-        "length": 30,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "16 followers played 64 entries"
+    "string": "M"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A2C30584-3B0B-4E69-BD24-00B18793914E",
+  "do_objectID": "41158596-FB02-4479-B000-BE9C574822F5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "888B989C-667F-4D95-A547-18ECE289DAB2",
+    "do_objectID": "F9CCF1F9-F9EB-4E79-964A-36D81C5D2BD5",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -79,13 +79,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9B0698DD-7C4D-427B-A686-7F0BEC5329FA",
-    "height": 20,
-    "width": 343,
-    "x": 16,
-    "y": 300
+    "do_objectID": "864CAF92-69FF-46E4-8DBA-E90AA7F3ABC8",
+    "height": 18,
+    "width": 16,
+    "x": 0,
+    "y": 72
   },
-  "glyphBounds": "{{85, 4}, {174, 14}}",
+  "glyphBounds": "{{3, 4}, {10, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,42 +94,41 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14B3Center",
+  "name": "textRegular12B9Center",
   "nameIsFixed": true,
-  "resizingConstraint": 9,
+  "resizingConstraint": 33,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6D5F742F-A814-4855-9207-06350DB4B780",
+  "sharedStyleID": "B4D87BE0-35A9-4418-9C36-CF3EC80ADBEA",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "49012DAB-75A5-4043-832D-32CCD92AAE70",
+    "do_objectID": "383CE5AB-AB5B-40D0-A269-0B486923EF97",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F8E0DAA8-7CCA-4584-8680-57A938D2E87C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "SFProDisplay-Regular",
-            "size": 14
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18,
           "paragraphSpacing": 1
         }
       },
