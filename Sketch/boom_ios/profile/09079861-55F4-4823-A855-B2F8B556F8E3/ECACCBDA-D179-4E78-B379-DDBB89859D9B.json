@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "5504C180-6862-4007-AC06-E57D34125756",
+  "do_objectID": "ECACCBDA-D179-4E78-B379-DDBB89859D9B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D4C29CD3-A44D-4D90-A01C-CE9A3118B4C5",
+    "do_objectID": "E1DEC78C-4F7F-4406-8429-0A80AC6A178D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "08DEA3E6-A554-4530-9AF1-B5EE7D978C32",
-    "height": 48,
+    "do_objectID": "2CF9AE1D-01B2-4198-A77D-DC2F808AD09A",
+    "height": 20,
     "width": 375,
     "x": 0,
-    "y": 20
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,15 +57,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / titleCenterTextNextLabelAfter",
-  "nameIsFixed": true,
+  "name": "Bars/Status Bar/Light Status Bar",
+  "nameIsFixed": false,
+  "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "58B8570B-C9FE-4B77-8712-EE603A5C3FDC",
-      "overrideName": "E9F2AEDE-F081-4477-A54B-C335203E5D4D_stringValue",
-      "value": "Filter"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -74,12 +69,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0648BCC9-F048-4437-B03D-EC2862307471",
+    "do_objectID": "2E4B67B2-A334-473C-8B25-5DF7960105AA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4729492F-C74A-49C6-9DBA-215E6185CFFE",
+  "symbolID": "38E73882-9D45-4771-9049-7D43ECF59340",
   "verticalSpacing": 0
 }

@@ -1,11 +1,11 @@
 {
-  "_class": "rectangle",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "93939C28-1211-44E9-9ADB-D191A9BE0CBD",
-  "edited": false,
+  "do_objectID": "27DD836A-26AB-4EC8-91A6-33946939B28C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B6DA5782-2985-4086-8A02-AB7025461CA9",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -40,78 +40,56 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 187,
+    "do_objectID": "73685B41-5368-4E64-8071-594CC3338E8F",
+    "height": 56,
+    "width": 375,
     "x": 0,
-    "y": 0
+    "y": 508
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base",
+  "name": "list / userSearchDiscoverList",
   "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "overrideValues": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "_class": "overrideValue",
+      "do_objectID": "590DEB28-1AFE-4441-ADDA-95F95AFF18AB",
+      "overrideName": "FAE929CF-C148-4EB2-88E7-F70329FBBDA7/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/80acf86c575b70ce6767bbd37af15c76e97d00d8.png",
+        "_ref_class": "MSImageData"
+      }
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "_class": "overrideValue",
+      "do_objectID": "BC23753F-6114-4708-B472-37FA697A76BF",
+      "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
+      "value": "Conan Matusov"
     }
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C74BC33D-CA6A-4D74-8C40-218DADC85E2B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "A8951B82-5172-44E2-87FB-6E0B0FE86C7C",
+  "verticalSpacing": 0
 }

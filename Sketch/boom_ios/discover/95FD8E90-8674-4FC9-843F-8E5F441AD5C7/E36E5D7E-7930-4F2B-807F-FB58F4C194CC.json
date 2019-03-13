@@ -65,6 +65,12 @@
       "do_objectID": "D1A94626-997E-400B-830D-8A95408BF30C",
       "overrideName": "4C063D82-1393-42EC-B63F-5149B1DDC0CE_stringValue",
       "value": "Recent searches"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D47F22A-70F8-465C-A2DC-7A5E1F666592",
+      "overrideName": "946B5CD3-4429-40DE-BC55-4AB87646C00C_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

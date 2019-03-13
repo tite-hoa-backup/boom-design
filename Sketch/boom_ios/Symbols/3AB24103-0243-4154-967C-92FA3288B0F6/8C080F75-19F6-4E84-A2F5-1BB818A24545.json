@@ -1,12 +1,11 @@
 {
-  "_class": "rectangle",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5EF3456F-48F7-4D26-A27D-CF7C1BF43A9F",
-  "edited": false,
+  "do_objectID": "8C080F75-19F6-4E84-A2F5-1BB818A24545",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0771D444-38D7-4415-9B23-254A17A867B3",
+    "do_objectID": "7446C8E5-B85D-406F-B8D4-2877E6D8CDBF",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -41,80 +40,46 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C20E2284-6672-4D98-B2BF-E84C27012AD1",
+    "do_objectID": "2E2AEF5A-0524-435C-BA88-E03F1ED3072E",
     "height": 48,
-    "width": 187,
-    "x": 0,
+    "width": 125,
+    "x": 125,
     "y": 0
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "base",
+  "name": "tab / headerBottomHalf / that",
   "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "overrideValues": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "_class": "overrideValue",
+      "do_objectID": "AB4B226E-786F-4924-9D96-96CE65F011D2",
+      "overrideName": "E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
+      "value": "Instagram"
     }
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "680E353E-4F60-4C5A-9D4D-02495E40BB88",
+    "do_objectID": "423A4014-8873-46E2-9257-3B2E95583CB6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "BA5F3C06-E879-4F55-9A13-1514F02A08BE",
+  "verticalSpacing": 0
 }

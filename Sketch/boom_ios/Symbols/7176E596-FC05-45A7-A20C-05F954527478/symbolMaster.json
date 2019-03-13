@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 242,
+  "changeIdentifier": 259,
   "clippingMaskMode": 0,
   "do_objectID": "7176E596-FC05-45A7-A20C-05F954527478",
   "exportOptions": {
@@ -59,7 +59,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,19 +76,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "A6B4A31C-FDFE-4B90-A5EA-87B5CB57BDAC"
     },
     {
-      "class": "oval",
-      "id": "30611D6A-6AA6-4FB3-94D5-A637C6D86D1C"
-    },
-    {
       "class": "symbolInstance",
-      "id": "760B24D5-07CC-4C49-9622-8C266669525D"
+      "id": "E86807E7-04C7-4EDA-A203-EB345C4FF1AE"
     }
   ],
   "name": "signup / sheetSnsLogoEach",

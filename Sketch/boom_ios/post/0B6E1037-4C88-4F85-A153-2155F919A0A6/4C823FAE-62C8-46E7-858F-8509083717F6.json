@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0D90BFE0-F188-42DB-87A1-F881C2412CBC",
+  "do_objectID": "4C823FAE-62C8-46E7-858F-8509083717F6",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "19A1F5B5-4B87-4EF1-8D5A-A1DAF40BED20",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 118,
+    "do_objectID": "7BF5A854-ADE7-467F-8A83-C25C4EE54398",
+    "height": 667,
     "width": 375,
     "x": 0,
-    "y": 496
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,22 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "post / setImageFilterRow",
+  "name": "actionSheet / actionSheetBlack38Layer",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "F89A34D2-C411-4535-B897-AC1CC25134A0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E01680F8-5416-4D6B-9F58-02BDF494CBEF",
+  "symbolID": "4A7706A5-6251-4DE7-9E1E-A692882BAD23",
   "verticalSpacing": 0
 }

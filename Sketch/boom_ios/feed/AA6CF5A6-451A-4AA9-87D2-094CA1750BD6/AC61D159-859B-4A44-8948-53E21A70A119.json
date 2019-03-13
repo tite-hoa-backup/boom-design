@@ -69,6 +69,12 @@
       "do_objectID": "E04CE020-F828-48EB-8CA5-EC2324C34563",
       "overrideName": "A6B4A31C-FDFE-4B90-A5EA-87B5CB57BDAC_stringValue",
       "value": "Facebook"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DF9205B-32F4-4E15-B29E-039FEFF4E80B",
+      "overrideName": "E86807E7-04C7-4EDA-A203-EB345C4FF1AE/DBBB31F1-D367-4B2B-8AA3-2EC385765E76_symbolID",
+      "value": "9CE05094-5F34-4AED-8586-9B76EFF8D039"
     }
   ],
   "resizingConstraint": 63,

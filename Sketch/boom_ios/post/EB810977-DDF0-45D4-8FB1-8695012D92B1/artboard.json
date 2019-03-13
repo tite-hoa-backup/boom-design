@@ -56,19 +56,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2835F0E9-50D6-410A-8E91-4DFDF15DD297"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5504C180-6862-4007-AC06-E57D34125756"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "24496D03-B7B6-4C00-AD04-5075005285F5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0D90BFE0-F188-42DB-87A1-F881C2412CBC"
+      "id": "B98740DA-1E5D-48BA-80C5-15F6C2DF6F18"
     }
   ],
   "name": "post / selectImageFromLibraryAfter",

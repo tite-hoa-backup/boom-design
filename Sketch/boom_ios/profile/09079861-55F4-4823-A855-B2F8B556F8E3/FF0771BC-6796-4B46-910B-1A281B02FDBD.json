@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF0771BC-6796-4B46-910B-1A281B02FDBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B35C2C89-3300-4BE3-BB9F-6895FA4F255C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "11B7345F-8D44-46DE-9AAE-0273A6E1115E",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / titleCenterTextNextLabelAfter",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4C63A37-5C98-45EE-A778-92808CD1D9FE",
+      "overrideName": "7AF853B8-EE80-45C2-9840-93AEEE538B8C/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
+      "value": "41FE2736-C363-419D-BF02-E2E74527538F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1219876-1E1D-4A59-B636-DEDE240C4F44",
+      "overrideName": "5001D0A8-681F-41ED-9622-5F58FF06576A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2F142F52-2169-46AD-9096-CC8C66EA05EE",
+      "overrideName": "E9F2AEDE-F081-4477-A54B-C335203E5D4D_stringValue",
+      "value": "Find friends"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8C89277-A64F-4F62-B934-A8694DD3CC17",
+      "overrideName": "702E6523-F276-4FA5-87CC-DD03F03B2C84_stringValue",
+      "value": "Invite"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F58D1F45-E269-4578-AE4C-70415AF94EE8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4729492F-C74A-49C6-9DBA-215E6185CFFE",
+  "verticalSpacing": 0
+}

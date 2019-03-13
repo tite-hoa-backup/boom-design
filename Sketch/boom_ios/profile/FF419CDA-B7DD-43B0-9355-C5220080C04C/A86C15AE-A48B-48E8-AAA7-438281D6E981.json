@@ -58,6 +58,12 @@
   "name": "list / header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E7F7AAF-177C-46A4-AB06-3224B3F9FF3F",
+      "overrideName": "946B5CD3-4429-40DE-BC55-4AB87646C00C_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 211,
+  "changeIdentifier": 288,
   "clippingMaskMode": 0,
   "do_objectID": "CDD72948-CD05-4309-934D-7C8F388FC890",
   "exportOptions": {
@@ -53,13 +53,13 @@
     "height": 48,
     "width": 187,
     "x": 100,
-    "y": 2588
+    "y": 2791
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,15 +76,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "93939C28-1211-44E9-9ADB-D191A9BE0CBD"
-    },
     {
       "class": "text",
       "id": "7696BC26-1977-460D-A92B-8216E2450AF3"
+    },
+    {
+      "class": "rectangle",
+      "id": "03D74FF9-DB6F-4696-A9CA-EB619E68CA14"
     }
   ],
   "name": "tab / headerBottomHalf / this",
@@ -96,7 +96,7 @@
       "overrideName": "7696BC26-1977-460D-A92B-8216E2450AF3_stringValue"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

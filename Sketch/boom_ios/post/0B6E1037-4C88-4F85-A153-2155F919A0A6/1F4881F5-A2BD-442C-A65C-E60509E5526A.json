@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F4881F5-A2BD-442C-A65C-E60509E5526A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E7C8016-BD6D-4C5B-BE00-4C8E2ADE0085",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0C4D1D2-1F67-4AB8-B81D-06B32F983408",
+    "height": 121,
+    "width": 270,
+    "x": 53,
+    "y": 273
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/Default 2 Lines Title Only",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52615E2C-F60F-4899-B6C6-33819A937835",
+      "overrideName": "C4DA1E1A-74F2-47C6-96A1-4C639D0B86A0/1E9FF833-4EC8-4074-992F-E825C7203BC7_stringValue",
+      "value": "Discard"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95E615FD-E4C0-4F40-9379-C94E0DFF1674",
+      "overrideName": "C4DA1E1A-74F2-47C6-96A1-4C639D0B86A0/9984BE0F-5E0A-42EB-B89E-15F3376A1537_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34DDE58E-0E77-4B80-97AE-F8171BC6405C",
+      "overrideName": "185BA434-5A7E-427B-82AF-EC9DFDE90628_stringValue",
+      "value": "Do you really want to discard your post?"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96B2024A-924F-4925-AC36-E770DD23A003",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C8FFFE2B-F8E5-47AD-AAAE-A57DCC605E15",
+  "verticalSpacing": 0
+}

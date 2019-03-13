@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 5030,
+  "changeIdentifier": 5038,
   "clippingMaskMode": 0,
   "do_objectID": "63CE30E1-BE42-4716-B1DA-5D7DBA8E68F0",
   "exportOptions": {
@@ -63,7 +63,7 @@
     "do_objectID": "20224F05-1B2B-4D41-8CEE-C367C5748585"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -107,7 +107,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4D55113D-61B1-462A-91F6-0CD748C768CE_image"
+      "overrideName": "5B43FCE2-1E74-4C13-802A-68E2C48B1F1F_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -122,12 +122,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5B43FCE2-1E74-4C13-802A-68E2C48B1F1F_image"
+      "overrideName": "4D55113D-61B1-462A-91F6-0CD748C768CE_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5B43FCE2-1E74-4C13-802A-68E2C48B1F1F_layerStyle"
+      "overrideName": "5B43FCE2-1E74-4C13-802A-68E2C48B1F1F_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2835F0E9-50D6-410A-8E91-4DFDF15DD297",
+  "do_objectID": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "64B5D700-E494-4871-BB28-72A22D1C4A74",
+    "do_objectID": "F67093D4-80DE-4532-856F-4098B63BCDCA",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,9 +43,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "470B4052-BFB5-44BD-BF66-39C46162487E",
-    "height": 20,
-    "width": 375,
+    "do_objectID": "A5441E81-5C09-4BFD-B376-97EE4BB645E5",
+    "height": 48,
+    "width": 125,
     "x": 0,
     "y": 0
   },
@@ -57,24 +57,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Status Bar/Light Status Bar",
+  "name": "tab / headerBottomHalf / this",
   "nameIsFixed": false,
-  "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1765985C-0125-4D1C-8F66-466D22AC01E3",
+      "overrideName": "7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
+      "value": "Twitter"
+    }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C32DD06B-3FA5-4C4C-AEAD-38E271F2CCE7",
+    "do_objectID": "73D17A7C-C2B1-4359-8A31-E5FA8A4CB372",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "38E73882-9D45-4771-9049-7D43ECF59340",
+  "symbolID": "2187E5CF-1C61-44CD-B331-341EFC84FE9B",
   "verticalSpacing": 0
 }
