@@ -55,44 +55,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "07F74D58-33A0-4F45-BB02-73BFC63AC1CC"
-    },
-    {
-      "class": "text",
-      "id": "9BB7F320-1D03-46A6-82A4-B0F783565881"
-    },
-    {
-      "class": "text",
-      "id": "BE54E2E7-CC73-4A1D-9C3E-ECD65215A3C2"
-    },
-    {
-      "class": "text",
-      "id": "B3B065E0-E148-4EDE-A8C0-2334C2E39102"
-    },
-    {
-      "class": "rectangle",
-      "id": "C06FEA9D-6334-47E2-A77B-B62A5248FE4A"
-    },
-    {
       "class": "symbolInstance",
-      "id": "7CB759AC-95CF-434B-BFC1-E87801444E5C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "19D21C4C-85EC-4A24-A263-4054D80C1047"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0A756E02-0332-424E-9AC0-A091BD1ED780"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6C3D5104-E0F7-430C-8CF4-538ED24987F2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C15BA075-86FB-4457-A49B-974DF63ACE54"
+      "id": "9190CEFC-BC3B-4075-A8C9-B9B2018C12F1"
     },
     {
       "class": "symbolInstance",

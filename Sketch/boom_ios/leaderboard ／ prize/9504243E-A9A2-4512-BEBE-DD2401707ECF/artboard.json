@@ -55,44 +55,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "6BA69B06-7696-46F6-8225-CE6F7F9B415B"
-    },
-    {
-      "class": "text",
-      "id": "B4106044-4238-4819-B8C6-46F5B22F35BE"
-    },
-    {
-      "class": "text",
-      "id": "58A41782-3644-48E8-91A8-BB5B9596C1E4"
-    },
-    {
       "class": "symbolInstance",
-      "id": "205DC390-612D-4513-8773-7D6EB93EC271"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "60B45F03-AEB9-4192-8A1F-9697EEE54BD1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D2EB9DEE-A739-45DA-8523-B00432C10DFA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9D8193AF-2557-41F5-920F-084F98912DC4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "070CB9AF-722F-4ED3-93C5-54F627323114"
-    },
-    {
-      "class": "text",
-      "id": "23BECC9A-5EF8-4537-B753-943EC52EE925"
-    },
-    {
-      "class": "rectangle",
-      "id": "8B959A73-B3C6-4B7A-B107-99E7D4751FAE"
+      "id": "E5359252-3979-4BD9-8C67-B2C2159CFEB5"
     }
   ],
   "name": "prize / onGoingCampaign",
