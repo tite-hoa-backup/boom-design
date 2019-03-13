@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7009,
+  "changeIdentifier": 7058,
   "clippingMaskMode": 0,
   "do_objectID": "35BE49B2-D13A-47E9-9701-644533AD2390",
   "exportOptions": {
@@ -84,10 +84,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "91C03386-B593-4F99-8F30-3BE17D0E011B"
-    },
-    {
       "class": "symbolInstance",
       "id": "5D38E9F1-BC90-456E-A06B-23C3189DBD5E"
     },
@@ -98,6 +94,10 @@
     {
       "class": "symbolInstance",
       "id": "1DBD3F3A-C409-4B60-AC90-CCFB6CE78DDC"
+    },
+    {
+      "class": "group",
+      "id": "6F320B56-BF57-4CA4-AB84-ED66892E9F05"
     }
   ],
   "name": "header / basicLogoCenter",
