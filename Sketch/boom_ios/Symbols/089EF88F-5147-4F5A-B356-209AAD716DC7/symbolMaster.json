@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8018,
+  "changeIdentifier": 8081,
   "clippingMaskMode": 0,
   "do_objectID": "089EF88F-5147-4F5A-B356-209AAD716DC7",
   "exportOptions": {
@@ -53,10 +53,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B1DF4760-9890-47AC-96D8-D082A5DE81F2",
-    "height": 84,
+    "height": 92,
     "width": 375,
     "x": 100,
-    "y": 181
+    "y": 171
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -98,6 +98,10 @@
     {
       "class": "symbolInstance",
       "id": "51680C93-15B3-400F-99A4-73A4DFC41EF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46723630-3DE5-4663-9C32-12114064BE3F"
     }
   ],
   "name": "feed / livePrizeProfile",
@@ -117,7 +121,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CF26268B-F833-47D2-B79D-9C269F052368_textStyle"
+      "overrideName": "46723630-3DE5-4663-9C32-12114064BE3F_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -128,6 +132,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "9A464F0F-2474-48E9-A5D8-FE0E4A13A0D4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CF26268B-F833-47D2-B79D-9C269F052368_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

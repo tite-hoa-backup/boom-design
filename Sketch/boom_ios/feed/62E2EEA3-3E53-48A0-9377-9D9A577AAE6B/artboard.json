@@ -83,15 +83,31 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A0694CBE-2AC5-43A9-A37F-48E3229DA60C"
+      "id": "961E6C25-C370-4D8E-950F-5EB011CDCF78"
     },
     {
       "class": "symbolInstance",
-      "id": "46648488-1E46-421B-BBA9-23131F87399D"
+      "id": "4A831021-654B-4D2F-B6AB-80B484C63F29"
     },
     {
       "class": "symbolInstance",
-      "id": "A44F873A-69ED-4F77-B859-68B8DBF65390"
+      "id": "7217CDA2-5313-4F71-9729-5FD03DEB3981"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0A4062A-B0A1-481D-A885-BD96CB132D77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67927937-0B54-461E-B150-265B1C539F66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21342CA7-C9EE-4A6F-B445-09D53501EE51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB2C8579-3D8A-4615-9D84-D396EBF87CAF"
     },
     {
       "class": "symbolInstance",
@@ -104,6 +120,22 @@
     {
       "class": "symbolInstance",
       "id": "D5BF2577-237D-4F75-B263-BB80C9A58F9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "846868E9-F157-49AD-B485-356F1C82F6D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0694CBE-2AC5-43A9-A37F-48E3229DA60C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "46648488-1E46-421B-BBA9-23131F87399D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A44F873A-69ED-4F77-B859-68B8DBF65390"
     }
   ],
   "name": "notifications / basic",

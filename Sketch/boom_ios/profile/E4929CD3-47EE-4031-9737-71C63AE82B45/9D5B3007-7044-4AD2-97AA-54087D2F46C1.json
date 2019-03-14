@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D5B3007-7044-4AD2-97AA-54087D2F46C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4DB99188-EE93-45FE-8BB6-15C1A5B0D85A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE0DEC54-2049-4855-9DDE-89BADE5350E6",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 124
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / listItemEachLinkedAccounts",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FFE85D16-C68A-41C0-A0F3-633D15435444",
+      "overrideName": "2BCCE512-6B62-42FA-B620-7057C91EA5F4_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42EB69E6-C23A-469C-A299-18EAE2815468",
+      "overrideName": "68E7D5BA-BE9B-4F0D-BEA3-948B5E228927_symbolID",
+      "value": "546C6D46-1CB9-4F10-A332-6BC2525F7400"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC675AF6-1B80-41D2-BB9E-948449EAF37C",
+      "overrideName": "8F42CA14-B827-4D56-9E53-FE4ACCDA2112_stringValue",
+      "value": "Instagram"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3AE90C71-D112-4A58-9E46-0150851CA478",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D9F76484-1EC8-4159-B10B-73268AA35FC1",
+  "verticalSpacing": 0
+}
