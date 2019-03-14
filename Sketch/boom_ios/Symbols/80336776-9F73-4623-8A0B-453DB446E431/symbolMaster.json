@@ -93,12 +93,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_stringValue"
+      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_textStyle"
+      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_stringValue"
     }
   ],
   "resizesContent": false,
