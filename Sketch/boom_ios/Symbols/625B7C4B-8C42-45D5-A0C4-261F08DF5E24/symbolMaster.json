@@ -94,7 +94,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EB677BA6-EBFA-4123-A580-B695562132B7_layerStyle"
+      "overrideName": "EB677BA6-EBFA-4123-A580-B695562132B7_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -104,7 +104,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EB677BA6-EBFA-4123-A580-B695562132B7_image"
+      "overrideName": "EB677BA6-EBFA-4123-A580-B695562132B7_layerStyle"
     }
   ],
   "resizesContent": false,

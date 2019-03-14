@@ -62,7 +62,7 @@
     "do_objectID": "9F2B3B1C-33CC-4801-9596-A6D3F7502BA6"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -114,7 +114,7 @@
       "id": "A76D7B69-09A7-41E4-A2C6-88D1F196CC42"
     }
   ],
-  "name": "signup / signin / beforeError",
+  "name": "signup / signin / afterError",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
