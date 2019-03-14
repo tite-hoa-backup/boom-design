@@ -57,13 +57,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / brandFull56Opacity",
+  "name": "btn / brandFull56",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "2ECE2089-D843-4C8D-AF9A-1E14A44E62E3",
-      "overrideName": "B8FA4C5B-53DF-40CC-AB73-EC6DE03E6276_stringValue",
+      "do_objectID": "8C7C2AD0-670C-414A-9AB1-8350FD990FD3",
+      "overrideName": "79E0F70C-81DF-4FF4-A5C7-B5A6C9EFAD09_stringValue",
       "value": "Get authorization number"
     }
   ],
@@ -80,6 +80,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9AA31FB6-1F6C-4098-8AF5-CC6D4A013250",
+  "symbolID": "F281C1E6-ED8C-42B4-AD8B-B6069DBA9EE5",
   "verticalSpacing": 0
 }

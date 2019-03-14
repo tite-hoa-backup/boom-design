@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD80E9B6-8BF0-4EB7-A6DE-8F9210C67BFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3558E63-E572-4A06-9EB2-652DA6509CFE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "606904D4-0F05-494A-A94E-190E160B7F35",
+    "height": 76,
+    "width": 311,
+    "x": 32,
+    "y": 219
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / helpTextBeforeLeftError",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D370A221-D5AC-45E3-9D80-52CF623A85A5",
+      "overrideName": "15EF4D5A-2553-420A-9F5C-05A7924E30E0_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B129DD1E-506E-4372-9B92-F89B6F72D0D6",
+      "overrideName": "416EDBB8-0734-4107-A055-A463985490C2_stringValue",
+      "value": "Phone number or password is incorrect"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83D06FE8-6DBD-4EC0-B68D-87AC26C7EF0C",
+      "overrideName": "1A7EFE2A-8B60-4AC9-85BD-5289C6EE1386_stringValue",
+      "value": "ㆍㆍㆍㆍㆍㆍㆍㆍㆍ"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F1AD9D5-AB99-4AFA-89B2-2456F07A8C06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7501C02D-76BE-453A-8917-9D6A4405530B",
+  "verticalSpacing": 0
+}
