@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 853,
+  "changeIdentifier": 974,
   "clippingMaskMode": 0,
   "do_objectID": "D070B1B1-3301-41C5-BE2E-CBCD12E14CF3",
   "exportOptions": {
@@ -73,31 +73,20 @@
     },
     {
       "class": "symbolInstance",
-      "id": "81EF3D7E-A31A-4BAE-A709-582EE8E46711"
+      "id": "0E6EA6F7-0461-49DE-9EED-E61C813F6F90"
     },
     {
-      "class": "symbolInstance",
-      "id": "0E6EA6F7-0461-49DE-9EED-E61C813F6F90"
+      "class": "text",
+      "id": "49712416-80D5-4D3E-B8D2-39971D49AC5E"
+    },
+    {
+      "class": "text",
+      "id": "1919F812-773F-45B4-B4EE-B09BA4ADF1BD"
     }
   ],
   "name": "feed / basic",
   "nameIsFixed": false,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1E939551-5223-4EE5-8315-220F5DFC6B3D_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0E6EA6F7-0461-49DE-9EED-E61C813F6F90_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CEB31213-EC98-4619-AE5E-80428992F5EF_symbolID"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -111,12 +100,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "81EF3D7E-A31A-4BAE-A709-582EE8E46711_symbolID"
+      "overrideName": "0E6EA6F7-0461-49DE-9EED-E61C813F6F90_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1E939551-5223-4EE5-8315-220F5DFC6B3D_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "7A4EC87F-D7DF-4DA1-BA58-E6903412E2DA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CEB31213-EC98-4619-AE5E-80428992F5EF_symbolID"
     }
   ],
   "presetDictionary": {
