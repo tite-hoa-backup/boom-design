@@ -73,6 +73,10 @@
     {
       "class": "symbolInstance",
       "id": "6E351144-14D1-44C3-8852-BFABF3B9C6B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D0ED1A5-CF35-405D-8649-C8D074CC30E6"
     }
   ],
   "name": "profile / self / settings / linkedAccountsBefore",

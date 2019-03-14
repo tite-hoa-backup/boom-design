@@ -73,6 +73,10 @@
     {
       "class": "symbolInstance",
       "id": "D5ABB43C-D94F-475A-941E-AAAD94C81AB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6351DA9-508B-44CD-853C-E314882A72AF"
     }
   ],
   "name": "profile / self / settings / linkedAccountsAfter",

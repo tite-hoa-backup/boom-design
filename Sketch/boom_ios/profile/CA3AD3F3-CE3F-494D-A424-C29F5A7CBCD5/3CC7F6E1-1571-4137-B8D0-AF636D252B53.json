@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3CC7F6E1-1571-4137-B8D0-AF636D252B53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "605E96B2-1BA7-45E5-BDC8-5ACAAA36BF04",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB7BBDF2-8908-4C25-AEDF-4F9C4B8062A4",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 68
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tab / headerBottomThird",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9245899-9ED1-457C-8BF7-443C44A90FEC",
+      "overrideName": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A_symbolID",
+      "value": "BA5F3C06-E879-4F55-9A13-1514F02A08BE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B59BE52C-306E-4161-ABA5-6A3D033AFAD4",
+      "overrideName": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
+      "value": "Twitter"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "615C4138-5308-4CC1-9E37-0E63622EA889",
+      "overrideName": "8C080F75-19F6-4E84-A2F5-1BB818A24545_symbolID",
+      "value": "2187E5CF-1C61-44CD-B331-341EFC84FE9B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0BF52D4B-DE4E-44BD-B4B4-11D17FEED77D",
+      "overrideName": "8C080F75-19F6-4E84-A2F5-1BB818A24545/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
+      "value": "Instagram"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A800449-C47E-417F-8A74-2729A2C11078",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A88812F4-EF5D-4F84-9269-390338299CF7",
+  "verticalSpacing": 0
+}

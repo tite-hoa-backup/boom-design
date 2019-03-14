@@ -58,6 +58,24 @@
   "name": "tab / headerBottomThird",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6122E446-E5DD-4E16-9CE6-AA3BEA1B3803",
+      "overrideName": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
+      "value": "Twitter"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C285D4B8-46FB-4FB8-98A2-0D4CF4EB5F56",
+      "overrideName": "8C080F75-19F6-4E84-A2F5-1BB818A24545/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
+      "value": "Instagram"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24CF04C6-D46D-434C-8D7A-6FD61E1D2B7D",
+      "overrideName": "FC5B476F-552C-465C-8BDA-34BCFFF98A96/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
+      "value": "Facebook"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
