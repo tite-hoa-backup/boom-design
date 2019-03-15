@@ -56,10 +56,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "6851739A-F104-4EE3-8445-571D9B70A4F8"
-    },
-    {
-      "class": "symbolInstance",
       "id": "E70F00EF-80EA-4589-8ACF-A3CAD2687A12"
     },
     {
@@ -69,10 +65,6 @@
     {
       "class": "symbolInstance",
       "id": "359E1C57-C465-4662-8E55-AE7AB788CFC9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8EF30E99-9FB7-4924-9D1D-0380404D70BD"
     },
     {
       "class": "symbolInstance",
@@ -89,6 +81,18 @@
     {
       "class": "symbolInstance",
       "id": "C333A009-1F66-4BBB-AEE0-FD58BC226212"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97DB66D6-2AD4-49AF-9B80-CF480C45D12E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5799309C-5FB7-49B8-A982-BBE96F523ABF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8EF30E99-9FB7-4924-9D1D-0380404D70BD"
     }
   ],
   "name": "prize / winningsLists",

@@ -90,12 +90,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A1A96153-CAF3-4590-9D4F-2FC40560229C_symbolID"
+      "overrideName": "0C4D6261-B66E-4953-A776-9AE30108A8E9_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "0C4D6261-B66E-4953-A776-9AE30108A8E9_symbolID"
+      "overrideName": "A1A96153-CAF3-4590-9D4F-2FC40560229C_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -110,12 +110,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "7A4EC87F-D7DF-4DA1-BA58-E6903412E2DA_symbolID"
+      "overrideName": "CEB31213-EC98-4619-AE5E-80428992F5EF_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CEB31213-EC98-4619-AE5E-80428992F5EF_symbolID"
+      "overrideName": "7A4EC87F-D7DF-4DA1-BA58-E6903412E2DA_symbolID"
     }
   ],
   "presetDictionary": {

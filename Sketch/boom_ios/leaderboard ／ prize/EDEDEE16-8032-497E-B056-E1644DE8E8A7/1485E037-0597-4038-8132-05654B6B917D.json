@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 22,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Reach 30,000 followers"
+    "string": "Payout"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -83,9 +83,9 @@
     "height": 24,
     "width": 343,
     "x": 16,
-    "y": 386
+    "y": 362
   },
-  "glyphBounds": "{{74, 5}, {196, 16}}",
+  "glyphBounds": "{{144, 5}, {56, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

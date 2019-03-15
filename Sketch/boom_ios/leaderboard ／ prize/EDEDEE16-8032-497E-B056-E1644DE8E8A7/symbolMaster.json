@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 430,
+  "changeIdentifier": 635,
   "clippingMaskMode": 0,
   "do_objectID": "EDEDEE16-8032-497E-B056-E1644DE8E8A7",
   "exportOptions": {
@@ -53,11 +53,15 @@
   "layers": [
     {
       "class": "text",
-      "id": "1485E037-0597-4038-8132-05654B6B917D"
+      "id": "C522D24F-6BD8-4B89-A842-8C82FA9FD334"
     },
     {
       "class": "text",
       "id": "44FCE05F-2E76-4294-A5B0-379BBD1922A6"
+    },
+    {
+      "class": "text",
+      "id": "1485E037-0597-4038-8132-05654B6B917D"
     },
     {
       "class": "text",

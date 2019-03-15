@@ -9,30 +9,58 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6,
-            "green": 0.6,
-            "red": 0.6
+            "blue": 0.3764705882352941,
+            "green": 0.7529411764705882,
+            "red": 0.09019607843137255
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Regular",
-              "size": 14
+              "name": "SFProDisplay-Bold",
+              "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "paragraphSpacing": 1
           }
         },
-        "length": 30,
+        "length": 6,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProDisplay-Regular",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "paragraphSpacing": 1
+          }
+        },
+        "length": 9,
+        "location": 6
       }
     ],
-    "string": "16 followers played 64 entries"
+    "string": "+4,096 / 10,000"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -80,12 +108,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9B0698DD-7C4D-427B-A686-7F0BEC5329FA",
-    "height": 20,
+    "height": 24,
     "width": 343,
     "x": 16,
-    "y": 412
+    "y": 410
   },
-  "glyphBounds": "{{85, 4}, {174, 14}}",
+  "glyphBounds": "{{106, 5}, {131, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,12 +122,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textRegular14B9Center",
+  "name": "textBold18BrandCenter",
   "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "CECDF867-32E4-4E0B-9944-33A7D901D381",
+  "sharedStyleID": "C42E0555-175F-4B73-BAEE-068D21AB306B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -113,22 +141,22 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6,
-          "green": 0.6,
-          "red": 0.6
+          "blue": 0.3764705882352941,
+          "green": 0.7529411764705882,
+          "red": 0.09019607843137255
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Regular",
-            "size": 14
+            "name": "SFProDisplay-Bold",
+            "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "paragraphSpacing": 1
         }
       },
