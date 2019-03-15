@@ -89,6 +89,12 @@
       "do_objectID": "3418F24C-7CF6-4D29-A642-5735E7FE9EFE",
       "overrideName": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
       "value": "Twitter"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5599647E-15FD-49E4-9697-02EAD134C9C4",
+      "overrideName": "FC5B476F-552C-465C-8BDA-34BCFFF98A96/534AA14E-2301-4C8C-8DA1-D974721B4920_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

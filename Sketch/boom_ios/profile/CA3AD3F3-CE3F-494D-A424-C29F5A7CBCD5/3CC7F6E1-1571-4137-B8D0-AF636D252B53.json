@@ -83,6 +83,12 @@
       "do_objectID": "0BF52D4B-DE4E-44BD-B4B4-11D17FEED77D",
       "overrideName": "8C080F75-19F6-4E84-A2F5-1BB818A24545/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
       "value": "Instagram"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8E43886E-66F2-4110-847B-27071D1B1B93",
+      "overrideName": "8C080F75-19F6-4E84-A2F5-1BB818A24545/534AA14E-2301-4C8C-8DA1-D974721B4920_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

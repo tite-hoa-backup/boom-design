@@ -58,6 +58,12 @@
   "name": "tab / headerBottomHalf / this",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BDE7E35-9D78-4D70-A636-3EF42CACF674",
+      "overrideName": "534AA14E-2301-4C8C-8DA1-D974721B4920_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

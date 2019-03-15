@@ -83,6 +83,12 @@
       "do_objectID": "FCA13801-D52F-469E-987F-531C76BE4061",
       "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
       "value": "Winnings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "77D98730-DFF1-42BC-9A0F-1C55EC245BF3",
+      "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5/534AA14E-2301-4C8C-8DA1-D974721B4920_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

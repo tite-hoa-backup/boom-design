@@ -89,6 +89,12 @@
       "do_objectID": "EFF85570-CB2C-4A1B-85D7-9271CE08A25E",
       "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
       "value": "Camera"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDE8B228-270F-45B9-82C0-DDCC520762BF",
+      "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5/E4ACDA3C-3CDA-43B8-97C6-182CEB53397F_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 37,

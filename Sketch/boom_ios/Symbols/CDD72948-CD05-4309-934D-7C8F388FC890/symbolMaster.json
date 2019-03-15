@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 324,
+  "changeIdentifier": 340,
   "clippingMaskMode": 0,
   "do_objectID": "CDD72948-CD05-4309-934D-7C8F388FC890",
   "exportOptions": {
@@ -83,13 +83,22 @@
       "id": "7696BC26-1977-460D-A92B-8216E2450AF3"
     },
     {
-      "class": "rectangle",
-      "id": "03D74FF9-DB6F-4696-A9CA-EB619E68CA14"
+      "class": "symbolInstance",
+      "id": "E4ACDA3C-3CDA-43B8-97C6-182CEB53397F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "534AA14E-2301-4C8C-8DA1-D974721B4920"
     }
   ],
   "name": "tab / headerBottomHalf / this",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7696BC26-1977-460D-A92B-8216E2450AF3_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

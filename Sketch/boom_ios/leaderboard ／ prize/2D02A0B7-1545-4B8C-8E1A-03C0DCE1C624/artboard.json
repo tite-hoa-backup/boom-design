@@ -109,6 +109,10 @@
     {
       "class": "symbolInstance",
       "id": "21DF2AD8-2145-4FEC-9F77-A4941FCD9112"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0F14A22-5A97-4523-B6A0-5BF86C4B3418"
     }
   ],
   "name": "prize / finishedPrizeDetails / exportWinnersList",
