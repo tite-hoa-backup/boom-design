@@ -113,6 +113,18 @@
     {
       "class": "symbolInstance",
       "id": "A0F14A22-5A97-4523-B6A0-5BF86C4B3418"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E994970C-8FDB-463D-A516-5E7B434C3413"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7027B9DB-D90E-48F7-9FA8-C6978DB172DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EDA0C59-E2C6-40E1-A20B-3FA9C072D568"
     }
   ],
   "name": "prize / finishedPrizeDetails / exportWinnersList",
