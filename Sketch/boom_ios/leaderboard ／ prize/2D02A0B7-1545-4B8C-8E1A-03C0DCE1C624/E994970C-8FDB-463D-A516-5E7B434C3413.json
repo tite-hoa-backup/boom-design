@@ -55,21 +55,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / listItemEach56",
-  "nameIsFixed": false,
+  "name": "list / listItemEach56Cancel",
+  "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "C87AC909-153D-47CC-AFDE-BF8ECF00E00D",
-      "overrideName": "3AC1CF95-9E54-4BB9-9835-EC9DE5BA717C_stringValue",
-      "value": "Cancel"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "734B305F-F5BF-4EF8-A3AD-50FC3965712C",
-      "overrideName": "926F1617-7207-4A1D-B2D5-9E4C231C95BD_symbolID",
-      "value": ""
-    }
   ],
   "resizingConstraint": 37,
   "resizingType": 0,
@@ -83,6 +71,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A72BABD7-CA5B-4F94-A8B0-77818368BFA0",
+  "symbolID": "5805D5BF-DE7D-4C29-B758-8EB64B0EE5D6",
   "verticalSpacing": 0
 }
