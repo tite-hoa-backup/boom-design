@@ -57,20 +57,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tab / headerBottomHalf",
+  "name": "tab / headerBottomThird",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "3C70A5E3-DB03-4FD0-BDFA-38572579CBCC",
-      "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
+      "do_objectID": "190DBE76-92F5-4FBB-8BB2-156E4F44E225",
+      "overrideName": "FC5B476F-552C-465C-8BDA-34BCFFF98A96/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
       "value": "Winnings"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2E4BB663-3094-4FE4-9757-DE3C0A275B50",
-      "overrideName": "E1A3A51B-56E7-470E-8249-AB827AD30AD8/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
-      "value": "Prize"
+      "do_objectID": "99FF5483-80B1-4228-8809-CEA8AB956CB5",
+      "overrideName": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
+      "value": "Live Prize"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC1229FB-41DF-4A06-9A10-85AA60B6F072",
+      "overrideName": "8C080F75-19F6-4E84-A2F5-1BB818A24545/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
+      "value": "Past Prizes"
     }
   ],
   "resizingConstraint": 63,
@@ -86,6 +92,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8A352939-CF6F-47EB-A725-E671B220CDBE",
+  "symbolID": "A88812F4-EF5D-4F84-9269-390338299CF7",
   "verticalSpacing": 0
 }

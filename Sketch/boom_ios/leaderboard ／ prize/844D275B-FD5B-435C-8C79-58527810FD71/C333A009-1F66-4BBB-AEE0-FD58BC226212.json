@@ -57,37 +57,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "tab / headerBottomHalf",
+  "name": "tab / headerBottomThird",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "5F1FD04D-A39E-4434-B4D6-66290BCB0C13",
-      "overrideName": "E1A3A51B-56E7-470E-8249-AB827AD30AD8_symbolID",
-      "value": "BA5F3C06-E879-4F55-9A13-1514F02A08BE"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0BB37B53-FF07-4B24-B251-0B82CC23F173",
-      "overrideName": "E1A3A51B-56E7-470E-8249-AB827AD30AD8/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
-      "value": "Prize"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "D92C1693-5B9E-438A-85A3-EF044F4EC4F5",
-      "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5_symbolID",
+      "do_objectID": "F1A56A2A-2C03-464E-9CED-7646DAB6284E",
+      "overrideName": "FC5B476F-552C-465C-8BDA-34BCFFF98A96_symbolID",
       "value": "2187E5CF-1C61-44CD-B331-341EFC84FE9B"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "FCA13801-D52F-469E-987F-531C76BE4061",
-      "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
+      "do_objectID": "11B17872-021B-4A7D-9F8F-603D1C572948",
+      "overrideName": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A_symbolID",
+      "value": "BA5F3C06-E879-4F55-9A13-1514F02A08BE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A679E54-0B5C-41CE-9281-A818BE8B508B",
+      "overrideName": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A/534AA14E-2301-4C8C-8DA1-D974721B4920_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33803396-6244-4145-B4E8-BAFE2BE3C31B",
+      "overrideName": "FC5B476F-552C-465C-8BDA-34BCFFF98A96/7696BC26-1977-460D-A92B-8216E2450AF3_stringValue",
       "value": "Winnings"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "38819AA7-FCAE-4306-832D-6500E7A8C841",
-      "overrideName": "FEEBA2E4-BC99-438F-A2ED-DD1D6BDC7BD5/534AA14E-2301-4C8C-8DA1-D974721B4920_symbolID",
+      "do_objectID": "8A659D1F-E519-48A3-A248-2D1309DB12E0",
+      "overrideName": "5DAA7C59-D02C-40EE-98D9-5C739FF3536A/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
+      "value": "Live Prize"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2E48049-B04B-4F95-990A-F4E97F88E953",
+      "overrideName": "8C080F75-19F6-4E84-A2F5-1BB818A24545/E3F501D7-7B9C-4271-81C4-48173FB53BEE_stringValue",
+      "value": "Last Prizes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A0A1C9B-E531-4A69-B091-FDC889B13B2C",
+      "overrideName": "FC5B476F-552C-465C-8BDA-34BCFFF98A96/534AA14E-2301-4C8C-8DA1-D974721B4920_symbolID",
       "value": ""
     }
   ],
@@ -104,6 +116,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8A352939-CF6F-47EB-A725-E671B220CDBE",
+  "symbolID": "A88812F4-EF5D-4F84-9269-390338299CF7",
   "verticalSpacing": 0
 }
