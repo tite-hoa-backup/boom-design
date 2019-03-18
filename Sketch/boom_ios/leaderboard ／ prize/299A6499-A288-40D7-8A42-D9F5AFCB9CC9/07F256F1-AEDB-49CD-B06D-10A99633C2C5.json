@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 15,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Create a Prize!"
+    "string": "Create a Prize"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -85,7 +85,7 @@
     "x": 32,
     "y": 132
   },
-  "glyphBounds": "{{96, 4}, {118, 15}}",
+  "glyphBounds": "{{99, 4}, {113, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

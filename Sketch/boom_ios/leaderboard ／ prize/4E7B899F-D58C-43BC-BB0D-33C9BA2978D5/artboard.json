@@ -56,6 +56,42 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "92111E33-5B49-4025-BB3A-CF20FD2F05FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78840C5D-1BC1-4730-9E85-E67FFBFDBE51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA6425AC-BE7B-42D4-86CA-7DC413E4EB4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C0488C9-7F24-4DCE-A984-FB2EFC4F418F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4353620D-E979-4C34-84DB-2BB60DD9E725"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F08A1595-90C9-4F35-9146-84BD011C9F03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFC61C6E-BB24-46AB-850C-4AAA2B580100"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7D6BD5D-DB8A-4062-8277-B7B063C3BDBA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C149CAA-0591-4F2A-8D18-9255D50673B6"
+    },
+    {
+      "class": "symbolInstance",
       "id": "3235FAE3-47E7-43C5-8475-377F3460683F"
     },
     {
@@ -71,7 +107,7 @@
       "id": "ACCA0380-DF26-4141-AF04-F100CDFD8AE4"
     }
   ],
-  "name": "prize / finishedPrizes / basic",
+  "name": "prize / finishedPrizes / list",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
