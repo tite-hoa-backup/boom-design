@@ -1,0 +1,166 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "6CC00EEB-B11A-4E4B-8431-0B7A278189DF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B064899A-0E91-4090-B33B-9BDFEFB1AE1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4310BF6C-95E2-4C85-94C1-3558C395E105",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72C0C857-B64F-4C07-B34E-A9D7ED1EECC9",
+    "height": 667,
+    "width": 375,
+    "x": 2738,
+    "y": 1539
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B7677FA6-3F69-46DB-A205-10DEDB682675"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F659786A-B433-4CAA-B4F7-F7EBABF2A3C5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DD1AD96D-9B89-469C-8FCB-73281D2CC50A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B089A9D-00C6-4589-B821-F96F1FB30CCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "790ECBA4-1F84-4808-8134-84727C8E9A85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFC05A10-5A07-4665-9894-32DE52044C14"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08255404-CD3F-44AB-8329-99D7DFEB3D29"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E0A4490D-4E85-4600-BB42-B30697778163"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9547A76E-D6C8-4D7B-B117-7BBAB4621A5F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "16C3212B-E4BF-456E-9E1B-E0C9FABA20F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4BCE5A8-75C4-4FA2-97F5-FA68F4B78283"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E7CB8B4A-DD2E-40DD-A78D-0D23DC1C9BAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E95B4CF-BF51-4E5D-B159-9C301FB21A76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D704E3FB-A731-4C17-9FA6-DE5B79383518"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B9F2B91-AD63-4B61-BB12-6AA63D38C1A5"
+    }
+  ],
+  "name": "notifications / hasUnclaimedPrize",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C1122FA1-DB53-4D0C-9DF8-22A8A9C427B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DDC05E72-E01C-4B54-B3E9-1EB025324E6F",
+    "guides": [
+    ]
+  }
+}
