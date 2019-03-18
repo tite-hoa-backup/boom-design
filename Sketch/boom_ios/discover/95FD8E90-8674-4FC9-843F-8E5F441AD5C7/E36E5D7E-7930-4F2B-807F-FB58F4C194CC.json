@@ -71,6 +71,12 @@
       "do_objectID": "7D47F22A-70F8-465C-A2DC-7A5E1F666592",
       "overrideName": "946B5CD3-4429-40DE-BC55-4AB87646C00C_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C3F50A6-2A2E-4650-9C1C-19B13416854E",
+      "overrideName": "3BF157FB-E04F-4DE5-AFDC-63D5DCAE7A25_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

@@ -71,6 +71,12 @@
       "do_objectID": "A01D8791-8DF2-4E15-B52D-0C676FEF9A03",
       "overrideName": "4C063D82-1393-42EC-B63F-5149B1DDC0CE_stringValue",
       "value": "Accounts"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3335082-D136-43FF-A3EE-AE91B3A0C3F1",
+      "overrideName": "3BF157FB-E04F-4DE5-AFDC-63D5DCAE7A25_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

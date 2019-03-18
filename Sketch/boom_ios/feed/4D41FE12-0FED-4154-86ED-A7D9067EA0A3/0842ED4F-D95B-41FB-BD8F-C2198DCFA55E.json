@@ -71,6 +71,12 @@
       "do_objectID": "5138296A-48C8-4E9D-9EEA-6FC60B2B112B",
       "overrideName": "4C063D82-1393-42EC-B63F-5149B1DDC0CE_stringValue",
       "value": "Recent"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F6BE652-8210-4F25-98E5-A0717FA602B8",
+      "overrideName": "3BF157FB-E04F-4DE5-AFDC-63D5DCAE7A25_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

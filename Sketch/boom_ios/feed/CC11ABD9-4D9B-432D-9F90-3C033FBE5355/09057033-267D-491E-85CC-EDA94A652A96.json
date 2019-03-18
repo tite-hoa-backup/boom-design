@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DE13C61A-CC72-4751-8351-D86E95B8B300",
+  "do_objectID": "09057033-267D-491E-85CC-EDA94A652A96",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B6294BA2-11C2-4F56-9C06-F7550F1551CB",
+    "do_objectID": "0B2FDDFB-49E1-40A5-8379-5AD9E9A794C8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "A122DE92-E9C1-4A67-A21B-AB12C47B5AD8",
-    "height": 1,
+    "do_objectID": "42C32F6F-607F-40C7-9848-7CCE44D6E81B",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 254
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,9 +57,27 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feedItemCard / baseBottomStrokeFull",
-  "nameIsFixed": false,
+  "name": "header / titleCenterText",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F342D7F3-560E-405B-A97A-2F11172AD6AB",
+      "overrideName": "2A46886B-6DDD-4FCB-9393-8A9768F3A4C6_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF44D1BA-4763-4060-A86D-CCD8F78CC086",
+      "overrideName": "3ED60E73-9CA1-4BBE-A50C-808E027D1989_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1C0D5A3-68D1-4855-9B4F-87B9CB6519F9",
+      "overrideName": "FBBBE698-F5A8-407A-8139-EAF6D8516249_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -68,12 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A8BDF9D7-1E95-4E5D-9832-B3C35FB64691",
+    "do_objectID": "57801382-56DB-47C5-8CE0-69D9A1B5E774",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EAE2E729-7EF0-48E1-AFE0-4465322AAF92",
+  "symbolID": "7DC86DDF-A78C-4A75-84F2-CAD07347042B",
   "verticalSpacing": 0
 }
