@@ -35,7 +35,7 @@
     "do_objectID": "5797E0E4-9E64-4648-93B2-BEB6C2E8DD3A"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -79,7 +79,7 @@
       "id": "D4356C87-4C73-4A26-88D1-7E685C7247C9"
     }
   ],
-  "name": "prize / pastPrizesList",
+  "name": "prize / finishedPrizesListEmpty",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
