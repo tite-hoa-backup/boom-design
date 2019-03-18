@@ -79,7 +79,7 @@
       "id": "D4356C87-4C73-4A26-88D1-7E685C7247C9"
     }
   ],
-  "name": "prize / finishedPrizesListEmpty",
+  "name": "prize / finishedPrizes / ListEmpty",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
