@@ -87,6 +87,22 @@
       "id": "63DCC016-4193-4875-963A-ED03FD03724D"
     },
     {
+      "class": "text",
+      "id": "E8208F07-C9E3-48CA-98AE-B4A53B64B436"
+    },
+    {
+      "class": "text",
+      "id": "5166A883-AEE5-4F40-9305-AD73246CF622"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2AD932B-2C6C-415B-854B-7D8D72EEA94E"
+    },
+    {
+      "class": "text",
+      "id": "E3C26090-BEA0-4535-A992-F92919F1B661"
+    },
+    {
       "class": "symbolInstance",
       "id": "5FF49C1D-60C8-41B6-8934-8C6E8E94E967"
     },

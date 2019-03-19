@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 64,
+  "changeIdentifier": 289,
   "clippingMaskMode": 0,
   "do_objectID": "C3A4D3F0-10BC-4598-BAA0-70EEF6A17BA8",
   "exportOptions": {
@@ -94,6 +94,22 @@
     {
       "class": "symbolInstance",
       "id": "C7D0A2DC-2C7F-4F61-9D14-EB344990D360"
+    },
+    {
+      "class": "text",
+      "id": "2814C2EA-4668-4D5E-A261-9EEF83358D87"
+    },
+    {
+      "class": "text",
+      "id": "6C723F2E-7F58-43B1-92C9-2F08FBCF5BBA"
+    },
+    {
+      "class": "rectangle",
+      "id": "C35E4F24-B530-4E48-9EEA-C8887FE57A85"
+    },
+    {
+      "class": "text",
+      "id": "FEF6DB13-9E7B-42E1-A13D-BABD01ED8D9D"
     }
   ],
   "name": "prize / editPrizeDetails",
@@ -165,7 +181,7 @@
       "overrideName": "F6280230-A47C-4B0C-ADD4-6A54D58C4BB9_symbolID"
     }
   ],
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

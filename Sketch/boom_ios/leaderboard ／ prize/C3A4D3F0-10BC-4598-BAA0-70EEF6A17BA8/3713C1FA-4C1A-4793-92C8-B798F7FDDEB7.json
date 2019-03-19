@@ -46,7 +46,7 @@
     "do_objectID": "C75CCD57-530D-44B4-A76A-D0B9B4FAFBF0",
     "height": 96,
     "width": 96,
-    "x": 139,
+    "x": 32,
     "y": 172
   },
   "hasClippingMask": false,
@@ -61,7 +61,7 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 45,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

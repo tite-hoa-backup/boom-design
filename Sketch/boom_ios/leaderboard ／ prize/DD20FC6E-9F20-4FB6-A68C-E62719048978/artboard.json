@@ -55,6 +55,42 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "text",
+      "id": "5C3EEE68-3F66-4157-8783-B9C571734E67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E766B747-6745-461B-8D54-E68F9CDA5270"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "139201B6-93D1-41FD-B70C-218A9CCCF722"
+    },
+    {
+      "class": "group",
+      "id": "CB82CFD4-95BB-4535-B422-31434BFDCDFA"
+    },
+    {
+      "class": "text",
+      "id": "3034CD9D-A05A-499E-9BBF-BCDAB35CF377"
+    },
+    {
+      "class": "text",
+      "id": "804F5EED-6301-49CA-AE3B-9259480B9720"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F6AAF13-2A2F-4F7A-B01F-94E5D81F865D"
+    },
+    {
+      "class": "text",
+      "id": "6C77F9FC-39B6-45BF-B4E5-BD91C008E5DE"
+    },
+    {
+      "class": "text",
+      "id": "4915E87B-41D3-450E-AFEC-AC0BF2829C59"
+    },
+    {
       "class": "symbolInstance",
       "id": "B7994040-5D89-4DDE-B323-8896EB400BEA"
     },
@@ -73,30 +109,6 @@
     {
       "class": "symbolInstance",
       "id": "384E29ED-E249-4FE8-818E-9FBEB4D8C785"
-    },
-    {
-      "class": "text",
-      "id": "4915E87B-41D3-450E-AFEC-AC0BF2829C59"
-    },
-    {
-      "class": "text",
-      "id": "5C3EEE68-3F66-4157-8783-B9C571734E67"
-    },
-    {
-      "class": "rectangle",
-      "id": "885B5891-ABA8-47DF-90A1-C8BB729E945D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "139201B6-93D1-41FD-B70C-218A9CCCF722"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C580F030-ED4D-4855-AC1C-E9AC8EA19A83"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E766B747-6745-461B-8D54-E68F9CDA5270"
     }
   ],
   "name": "prize / basic",
