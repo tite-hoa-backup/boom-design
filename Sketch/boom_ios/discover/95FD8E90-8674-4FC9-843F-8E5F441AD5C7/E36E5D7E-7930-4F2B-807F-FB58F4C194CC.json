@@ -44,10 +44,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C7AF2CE2-3569-45D8-BCB2-A320AC1CBCEC",
-    "height": 40,
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 460
+    "y": 468
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -76,6 +76,12 @@
       "_class": "overrideValue",
       "do_objectID": "6C3F50A6-2A2E-4650-9C1C-19B13416854E",
       "overrideName": "3BF157FB-E04F-4DE5-AFDC-63D5DCAE7A25_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0FF23C13-DA1B-42CB-A040-1D5CE385FF89",
+      "overrideName": "C46058B6-3FBC-42F1-AFDE-8EFFE03F8FA3_symbolID",
       "value": ""
     }
   ],

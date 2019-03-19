@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D185BD03-AEEC-4183-B799-6F54188EF6D2",
+  "do_objectID": "C46058B6-3FBC-42F1-AFDE-8EFFE03F8FA3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "604E4620-390E-4200-8421-5A70A2FAE18C",
+    "do_objectID": "5041649A-AD80-4E92-8221-126AE5C5F512",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "331005EA-0FB0-4FFA-B507-A1CA8B902FE8",
-    "height": 56,
-    "width": 375,
-    "x": 0,
-    "y": 404
+    "do_objectID": "C6D96D58-9A9A-4A26-BB00-83ABDFCF0A30",
+    "height": 4,
+    "width": 4,
+    "x": 12,
+    "y": 9
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,39 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / userSearchDiscoverList",
+  "name": "feed / ic / icNew",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "590DEB28-1AFE-4441-ADDA-95F95AFF18AB",
-      "overrideName": "FAE929CF-C148-4EB2-88E7-F70329FBBDA7/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/c519d2910f58d0ecdcfe7498ef39551f06ee1995.png",
-        "_ref_class": "MSImageData"
-      }
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "BC23753F-6114-4708-B472-37FA697A76BF",
-      "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
-      "value": "Chakrika Joyanto"
-    }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0E32FA7B-9138-49B5-91CE-8526D670F7F9",
+    "do_objectID": "2B9DB958-B3E5-4F26-9298-26D43586ECE5",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A8951B82-5172-44E2-87FB-6E0B0FE86C7C",
+  "symbolID": "A1723F96-5934-4F4B-BB47-3B1C49435768",
   "verticalSpacing": 0
 }

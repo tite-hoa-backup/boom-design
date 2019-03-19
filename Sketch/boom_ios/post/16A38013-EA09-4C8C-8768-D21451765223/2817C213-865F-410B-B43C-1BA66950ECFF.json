@@ -65,6 +65,12 @@
       "do_objectID": "E92A1CC9-195F-4E4A-8893-9241CED4CDA2",
       "overrideName": "4C063D82-1393-42EC-B63F-5149B1DDC0CE_stringValue",
       "value": "Share on other services"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF5EE04D-6E6C-4805-8AB8-8E3C6E7B9EB5",
+      "overrideName": "C46058B6-3FBC-42F1-AFDE-8EFFE03F8FA3_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,
