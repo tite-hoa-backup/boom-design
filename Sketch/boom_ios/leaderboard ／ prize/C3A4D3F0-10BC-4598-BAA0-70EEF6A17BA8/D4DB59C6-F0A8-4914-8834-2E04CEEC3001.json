@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "46723630-3DE5-4663-9C32-12114064BE3F",
+  "do_objectID": "D4DB59C6-F0A8-4914-8834-2E04CEEC3001",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A703A1D3-C441-4EDD-AA44-0FBD32621D54",
+    "do_objectID": "44598C87-BE01-4D09-9906-E2384A8D5114",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "98B0462B-B2C0-4F47-A674-05484ED44D62",
-    "height": 1,
+    "do_objectID": "D57E5BEB-0B7F-4E4A-A967-D047FD355A4C",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 91
+    "y": 619
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,23 +57,41 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feedItemCard / baseBottomStrokeFull",
+  "name": "tabbar / home",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "03306106-4968-4366-9FD7-B4FE7EF49C7E",
+      "overrideName": "3A839AD6-EC25-4CF6-9B2B-E56FC63E7F2F_symbolID",
+      "value": "DC5C6FDA-9F25-4EBD-8568-7038DA049C78"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D425A634-B2D2-4CEA-9D32-C60E9F04B57F",
+      "overrideName": "5A70DDCF-B17A-43EE-809A-7439AEED6C38_symbolID",
+      "value": "2F63F40B-6F7A-4FA1-A245-4B5C395973DA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAFB30A2-61CA-4CFB-8A56-75C16DB822BF",
+      "overrideName": "5A70DDCF-B17A-43EE-809A-7439AEED6C38/C3923159-2A5A-427C-9357-9EAF2517AB98_symbolID",
+      "value": "8FE205EA-0718-465E-B73E-541881BD4DDC"
+    }
   ],
-  "resizingConstraint": 9,
+  "resizingConstraint": 37,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "29D9E1A4-E687-43AF-A210-2FE1B1ECF8FF",
+    "do_objectID": "6206C295-F957-423C-94B0-D96B6B035D47",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EAE2E729-7EF0-48E1-AFE0-4465322AAF92",
+  "symbolID": "8572603C-C145-493C-83FA-7279785EADA5",
   "verticalSpacing": 0
 }

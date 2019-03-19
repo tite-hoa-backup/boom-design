@@ -9,67 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3764705882352941,
-            "green": 0.7529411764705882,
-            "red": 0.09019607843137255
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "SFProDisplay-Bold",
-              "size": 18
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
-            "paragraphSpacing": 1
-          }
-        },
-        "length": 6,
-        "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "SFProDisplay-Regular",
-              "size": 18
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
+            "alignment": 1,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18,
             "paragraphSpacing": 1
           }
         },
-        "length": 9,
-        "location": 6
+        "length": 6,
+        "location": 0
       }
     ],
-    "string": "+4,096 / 10,000"
+    "string": "10,000"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "44FCE05F-2E76-4294-A5B0-379BBD1922A6",
+  "do_objectID": "3755DA7E-BC28-4309-A7D4-801673ADEF64",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "888B989C-667F-4D95-A547-18ECE289DAB2",
+    "do_objectID": "8E7168C5-0771-45F7-A21B-57B9CED2FF4B",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -107,13 +79,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9B0698DD-7C4D-427B-A686-7F0BEC5329FA",
-    "height": 24,
-    "width": 343,
-    "x": 16,
-    "y": 410
+    "do_objectID": "E9D9EA43-5023-4803-8390-F94EA1A2B4E6",
+    "height": 18,
+    "width": 148,
+    "x": 195,
+    "y": 132
   },
-  "glyphBounds": "{{106, 5}, {131, 16}}",
+  "glyphBounds": "{{111, 4}, {37, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -122,16 +94,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold18BrandCenter",
+  "name": "textRegular12B9Right",
   "nameIsFixed": true,
-  "resizingConstraint": 9,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "C42E0555-175F-4B73-BAEE-068D21AB306B",
+  "sharedStyleID": "305E5B89-3A6C-43A3-B555-37DCD2E098A8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "49012DAB-75A5-4043-832D-32CCD92AAE70",
+    "do_objectID": "389D25D9-D51B-4EE2-97B8-47F4DA78A3BC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -141,22 +113,22 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3764705882352941,
-          "green": 0.7529411764705882,
-          "red": 0.09019607843137255
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Bold",
-            "size": 18
+            "name": "SFProDisplay-Regular",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
+          "alignment": 1,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18,
           "paragraphSpacing": 1
         }
       },

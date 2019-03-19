@@ -3,13 +3,12 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "6948ECE7-C5B9-4A98-8801-F21A143A7E02",
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": 0,
-  "changeIdentifier": 8101,
+  "changeIdentifier": 8133,
   "clippingMaskMode": 0,
   "do_objectID": "089EF88F-5147-4F5A-B356-209AAD716DC7",
   "exportOptions": {
@@ -53,7 +52,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B1DF4760-9890-47AC-96D8-D082A5DE81F2",
-    "height": 92,
+    "height": 100,
     "width": 375,
     "x": 100,
     "y": 171
@@ -98,10 +97,6 @@
     {
       "class": "symbolInstance",
       "id": "51680C93-15B3-400F-99A4-73A4DFC41EF2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "46723630-3DE5-4663-9C32-12114064BE3F"
     }
   ],
   "name": "feed / livePrizeProfile",
@@ -121,7 +116,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "46723630-3DE5-4663-9C32-12114064BE3F_symbolID"
+      "overrideName": "CF26268B-F833-47D2-B79D-9C269F052368_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -132,11 +127,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "9A464F0F-2474-48E9-A5D8-FE0E4A13A0D4_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "CF26268B-F833-47D2-B79D-9C269F052368_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

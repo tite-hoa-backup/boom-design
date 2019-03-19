@@ -55,8 +55,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "-g-ic / icFingerprint",
-  "nameIsFixed": false,
+  "name": "-g-activity / ic / normal / reward",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 45,

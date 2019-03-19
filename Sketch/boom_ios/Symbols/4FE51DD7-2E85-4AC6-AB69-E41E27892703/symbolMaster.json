@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 7042,
+  "changeIdentifier": 7087,
   "clippingMaskMode": 0,
   "do_objectID": "4FE51DD7-2E85-4AC6-AB69-E41E27892703",
   "exportOptions": {
@@ -94,6 +94,10 @@
     {
       "class": "symbolInstance",
       "id": "59A38174-9C3C-4915-940A-243E86E1F85F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34CD4077-E628-454E-9369-ED62774005D7"
     }
   ],
   "name": "feed / cardProfileInfo",
@@ -103,7 +107,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "3AD08B1D-6353-46E6-8BEE-98F756810347_image"
+      "overrideName": "A818766B-2D88-4B4F-89A3-EC04770EA1D4_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -113,7 +117,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "A818766B-2D88-4B4F-89A3-EC04770EA1D4_symbolID"
+      "overrideName": "59A38174-9C3C-4915-940A-243E86E1F85F_symbolID"
     }
   ],
   "resizesContent": true,

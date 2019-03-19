@@ -60,12 +60,6 @@
   "name": "post / shareOtherSns",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "16C75DF4-F44D-4720-A3A6-D9AF8B2D92F5",
-      "overrideName": "EF969D2C-CE02-459D-AEE8-B6D6AAD86342_symbolID",
-      "value": "EEB2A981-D561-4959-85FB-0462AA7B9A69"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

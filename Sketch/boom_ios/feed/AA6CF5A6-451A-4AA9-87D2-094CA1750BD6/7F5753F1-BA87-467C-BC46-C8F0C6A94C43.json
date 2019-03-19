@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 27,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Please register to continue"
+    "string": "Sign up to continue"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -85,7 +85,7 @@
     "x": 16,
     "y": 363
   },
-  "glyphBounds": "{{64, 4}, {216, 18}}",
+  "glyphBounds": "{{93, 4}, {157, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

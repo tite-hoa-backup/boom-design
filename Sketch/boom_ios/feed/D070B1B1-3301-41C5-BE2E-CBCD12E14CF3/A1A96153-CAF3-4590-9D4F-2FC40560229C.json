@@ -58,6 +58,12 @@
   "name": "feed / cardProfileInfo",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A87CF3E3-48B2-4CAD-83FE-07B797A64510",
+      "overrideName": "34CD4077-E628-454E-9369-ED62774005D7_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,

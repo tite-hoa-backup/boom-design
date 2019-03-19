@@ -57,8 +57,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "prize / onGoingCampaign",
-  "nameIsFixed": false,
+  "name": "prize / editPrizeDetails",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,
@@ -74,6 +74,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2E8C6667-2671-4301-A19E-1FD398979BEE",
+  "symbolID": "86E22693-2054-44AF-AC02-55F4CA0D489A",
   "verticalSpacing": 0
 }

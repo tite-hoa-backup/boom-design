@@ -9,39 +9,39 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2,
-            "green": 0.2,
-            "red": 0.2
+            "blue": 0.6,
+            "green": 0.6,
+            "red": 0.6
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-Bold",
-              "size": 18
+              "name": "SFProDisplay-Regular",
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
+            "alignment": 0,
+            "maximumLineHeight": 18,
+            "minimumLineHeight": 18,
             "paragraphSpacing": 1
           }
         },
-        "length": 6,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "Payout"
+    "string": "0"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1485E037-0597-4038-8132-05654B6B917D",
+  "do_objectID": "31A5C9BB-8B5E-4C08-9BF2-A5C3E53C6C22",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F6AF53D5-A132-4990-8CDE-A92F22FF0C03",
+    "do_objectID": "515102AF-F40A-45E2-ABE9-BA7BADA304C5",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -79,13 +79,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E0DF1A96-B894-4639-950C-3C9BB038C80E",
-    "height": 24,
-    "width": 343,
-    "x": 16,
-    "y": 362
+    "do_objectID": "1B200A0C-A376-4D35-9199-659A3B0FEB18",
+    "height": 18,
+    "width": 148,
+    "x": 32,
+    "y": 132
   },
-  "glyphBounds": "{{144, 5}, {56, 17}}",
+  "glyphBounds": "{{0, 4}, {7, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,42 +94,41 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "textBold18B3Center",
+  "name": "textRegular12B9Left",
   "nameIsFixed": true,
-  "resizingConstraint": 9,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5CB12773-25A3-40A4-B733-7C1FEFA40874",
+  "sharedStyleID": "97C1F334-FBBD-46EC-82D7-E857B3D70610",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "80C22DA9-0734-49F0-9615-710EE1ECFCC7",
+    "do_objectID": "527A5A2E-CEB9-4E4F-A35D-F2E95D93FC05",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "E88A5D10-50C8-4935-8B29-17E95F330ABB",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2,
-          "green": 0.2,
-          "red": 0.2
+          "blue": 0.6,
+          "green": 0.6,
+          "red": 0.6
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-Bold",
-            "size": 18
+            "name": "SFProDisplay-Regular",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
+          "alignment": 0,
+          "maximumLineHeight": 18,
+          "minimumLineHeight": 18,
           "paragraphSpacing": 1
         }
       },

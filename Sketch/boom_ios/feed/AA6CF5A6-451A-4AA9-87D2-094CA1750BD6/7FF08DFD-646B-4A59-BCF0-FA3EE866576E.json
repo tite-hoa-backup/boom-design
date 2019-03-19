@@ -58,11 +58,11 @@
           "strikethroughStyle": 0,
           "underlineStyle": 1
         },
-        "length": 7,
+        "length": 6,
         "location": 25
       }
     ],
-    "string": "Already have an account? Sign In"
+    "string": "Already have an account? Log in"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -115,7 +115,7 @@
     "x": 16,
     "y": 624
   },
-  "glyphBounds": "{{59, 5}, {224, 16}}",
+  "glyphBounds": "{{62, 5}, {218, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

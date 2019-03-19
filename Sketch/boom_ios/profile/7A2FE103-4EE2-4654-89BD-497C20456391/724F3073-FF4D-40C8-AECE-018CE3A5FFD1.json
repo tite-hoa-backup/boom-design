@@ -69,6 +69,12 @@
         "_ref": "images/95f8dae4665cbfa4ac7400fe062389ef3ca8afcc.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B0FB5C6-D7D8-4D80-90E2-3B0BB0889245",
+      "overrideName": "34CD4077-E628-454E-9369-ED62774005D7_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

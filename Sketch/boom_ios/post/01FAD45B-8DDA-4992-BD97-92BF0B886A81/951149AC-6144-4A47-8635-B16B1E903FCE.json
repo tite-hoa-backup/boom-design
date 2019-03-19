@@ -62,12 +62,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F079868A-2F52-4BB5-BFD2-4EE4AF42371F",
-      "overrideName": "EF969D2C-CE02-459D-AEE8-B6D6AAD86342_symbolID",
-      "value": "EEB2A981-D561-4959-85FB-0462AA7B9A69"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "ACDE3E1C-D4BA-4B2A-9DB6-FB32B11362FA",
       "overrideName": "A9158CF3-E91D-46FF-B8E1-7851CF53FA47_stringValue",
       "value": "Instagram"
