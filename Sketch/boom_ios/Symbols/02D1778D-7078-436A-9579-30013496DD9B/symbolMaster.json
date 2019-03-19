@@ -112,7 +112,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BBCCDD27-7BBB-4D3E-975F-203BCA37983F_image"
+      "overrideName": "BBCCDD27-7BBB-4D3E-975F-203BCA37983F_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -127,7 +127,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "BBCCDD27-7BBB-4D3E-975F-203BCA37983F_layerStyle"
+      "overrideName": "BBCCDD27-7BBB-4D3E-975F-203BCA37983F_image"
     }
   ],
   "resizesContent": false,
