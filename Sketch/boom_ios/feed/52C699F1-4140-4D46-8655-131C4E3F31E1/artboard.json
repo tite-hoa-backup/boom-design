@@ -83,15 +83,31 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "2189F656-B2B5-4C65-90D3-085ABABB5D9A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFC7E11A-30F3-4A3F-A6AD-4C882B5BD406"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F39D914-3E6D-44EA-A4B3-9BD22DB472B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D514093-81F1-4918-8125-5066520CAF84"
+    },
+    {
+      "class": "text",
+      "id": "89DFD94C-D80F-4A28-A278-BDFC6C2B5AF0"
+    },
+    {
+      "class": "text",
+      "id": "D8C998DF-0AFD-4CBA-B5D3-743CE6ACA709"
+    },
+    {
+      "class": "symbolInstance",
       "id": "7DB33F10-FB98-4138-8F58-6BAE9FBDEE62"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E59F96B3-20F2-4B16-9964-1F333664B09A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AE259B29-8C3C-4E26-B5AF-2F0A45370A98"
     },
     {
       "class": "symbolInstance",

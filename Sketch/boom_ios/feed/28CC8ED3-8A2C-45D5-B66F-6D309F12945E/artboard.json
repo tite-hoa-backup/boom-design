@@ -98,16 +98,16 @@
       "id": "73338FB0-42FB-44EA-8153-722ED2786AB1"
     },
     {
-      "class": "symbolInstance",
-      "id": "0EB6352F-9413-4AF6-B41A-7FD6BD72ADE2"
-    },
-    {
       "class": "text",
       "id": "DCA71E9B-D41B-4833-8E90-2F58960F2901"
     },
     {
       "class": "text",
       "id": "5EBA8576-D90B-4C97-869C-42E20B826C33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0EB6352F-9413-4AF6-B41A-7FD6BD72ADE2"
     },
     {
       "class": "symbolInstance",
