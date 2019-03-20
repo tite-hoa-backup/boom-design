@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "212DFE6B-52E9-4B80-8B52-48A213FEF24B",
+  "do_objectID": "8AD2DB7E-F721-47FD-9780-A4AEBD8533B9",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "35684EFE-74A4-4A12-9EC4-0AA3A544B2D0",
+    "do_objectID": "16435242-9F45-4109-BBD2-B59318B29E13",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,10 +43,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4B5A303C-B3A7-48E2-9EB8-E144353FF215",
+    "do_objectID": "81B9AEAC-1874-4B58-9DDA-33A9AD69E355",
     "height": 56,
-    "width": 311,
-    "x": 32,
+    "width": 148,
+    "x": 195,
     "y": 579
   },
   "hasClippingMask": false,
@@ -64,7 +64,7 @@
       "_class": "overrideValue",
       "do_objectID": "DEC365B1-594A-4927-8643-98480E9BE831",
       "overrideName": "549520A1-90EF-4389-A1C8-793448103668_stringValue",
-      "value": "Claim"
+      "value": "Share"
     }
   ],
   "resizingConstraint": 63,
@@ -74,7 +74,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "3DECE5E5-94E9-4145-8DD6-DE8503374C75",
+    "do_objectID": "E7923812-FE93-417C-923A-2AD5DFADDC60",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

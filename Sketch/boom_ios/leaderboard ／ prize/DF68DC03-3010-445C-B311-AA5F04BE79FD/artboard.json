@@ -81,6 +81,10 @@
     {
       "class": "symbolInstance",
       "id": "6A7E12D1-540B-40EB-9591-107CB4EC1367"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFBDE040-3205-4DAD-BC29-FC54C0D1F06A"
     }
   ],
   "name": "prize / finishedPrizeDetails / winnerAfter",

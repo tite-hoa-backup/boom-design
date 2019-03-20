@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4D02F575-0EF3-4287-8498-7FFAE142AF5D",
+  "do_objectID": "EFBDE040-3205-4DAD-BC29-FC54C0D1F06A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2E369497-8D27-4DA3-A29F-5D817DFCE3B2",
+    "do_objectID": "114E5136-B786-4B1D-8448-62BD291BC345",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,10 +43,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D17738E8-7120-453C-9440-203FA410AEAE",
+    "do_objectID": "6194E5F3-F952-46F1-BFA6-9174EBD7AFF9",
     "height": 56,
     "width": 148,
-    "x": 32,
+    "x": 195,
     "y": 579
   },
   "hasClippingMask": false,
@@ -57,9 +57,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / brandPaddingCenter56Disabled",
-  "nameIsFixed": true,
+  "name": "btn / brandPaddingCenter56",
+  "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DEC365B1-594A-4927-8643-98480E9BE831",
+      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_stringValue",
+      "value": "Share"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,12 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "95560F57-1CC9-42DD-94D5-76C8E1B6136D",
+    "do_objectID": "4AA1E858-8982-4334-9CC1-AB42DC37EA4A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B3DD6CB2-2B20-449A-914A-4FB094856FF1",
+  "symbolID": "5D94CC25-4CFC-49F5-9AAA-4ECA5676BA1E",
   "verticalSpacing": 0
 }

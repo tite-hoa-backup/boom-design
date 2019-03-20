@@ -75,11 +75,6 @@
       "saturation": 1,
       "type": 0
     },
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.78
-    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

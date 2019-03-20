@@ -64,10 +64,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "212DFE6B-52E9-4B80-8B52-48A213FEF24B"
-    },
-    {
-      "class": "symbolInstance",
       "id": "BCDEA567-B9DC-413B-99D4-964770D41DCD"
     },
     {
@@ -81,6 +77,14 @@
     {
       "class": "symbolInstance",
       "id": "26239B62-95A9-4B05-A275-ADC1D48E6A02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AD2DB7E-F721-47FD-9780-A4AEBD8533B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29D809DE-74DB-457F-922C-DAD519B3EF58"
     }
   ],
   "name": "prize / finishedPrizeDetails / winnerBefore",
