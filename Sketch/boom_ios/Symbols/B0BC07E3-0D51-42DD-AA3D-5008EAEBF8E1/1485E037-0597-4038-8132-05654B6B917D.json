@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 6,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Payout"
+    "string": "Progress"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -85,7 +85,7 @@
     "x": 16,
     "y": 16
   },
-  "glyphBounds": "{{144, 5}, {56, 17}}",
+  "glyphBounds": "{{135, 5}, {73, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

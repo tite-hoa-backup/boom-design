@@ -63,14 +63,6 @@
       "id": "6660CB62-8DC2-4D7B-AE1C-D5EFBF018FFC"
     },
     {
-      "class": "symbolInstance",
-      "id": "4D02F575-0EF3-4287-8498-7FFAE142AF5D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "804ADC3A-5F1F-4C0B-909D-C4765AA20601"
-    },
-    {
       "class": "text",
       "id": "3C9CCD6B-74CA-4053-9D60-264E5DA87186"
     },
@@ -84,10 +76,30 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EFBDE040-3205-4DAD-BC29-FC54C0D1F06A"
+      "id": "B6C63C5F-3FB7-418F-9A73-FC912B994EFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC1A4CE1-07D9-47AB-A482-3CABE0239A22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "924A0EE3-6568-4478-A7B8-15805D86A0B6"
+    },
+    {
+      "class": "text",
+      "id": "AE84DD3B-4800-4979-BE4D-EA9DE6B5900E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "153FD845-B007-4267-A11B-B89051FDC79D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "095ED303-BE91-4EED-8DE5-4F2E1AF4EED9"
     }
   ],
-  "name": "prize / finishedPrizeDetails / winnerAfter",
+  "name": "prize / finishedPrizeDetails / winnerAfterPopup",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

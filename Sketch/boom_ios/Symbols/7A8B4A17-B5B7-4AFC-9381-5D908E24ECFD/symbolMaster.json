@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 14375,
+  "changeIdentifier": 14403,
   "clippingMaskMode": 0,
   "do_objectID": "7A8B4A17-B5B7-4AFC-9381-5D908E24ECFD",
   "exportOptions": {
@@ -85,15 +85,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A28C1371-1CEE-400E-BD25-042460A6C59E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3A0E0012-25E5-4579-8CBF-738D4BE7AB80"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "471C413A-A3C7-421C-8E37-91BC6F792939"
+      "id": "A9C1E2BE-276B-476B-935F-4C2BBE613074"
     },
     {
       "class": "symbolInstance",
@@ -101,7 +93,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A9C1E2BE-276B-476B-935F-4C2BBE613074"
+      "id": "471C413A-A3C7-421C-8E37-91BC6F792939"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A0E0012-25E5-4579-8CBF-738D4BE7AB80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A28C1371-1CEE-400E-BD25-042460A6C59E"
     }
   ],
   "name": "card / imgIndicators",

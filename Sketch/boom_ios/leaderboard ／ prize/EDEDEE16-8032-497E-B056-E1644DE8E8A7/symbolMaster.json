@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1183,
+  "changeIdentifier": 1329,
   "clippingMaskMode": 0,
   "do_objectID": "EDEDEE16-8032-497E-B056-E1644DE8E8A7",
   "exportOptions": {
@@ -52,10 +52,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "CDB6E289-DB52-412A-80E0-A2E172316099"
-    },
-    {
       "class": "symbolInstance",
       "id": "1A5D7253-7CD9-4F82-9856-0FAFFCF4CD68"
     },
@@ -73,23 +69,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7FFE8529-13AB-4451-846A-0138489E294C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2C0F9F44-7485-41BE-A5CC-0C2522BD9C45"
-    },
-    {
-      "class": "text",
-      "id": "81019B7B-2AC8-4842-9FBF-6081EF470279"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "421904D4-61BD-4A9A-9E7C-461945E33E41"
+      "id": "72305A91-5D0C-4385-BCAB-B01452F04FDA"
     },
     {
       "class": "symbolInstance",
       "id": "9B4E1E4C-32D6-449D-8943-C06B13917CFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "523F1E46-A1EE-4967-A55A-BD7484119D36"
     }
   ],
   "name": "prize / onGoingCampaign",

@@ -109,6 +109,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.78
+    },
     "endMarkerType": 0,
     "fills": [
       {

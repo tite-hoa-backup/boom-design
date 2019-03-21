@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 15,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Your Live Prize"
+    "string": "Has a live prize"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -85,7 +85,7 @@
     "x": 16,
     "y": 8
   },
-  "glyphBounds": "{{0, 4}, {92, 12}}",
+  "glyphBounds": "{{0, 4}, {94, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

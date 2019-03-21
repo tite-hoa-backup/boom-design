@@ -83,7 +83,7 @@
     "height": 24,
     "width": 63,
     "x": 107,
-    "y": 56
+    "y": 64
   },
   "glyphBounds": "{{1, 5}, {62, 16}}",
   "hasClippingMask": false,
@@ -136,5 +136,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

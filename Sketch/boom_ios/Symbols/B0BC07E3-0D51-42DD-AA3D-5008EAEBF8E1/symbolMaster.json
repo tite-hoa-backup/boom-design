@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 307,
+  "changeIdentifier": 434,
   "clippingMaskMode": 0,
   "do_objectID": "B0BC07E3-0D51-42DD-AA3D-5008EAEBF8E1",
   "exportOptions": {
@@ -50,16 +50,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 166,
+    "height": 209,
     "width": 375,
-    "x": 2831,
-    "y": 2361
+    "x": 1445,
+    "y": 2721
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -78,6 +78,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "562CCA8F-37BA-4BE5-9B73-A177552D4C9D"
+    },
     {
       "class": "text",
       "id": "3755DA7E-BC28-4309-A7D4-801673ADEF64"
@@ -111,8 +115,8 @@
       "id": "1485E037-0597-4038-8132-05654B6B917D"
     }
   ],
-  "name": "prize / payoutOngoingResult",
-  "nameIsFixed": false,
+  "name": "prize / payoutOngoingProgress",
+  "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
