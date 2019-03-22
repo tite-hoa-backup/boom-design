@@ -57,20 +57,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "form / setFollowerGainNumberBefore",
+  "name": "form / setFollowerGainNumberAfter",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "B65E630A-F36C-47BB-8C96-74955E0490ED",
-      "overrideName": "15B35E90-96EF-4941-960D-2E428043D70E_stringValue",
-      "value": "0"
+      "do_objectID": "0FB73684-6EC4-417C-B7BC-19F6EA86C671",
+      "overrideName": "610AC37C-3736-48E2-881B-A2F7B223464E_stringValue",
+      "value": "Winners"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8C77B263-AEB5-475A-BDEF-C468004EFF38",
-      "overrideName": "BEEAE838-D661-4BCA-8421-58A80B67F91C_stringValue",
-      "value": "Winners"
+      "do_objectID": "BF0ECB17-E08B-442C-9246-2820F0BF023D",
+      "overrideName": "F8617370-5E63-45FF-8036-BA14AD4EE7F8_stringValue",
+      "value": "10,693"
     }
   ],
   "resizingConstraint": 13,
@@ -86,6 +86,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "2573A98D-AF0F-42B1-BA46-1A371830ED6B",
+  "symbolID": "57A5BA14-F5C1-48E9-9B02-451BD941B914",
   "verticalSpacing": 0
 }
