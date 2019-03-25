@@ -35,7 +35,7 @@
     "do_objectID": "79004ED2-3FE1-48F8-8FE7-EC5FA484B6A7"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,11 +76,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A5DD6CBC-61FA-4E30-A2D9-7C57F55B9BDF"
+      "id": "DE51FC2B-BF72-4C3B-9623-452E0F0182F9"
     },
     {
       "class": "symbolInstance",
-      "id": "DE51FC2B-BF72-4C3B-9623-452E0F0182F9"
+      "id": "9034AF31-E012-4AB2-AD4E-D2854C1C72CF"
     }
   ],
   "name": "prize / createPrizePopupFirstBefore",
