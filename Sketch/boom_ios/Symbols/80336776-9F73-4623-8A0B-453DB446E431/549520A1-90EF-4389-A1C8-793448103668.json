@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 25,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "Sign up by phone or email"
+    "string": "Sign up with phone or email"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -85,7 +85,7 @@
     "x": 16,
     "y": 17
   },
-  "glyphBounds": "{{47, 5}, {185, 16}}",
+  "glyphBounds": "{{40, 5}, {199, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

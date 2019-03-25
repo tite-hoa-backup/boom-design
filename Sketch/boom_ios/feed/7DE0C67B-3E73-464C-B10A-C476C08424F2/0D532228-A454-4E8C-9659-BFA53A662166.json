@@ -28,11 +28,11 @@
             "paragraphSpacing": 1
           }
         },
-        "length": 17,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Register by Email"
+    "string": "Sign up with Email"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -85,7 +85,7 @@
     "x": 16,
     "y": 68
   },
-  "glyphBounds": "{{102, 4}, {139, 18}}",
+  "glyphBounds": "{{97, 4}, {148, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

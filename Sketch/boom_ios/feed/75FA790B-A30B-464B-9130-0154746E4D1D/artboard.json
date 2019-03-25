@@ -91,10 +91,6 @@
     },
     {
       "class": "text",
-      "id": "2487DC12-04EE-4BC9-A8F5-F47CDE89A85A"
-    },
-    {
-      "class": "text",
       "id": "0E67F11C-53DB-41AF-A823-FD96F0092095"
     },
     {
@@ -112,6 +108,10 @@
     {
       "class": "text",
       "id": "CFF422C7-5C56-4EB6-98E4-CA5097F4D5C4"
+    },
+    {
+      "class": "text",
+      "id": "40A770F1-3F81-415E-AB1D-AF462B9E9F5D"
     }
   ],
   "name": "signup / phoneNumber / error",

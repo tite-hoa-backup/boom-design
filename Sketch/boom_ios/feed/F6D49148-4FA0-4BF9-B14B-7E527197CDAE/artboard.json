@@ -98,10 +98,6 @@
       "id": "0F14A065-3001-45E1-BAD8-3B134954D78E"
     },
     {
-      "class": "text",
-      "id": "67F334C5-069C-4D92-99AE-C0C267383076"
-    },
-    {
       "class": "symbolInstance",
       "id": "C7392781-9AB5-480E-9F85-2BD1D90E1778"
     },
@@ -112,6 +108,10 @@
     {
       "class": "text",
       "id": "A70B92BA-D314-45FD-BEC6-1D4F33BCD80F"
+    },
+    {
+      "class": "text",
+      "id": "5C244227-2779-40AD-A652-906B16EC3DFE"
     }
   ],
   "name": "signup / phoneNumber / verificationAfter",

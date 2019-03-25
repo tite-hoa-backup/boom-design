@@ -102,16 +102,16 @@
       "id": "EC58CA3D-748C-4439-AD00-97C61F72E68B"
     },
     {
-      "class": "text",
-      "id": "0ACA4E8A-1823-4E62-A198-B723521F912D"
-    },
-    {
       "class": "symbolInstance",
       "id": "867CB94A-3631-48B9-9DF8-CE695C803EB4"
     },
     {
       "class": "text",
       "id": "07A9FE56-76CB-44CE-8430-3BAE623DEE1D"
+    },
+    {
+      "class": "text",
+      "id": "83BC15A5-4449-43B2-8513-25F9C0591A4F"
     }
   ],
   "name": "signup / phoneNumber / verificationBefore",

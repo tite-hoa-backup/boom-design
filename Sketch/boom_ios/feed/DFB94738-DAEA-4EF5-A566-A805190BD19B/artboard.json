@@ -98,16 +98,16 @@
       "id": "6CF07D82-BCB8-4678-B1A2-7A9B6FCBAC02"
     },
     {
-      "class": "text",
-      "id": "89333F06-7AC3-4C95-92FF-22F4730BA932"
-    },
-    {
       "class": "symbolInstance",
       "id": "1F380012-A5C9-4A8F-8B14-2D14D7B27D9A"
     },
     {
       "class": "text",
       "id": "77617709-7CAC-4860-8C57-A0CDA8C4D825"
+    },
+    {
+      "class": "text",
+      "id": "B5DE1AA0-A699-407D-A312-386D5489FC76"
     }
   ],
   "name": "signup / phoneNumber / after",
