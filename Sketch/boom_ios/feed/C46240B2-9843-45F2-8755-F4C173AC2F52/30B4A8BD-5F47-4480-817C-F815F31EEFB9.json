@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5CAABB55-A774-4796-A374-E26B385F3BF5",
+  "do_objectID": "30B4A8BD-5F47-4480-817C-F815F31EEFB9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6993A56C-5F1C-4C66-8B98-64320ACA2940",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
+    "do_objectID": "142A4247-DDC9-4CA6-BA92-EE82993F1F46",
+    "height": 667,
     "width": 375,
     "x": 0,
-    "y": 68
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,28 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feed / livePrizeProfile",
+  "name": "actionSheet / actionSheetBlack38Layer",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "7EF79C2B-E1F8-4398-B538-4855F9918C64",
-      "overrideName": "CF26268B-F833-47D2-B79D-9C269F052368_stringValue",
-      "value": "Your Live Prize"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "E4B0E718-E92F-40F4-9E56-D0EC5B3A5C7C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C630DC69-5BB6-4955-BFF2-C656D8D86A0E",
+  "symbolID": "4A7706A5-6251-4DE7-9E1E-A692882BAD23",
   "verticalSpacing": 0
 }

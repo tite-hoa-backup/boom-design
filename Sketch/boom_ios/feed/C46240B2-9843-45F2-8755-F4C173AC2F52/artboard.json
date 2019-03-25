@@ -1,20 +1,19 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "DE0E3657-304B-4F73-B532-423140ABF4AF",
+    "do_objectID": "CD62FCA0-E120-4BB8-96AA-2DE8248AAA1E",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 257,
   "clippingMaskMode": 0,
-  "do_objectID": "AC2AA2A1-CDF9-4BCE-A88F-9409800EA95D",
+  "do_objectID": "C46240B2-9843-45F2-8755-F4C173AC2F52",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F0BB7C32-027B-4408-82BE-7C6D929B3A1E",
+    "do_objectID": "56D595FF-2AF0-4F89-B281-84E77E1963F8",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -52,28 +51,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ED898FA7-A338-466F-B38C-66F97129166F",
-    "height": 56,
-    "width": 311,
-    "x": 5587,
-    "y": -357
+    "do_objectID": "F01AA8F5-E5C5-4836-9372-765C8335C473",
+    "height": 667,
+    "width": 375,
+    "x": 1313,
+    "y": 1539
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "67342791-8595-44AB-9E0C-C8F4BFE435F2"
+    "do_objectID": "08CCB6A9-7BD6-4A8E-AC60-214B8D95B8AF"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "2423BE23-AF90-4BF6-B1BC-20E0B8D255C1",
+    "do_objectID": "21F9BB68-376D-4A62-A158-FF646E37C019",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -81,49 +79,63 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "977D0925-0EC3-46DF-B7E6-05A7F8830634"
+      "class": "symbolInstance",
+      "id": "23578CCB-2BD9-4AD4-B8BE-8002BA7A7529"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30B4A8BD-5F47-4480-817C-F815F31EEFB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "014C9492-699F-414E-ACD1-EF46C247E4E1"
     },
     {
       "class": "text",
-      "id": "FBE0AF6F-8365-4B6A-8E93-5A2FA53CB1A4"
-    }
-  ],
-  "name": "btn / brandPaddingCenter56Stroke",
-  "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FBE0AF6F-8365-4B6A-8E93-5A2FA53CB1A4_textStyle"
+      "id": "20125AF2-D7BB-4171-9BDF-98D9D0C4C69B"
     },
     {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FBE0AF6F-8365-4B6A-8E93-5A2FA53CB1A4_stringValue"
+      "class": "symbolInstance",
+      "id": "48B25AD9-485E-493E-B243-4517154EE6C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "528DB44B-3C02-47FA-93C0-3710C4715345"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3603A23-CAEF-4A3E-B329-E2620F143BFA"
     }
   ],
-  "resizesContent": true,
+  "name": "feed / followPopupSheet",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "2C33C69C-4D26-4F3A-B1DD-6FC50E985A8A",
+    "do_objectID": "9929E9B6-F8E0-4E04-A859-64AD5CC12425",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F0A087D5-C8F4-4A42-9BF4-153179FCB4B9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "6813635B-C212-4E1C-A981-B61063975A54",
+    "do_objectID": "8608F7FE-988E-4419-A3CE-B8F5B2B35BC9",
     "guides": [
     ]
   }

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5CAABB55-A774-4796-A374-E26B385F3BF5",
+  "do_objectID": "528DB44B-3C02-47FA-93C0-3710C4715345",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "60AC127A-F4C0-451B-B752-BB3FDC137342",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
-    "width": 375,
-    "x": 0,
-    "y": 68
+    "do_objectID": "B3748220-65A1-45E0-83CF-7E3353F6231C",
+    "height": 56,
+    "width": 311,
+    "x": 32,
+    "y": 515
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,14 +57,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feed / livePrizeProfile",
+  "name": "btn / brandPaddingCenter56",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "7EF79C2B-E1F8-4398-B538-4855F9918C64",
-      "overrideName": "CF26268B-F833-47D2-B79D-9C269F052368_stringValue",
-      "value": "Your Live Prize"
+      "do_objectID": "C07B290E-7632-4213-B728-7DBB43C1C581",
+      "overrideName": "549520A1-90EF-4389-A1C8-793448103668_stringValue",
+      "value": "Follow nickname"
     }
   ],
   "resizingConstraint": 63,
@@ -72,11 +74,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "03DC7573-17A5-4625-AEBA-86A56C76A939",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C630DC69-5BB6-4955-BFF2-C656D8D86A0E",
+  "symbolID": "5D94CC25-4CFC-49F5-9AAA-4ECA5676BA1E",
   "verticalSpacing": 0
 }

@@ -85,10 +85,6 @@
     {
       "class": "symbolInstance",
       "id": "F965EDC4-9A99-4EF0-BD3C-8968EB8742DA"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "375DFF35-2BBC-4E54-97B9-33007D07C689"
     }
   ],
   "name": "prize / createPrizePopupNextBefore",

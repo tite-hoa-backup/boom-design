@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "375DFF35-2BBC-4E54-97B9-33007D07C689",
+  "do_objectID": "48B25AD9-485E-493E-B243-4517154EE6C4",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "028C586D-9C80-46AF-BD90-690955627109",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 343,
-    "x": 16,
-    "y": 276
+    "do_objectID": "D38F95F4-089E-4811-8928-D558F1B86368",
+    "height": 56,
+    "width": 311,
+    "x": 32,
+    "y": 579
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,22 +57,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "form / checkboxLabel",
-  "nameIsFixed": false,
+  "name": "btn / brandPaddingCenter56StrokeGrey",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2D87D7B9-C030-4652-A61E-F5E2D73DCF23",
+      "overrideName": "1BD062B8-834D-4DC5-A67B-116829D0BCCB_stringValue",
+      "value": "Later"
+    }
   ],
-  "resizingConstraint": 13,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "31DF6F8A-D982-421F-9B80-2BA9765FC181",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "168FA8B1-9B29-4D47-94CD-D79F02E7482A",
+  "symbolID": "C4BBC22A-8DC9-4320-A7C6-CC613952CCB6",
   "verticalSpacing": 0
 }

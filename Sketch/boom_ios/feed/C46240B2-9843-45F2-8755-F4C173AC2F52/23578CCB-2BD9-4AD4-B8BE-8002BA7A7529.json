@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5CAABB55-A774-4796-A374-E26B385F3BF5",
+  "do_objectID": "23578CCB-2BD9-4AD4-B8BE-8002BA7A7529",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3A173F30-50EA-4822-9A7D-3AD00C5701B6",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,28 +43,23 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 144,
+    "do_objectID": "1BE12280-BFD1-4CB4-BD7C-B24536CFDCCA",
+    "height": 667,
     "width": 375,
     "x": 0,
-    "y": 68
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "feed / livePrizeProfile",
+  "name": "feed / basic",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "7EF79C2B-E1F8-4398-B538-4855F9918C64",
-      "overrideName": "CF26268B-F833-47D2-B79D-9C269F052368_stringValue",
-      "value": "Your Live Prize"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,11 +68,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0CA15ACD-C3BF-499A-B6CC-0013800BF972",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C630DC69-5BB6-4955-BFF2-C656D8D86A0E",
+  "symbolID": "35121F90-41EA-4928-A0E6-053F2713F119",
   "verticalSpacing": 0
 }
