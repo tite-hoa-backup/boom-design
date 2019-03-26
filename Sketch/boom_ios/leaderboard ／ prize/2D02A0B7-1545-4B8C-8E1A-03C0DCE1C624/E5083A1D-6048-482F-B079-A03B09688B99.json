@@ -77,6 +77,12 @@
       "do_objectID": "2880546E-A322-46ED-8AC6-77E7C9B8DF7E",
       "overrideName": "702E6523-F276-4FA5-87CC-DD03F03B2C84_stringValue",
       "value": "Export"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10ECF158-4C97-48A1-8080-D626171E8885",
+      "overrideName": "5001D0A8-681F-41ED-9622-5F58FF06576A_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

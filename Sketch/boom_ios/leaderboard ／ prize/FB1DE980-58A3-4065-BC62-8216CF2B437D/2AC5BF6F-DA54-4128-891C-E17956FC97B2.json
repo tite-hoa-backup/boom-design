@@ -57,25 +57,31 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / searchBefore",
+  "name": "header / titleCenterTextNextLabelAfter",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "0D2AE3A1-0F0D-49D0-94C7-0B8316B4E9B6",
-      "overrideName": "2A46886B-6DDD-4FCB-9393-8A9768F3A4C6_stringValue",
-      "value": "Prize Details"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "1FBC008A-960F-4595-962F-7B52DF17F07F",
-      "overrideName": "1859C091-39E3-4F55-A468-4E8BDFC495D7/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
+      "do_objectID": "76735E2D-E95F-4D0E-A343-F68886449C77",
+      "overrideName": "7AF853B8-EE80-45C2-9840-93AEEE538B8C/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
       "value": "41FE2736-C363-419D-BF02-E2E74527538F"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "C34B591E-0E0E-4785-9512-8F103E6C626A",
-      "overrideName": "FBBBE698-F5A8-407A-8139-EAF6D8516249_symbolID",
+      "do_objectID": "80FEC55B-D397-4DCB-9387-F7D8554C6B88",
+      "overrideName": "E9F2AEDE-F081-4477-A54B-C335203E5D4D_stringValue",
+      "value": "Prize Details"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B735E918-306F-4A0F-9460-8FFE78C60245",
+      "overrideName": "702E6523-F276-4FA5-87CC-DD03F03B2C84_stringValue",
+      "value": "Rules"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3107E492-9D37-4F0D-976E-DE45D02060CC",
+      "overrideName": "5001D0A8-681F-41ED-9622-5F58FF06576A_symbolID",
       "value": ""
     }
   ],
@@ -92,6 +98,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7DC86DDF-A78C-4A75-84F2-CAD07347042B",
+  "symbolID": "4729492F-C74A-49C6-9DBA-215E6185CFFE",
   "verticalSpacing": 0
 }

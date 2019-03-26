@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "89733C61-1CB7-4FE3-A3EE-FCF61FE85B08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01191729-228E-472D-8858-FA6439EC383F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0583CE04-63CF-440E-AC29-AC71CA388858",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 603
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / userSearchDiscoverList",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AF9EDCC-DEB5-4C34-960B-BDC9813BA5C9",
+      "overrideName": "FAE929CF-C148-4EB2-88E7-F70329FBBDA7/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d6a230a57510a80fd77742c7c094a869d36dd993.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E14BE977-1961-4432-8FD8-5B01B0079858",
+      "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
+      "value": "Gatsharan Sangrota"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B30A387B-47DF-4DC1-9D60-4C39993D8D33",
+      "overrideName": "40A0FD10-742A-4BF8-93E0-994104C7E50F_symbolID",
+      "value": "3C145C25-631F-4420-B1CD-C2A11B2528B9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10DF4A8B-5E6D-4E85-966A-217FB4B21D2E",
+      "overrideName": "40A0FD10-742A-4BF8-93E0-994104C7E50F/7614BE51-BE6E-43CA-BA98-8276FC13D427_stringValue",
+      "value": "Claimed"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5422CC9C-73FD-4CCC-82D9-388F3C468F05",
+      "overrideName": "40A0FD10-742A-4BF8-93E0-994104C7E50F/7614BE51-BE6E-43CA-BA98-8276FC13D427_textStyle",
+      "value": "305E5B89-3A6C-43A3-B555-37DCD2E098A8"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "021C413E-5439-436F-B3F2-239766EE9525",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8951B82-5172-44E2-87FB-6E0B0FE86C7C",
+  "verticalSpacing": 0
+}

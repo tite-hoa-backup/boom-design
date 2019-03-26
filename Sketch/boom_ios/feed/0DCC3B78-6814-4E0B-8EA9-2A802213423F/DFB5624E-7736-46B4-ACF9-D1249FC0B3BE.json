@@ -65,6 +65,12 @@
       "do_objectID": "F342D7F3-560E-405B-A97A-2F11172AD6AB",
       "overrideName": "2A46886B-6DDD-4FCB-9393-8A9768F3A4C6_stringValue",
       "value": "Post"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BAF4A10-5D71-4684-B0A1-0186CC46EA15",
+      "overrideName": "3ED60E73-9CA1-4BBE-A50C-808E027D1989_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 9,

@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACF8BCB1-19DC-413A-A7E3-53A971BC91B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4AD5E46-2215-48C6-A95F-FC7B1E47F9A2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B63DD97-DFDB-48E9-9A42-D7BB00449E49",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 163
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / userInfoFollowList",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3A87893-FEB2-487F-A92A-2CAB1F441862",
+      "overrideName": "FF3896D6-20B1-4DAD-A93B-1555EB4DB2F1/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/44fc43ae822d420f808cae846a3fc0ae53e91db3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "510E6DA4-7783-4BF8-96AA-2A586E32336F",
+      "overrideName": "8EA36332-9ADD-48FB-94D5-61F7ED2728A3_stringValue",
+      "value": "Marco Alves"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50905B15-2951-4317-81A8-74CBA1C8672A",
+      "overrideName": "BB523898-B872-4CA7-B5CE-4E4533772130_symbolID",
+      "value": "02C673FC-2D02-4D35-9A78-19B0851E9510"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A257981-3286-4A91-A68A-DC1711E141D3",
+      "overrideName": "BB523898-B872-4CA7-B5CE-4E4533772130/733F5025-591D-4F68-A6F1-904D00D91A3D_stringValue",
+      "value": "3"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4C2C91BB-85C8-4A70-A054-BD9993803932",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C58BE4E6-E526-46A9-A32C-6E24D0D1DF60",
+  "verticalSpacing": 0
+}
