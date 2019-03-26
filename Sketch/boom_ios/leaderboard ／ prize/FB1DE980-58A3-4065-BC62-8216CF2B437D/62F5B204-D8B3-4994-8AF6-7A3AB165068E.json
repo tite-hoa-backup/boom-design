@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "65A7D380-7227-4DC0-AF47-63AA17C2C0A6",
+  "do_objectID": "62F5B204-D8B3-4994-8AF6-7A3AB165068E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F1FCE6BA-EF91-481B-B8AE-E18456013276",
+    "do_objectID": "CFDCBA4B-D11D-46AF-9CA5-9DF4994212AC",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CBA9451A-EFAA-4945-80FF-E33D2C6DDE47",
+    "do_objectID": "D0D0467B-C57D-4872-96F9-70BE29DD4145",
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 402
+    "y": 282
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -64,7 +64,7 @@
       "_class": "overrideValue",
       "do_objectID": "9CBF2DF0-E4BC-401F-8935-BF2796EA122A",
       "overrideName": "4C063D82-1393-42EC-B63F-5149B1DDC0CE_stringValue",
-      "value": "Payout"
+      "value": "Organizer"
     },
     {
       "_class": "overrideValue",
@@ -92,7 +92,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A1F5D8F8-7DF5-4B14-8430-DC286245B9C0",
+    "do_objectID": "73637F7B-D06A-4803-8218-A79D03369E32",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

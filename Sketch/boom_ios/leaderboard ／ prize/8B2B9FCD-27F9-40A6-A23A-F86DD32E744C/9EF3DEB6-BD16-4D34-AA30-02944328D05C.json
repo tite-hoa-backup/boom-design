@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D876B6A5-9DE5-462F-B01B-40B2F19F2936",
+  "do_objectID": "9EF3DEB6-BD16-4D34-AA30-02944328D05C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DEC67D04-07F7-492D-B56A-DC55E098AAAD",
+    "do_objectID": "699DB70D-84C0-404C-BD1B-EC574690F107",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "07055258-8777-44F8-A411-23AE1790E123",
-    "height": 56,
+    "do_objectID": "867C2D72-4EBF-49E0-B084-6F0D272E4ED5",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 330
+    "y": 450
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,30 +57,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / userSearchDiscoverList",
+  "name": "list / listItemEach",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "5AF9EDCC-DEB5-4C34-960B-BDC9813BA5C9",
-      "overrideName": "FAE929CF-C148-4EB2-88E7-F70329FBBDA7/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/4799cf2cac1fe47e20885e8864365da348cfefa7.png",
-        "_ref_class": "MSImageData"
-      }
+      "do_objectID": "C8EBEFF9-1E60-42E5-8FB6-7F2A10CF9585",
+      "overrideName": "33402A7C-E1C8-43CC-98C3-8D20B7D7AF33_stringValue",
+      "value": "10,000 Followers"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "E14BE977-1961-4432-8FD8-5B01B0079858",
-      "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
-      "value": "Yong Tonghyon"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "7B5DFDD6-A6F9-454E-B589-37BA61C2C5A2",
-      "overrideName": "40A0FD10-742A-4BF8-93E0-994104C7E50F_symbolID",
-      "value": "3C145C25-631F-4420-B1CD-C2A11B2528B9"
+      "do_objectID": "78C7C0BA-8A70-4D3D-BFB6-F9BCB4B52331",
+      "overrideName": "E8BB6242-1188-4635-9878-BCB4152D7E10_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,
@@ -90,12 +80,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BCCA2ABA-697F-4EEF-A829-260037C8A247",
+    "do_objectID": "E4A708FD-7FF3-448C-8BD9-D388EB3CB816",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A8951B82-5172-44E2-87FB-6E0B0FE86C7C",
+  "symbolID": "7B9A2387-8AFD-4A16-89AD-6C6F8AB5B3B5",
   "verticalSpacing": 0
 }

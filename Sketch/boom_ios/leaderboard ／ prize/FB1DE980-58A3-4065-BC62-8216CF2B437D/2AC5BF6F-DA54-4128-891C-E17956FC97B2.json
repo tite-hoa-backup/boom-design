@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "65A7D380-7227-4DC0-AF47-63AA17C2C0A6",
+  "do_objectID": "2AC5BF6F-DA54-4128-891C-E17956FC97B2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "F1FCE6BA-EF91-481B-B8AE-E18456013276",
+    "do_objectID": "56F16354-6261-47A7-9EEA-04E72EFD243A",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CBA9451A-EFAA-4945-80FF-E33D2C6DDE47",
+    "do_objectID": "24FA3916-8D78-4DCE-8B0E-D6742BC5B506",
     "height": 48,
     "width": 375,
     "x": 0,
-    "y": 402
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,31 +57,25 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / header",
-  "nameIsFixed": false,
+  "name": "header / searchBefore",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9CBF2DF0-E4BC-401F-8935-BF2796EA122A",
-      "overrideName": "4C063D82-1393-42EC-B63F-5149B1DDC0CE_stringValue",
-      "value": "Payout"
+      "do_objectID": "0D2AE3A1-0F0D-49D0-94C7-0B8316B4E9B6",
+      "overrideName": "2A46886B-6DDD-4FCB-9393-8A9768F3A4C6_stringValue",
+      "value": "Prize Details"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "302BF4D6-E559-40BE-B0AD-F4EDBD535BFC",
-      "overrideName": "946B5CD3-4429-40DE-BC55-4AB87646C00C_symbolID",
-      "value": ""
+      "do_objectID": "1FBC008A-960F-4595-962F-7B52DF17F07F",
+      "overrideName": "1859C091-39E3-4F55-A468-4E8BDFC495D7/0D5AC57A-37C5-4124-B3C0-CC07FAD3938F_symbolID",
+      "value": "41FE2736-C363-419D-BF02-E2E74527538F"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "57C5C228-CAEE-48BD-8FE1-E1868809FA0A",
-      "overrideName": "3BF157FB-E04F-4DE5-AFDC-63D5DCAE7A25_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "B2EBA4A8-F6C8-4B65-B871-686B800615F9",
-      "overrideName": "C46058B6-3FBC-42F1-AFDE-8EFFE03F8FA3_symbolID",
+      "do_objectID": "C34B591E-0E0E-4785-9512-8F103E6C626A",
+      "overrideName": "FBBBE698-F5A8-407A-8139-EAF6D8516249_symbolID",
       "value": ""
     }
   ],
@@ -92,12 +86,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A1F5D8F8-7DF5-4B14-8430-DC286245B9C0",
+    "do_objectID": "C3623238-A60A-4BED-9458-69101C494F9D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EC301A86-FD96-40B1-A9AB-7016712B705C",
+  "symbolID": "7DC86DDF-A78C-4A75-84F2-CAD07347042B",
   "verticalSpacing": 0
 }

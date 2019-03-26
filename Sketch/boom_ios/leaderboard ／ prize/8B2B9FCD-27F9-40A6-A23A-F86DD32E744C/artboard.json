@@ -76,7 +76,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D876B6A5-9DE5-462F-B01B-40B2F19F2936"
+      "id": "9EF3DEB6-BD16-4D34-AA30-02944328D05C"
     },
     {
       "class": "symbolInstance",
@@ -84,10 +84,18 @@
     },
     {
       "class": "symbolInstance",
+      "id": "D29D15CB-4768-418C-9F8A-A9BF0F7D4B34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "750FE25B-862A-4122-A54F-DAE668B3700A"
+    },
+    {
+      "class": "symbolInstance",
       "id": "E4CC2536-1E19-42E6-AAF0-3CA60EA8F56F"
     }
   ],
-  "name": "prize / beforeVerifiedBasic / prizeDetails",
+  "name": "prize / beforeVerifiedBasic / prizeDetailsBeforeFollow",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
