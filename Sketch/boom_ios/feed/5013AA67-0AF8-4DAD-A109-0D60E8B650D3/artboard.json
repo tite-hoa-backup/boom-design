@@ -62,7 +62,7 @@
     "do_objectID": "3BC8D990-87EE-471D-92A2-A2297ECDC568"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -110,7 +110,7 @@
       "id": "D9076D83-63EA-4BC8-BA26-F01F902A8C24"
     }
   ],
-  "name": "feed / followPopupSheet Copy",
+  "name": "feed / prizeReachedPopupSheet",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

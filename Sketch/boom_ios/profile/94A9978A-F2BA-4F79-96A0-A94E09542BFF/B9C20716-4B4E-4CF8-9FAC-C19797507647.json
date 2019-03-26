@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B9C20716-4B4E-4CF8-9FAC-C19797507647",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4063B39F-2C55-4D63-9C81-6E1C3BBB7F92",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74DB4C30-4E88-4146-8750-EA3BF69A326B",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 603
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / userSearchDiscoverList",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "590DEB28-1AFE-4441-ADDA-95F95AFF18AB",
+      "overrideName": "FAE929CF-C148-4EB2-88E7-F70329FBBDA7/172D6DBF-0F55-4D87-BD3E-1DE8A2F73B2A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1947f5d108b763afb3f7167b0c51620404d3472b.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "718DC988-28F5-4985-81C8-E5B468B0C01A",
+      "overrideName": "35CEDA52-E037-40CD-A00D-5934455A9DA4_stringValue",
+      "value": "Babila Ebwélé"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C008C627-0064-4DB7-B559-5CDAB1CE258C",
+      "overrideName": "40A0FD10-742A-4BF8-93E0-994104C7E50F_symbolID",
+      "value": "3C145C25-631F-4420-B1CD-C2A11B2528B9"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83F1E900-2595-445C-82A6-8F03B4DBA5E8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8951B82-5172-44E2-87FB-6E0B0FE86C7C",
+  "verticalSpacing": 0
+}
