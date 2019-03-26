@@ -57,13 +57,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / brandPaddingCenter56Disabled",
+  "name": "btn / brandPaddingCenter56Stroke",
   "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "9B2EF354-404B-4A39-B0FE-1C97B3D5D3CE",
-      "overrideName": "08BAC3E2-58AB-416A-8924-B20A9DD9837B_stringValue",
+      "do_objectID": "2CBF9A94-9AE6-4852-AD4C-65C626695806",
+      "overrideName": "FBE0AF6F-8365-4B6A-8E93-5A2FA53CB1A4_stringValue",
       "value": "Follow nickname to Play"
     }
   ],
@@ -80,6 +80,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B3DD6CB2-2B20-449A-914A-4FB094856FF1",
+  "symbolID": "F0A087D5-C8F4-4A42-9BF4-153179FCB4B9",
   "verticalSpacing": 0
 }
